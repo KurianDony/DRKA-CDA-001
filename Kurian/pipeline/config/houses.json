@@ -1,0 +1,224 @@
+{
+  "342-cleveland-st-surry-hills": {
+    "canonical_address": "342 Cleveland St, Surry Hills",
+    "match_patterns": [
+      "342 cleveland"
+    ],
+    "exclusions_note": "Other Cleveland St houses exist: 285/287/289/295 (Redfern), 390/394/398 (Surry Hills). Never match bare 'Cleveland'. The house-number-anchored pattern '342 cleveland' excludes them.",
+    "room_codes": [
+      "1104",
+      "1105",
+      "1106",
+      "1107",
+      "1108",
+      "1109",
+      "1110"
+    ],
+    "room_codes_note": "All derived from data; labels confirmed by Kurian 2026-07-05. Letter/second code in a room = separate BED in the same room: #1110 is Room 6B (bed B of Room 6, #1109). 6B closed since 2024 — tenant took both beds.",
+    "room_names": {
+      "1104": "Room 1",
+      "1105": "Room 2",
+      "1106": "Room 3",
+      "1107": "Room 4",
+      "1108": "Room 5",
+      "1109": "Room 6",
+      "1110": "Room 6B (closed)"
+    },
+    "full_window_occupants": {
+      "1106": "James (in place whole window; eviction retracted, real move-out 2026-07-18 is post-window — ruling #2)"
+    },
+    "closed_rooms": {
+      "1110": "Room 6B closed since 2024 — Room 6 tenant takes both beds (ruling #1)"
+    }
+  },
+  "287-cleveland-st-redfern": {
+    "canonical_address": "287 Cleveland St, Redfern",
+    "match_patterns": [
+      "287 cleveland"
+    ],
+    "exclusions_note": "Same street: 285 Cleveland St, Redfern, Redfern; 289 Cleveland St, Redfern, Redfern; 295 Cleveland St, Redfern, Redfern; 342 Cleveland St, Surry Hills, Surry Hills; 390 Cleveland St, Surry Hills, Surry Hills",
+    "room_codes": [
+      "035A",
+      "035B",
+      "037A",
+      "037B",
+      "038B",
+      "039B",
+      "36",
+      "38",
+      "39",
+      "40",
+      "41A",
+      "41B",
+      "039A",
+      "40A",
+      "40B",
+      "41"
+    ],
+    "room_names": {
+      "035A": "Room 1",
+      "035B": "Room 1",
+      "037A": "Room 3",
+      "037B": "Room 3",
+      "038B": "Room 4",
+      "039B": "Room 5",
+      "36": "Room 2",
+      "38": "Room 4",
+      "39": "Room 5",
+      "40": "Room 6",
+      "41A": "Room 7",
+      "41B": "Room 7",
+      "039A": "Room 5",
+      "40A": "Room 6",
+      "40B": "Room 6",
+      "41": "Room 7"
+    },
+    "closed_rooms": {},
+    "missing_code_rooms": [],
+    "company": "CDA",
+    "portfolio": "City",
+    "state": "NSW",
+    "asana_address_id": "1204003179103610",
+    "active": true,
+    "unit_types": [],
+    "room_codes_note": "C3 (A0 gate, 2026-07-05): 038B and 039B are zero-padded BED codes. 038B = bed B of Room 4 (room code 38); 039B = bed B of Room 5 (room code 39). Letter suffix = a bed in the same-numbered room, NOT an extra room. Assumption logged in QUESTIONS-FOR-KURIAN.md; house proceeds past A0 with this documented C3 assumption."
+  },
+  "1-148-liverpool-rd-enfield": {
+    "canonical_address": "1/148 Liverpool Rd, Enfield",
+    "match_patterns": [
+      "148 liverpool"
+    ],
+    "exclusions_note": "Same street: 1/146 Liverpool Rd, Enfield, Enfield; 1/150 Liverpool Rd, Enfield, Enfield; 1/152 Liverpool Rd, Enfield, Enfield; 229 Liverpool Rd, Strathfield, Strathfield; 5/193 Liverpool Rd, Burwood, Burwood",
+    "room_codes": [
+      "431",
+      "432",
+      "433"
+    ],
+    "room_names": {
+      "431": "Room 1",
+      "432": "Room 2",
+      "433": "Room 3"
+    },
+    "closed_rooms": {},
+    "missing_code_rooms": [],
+    "company": "CLS NSW",
+    "portfolio": "Inner West",
+    "state": "NSW",
+    "asana_address_id": "1204088593991711",
+    "active": true,
+    "unit_types": []
+  },
+  "350-marsden-rd-carlingford": {
+    "canonical_address": "350 Marsden Rd, Carlingford",
+    "match_patterns": [
+      "350 marsden"
+    ],
+    "exclusions_note": "",
+    "room_codes": [
+      "1169",
+      "1170",
+      "1171",
+      "1172",
+      "1173",
+      "1174",
+      "1175",
+      "1176"
+    ],
+    "room_names": {
+      "1169": "Room 1",
+      "1170": "Room 2",
+      "1171": "Room 3",
+      "1172": "Room 4",
+      "1173": "Room 5",
+      "1174": "Room 6",
+      "1175": "Room 7",
+      "1176": "Room 8"
+    },
+    "closed_rooms": {
+      "1172": "Room 4 — company field: Closed",
+      "1176": "Room 8 — company field: Closed"
+    },
+    "missing_code_rooms": [],
+    "company": "CLS VIC",
+    "portfolio": "West",
+    "state": "NSW",
+    "asana_address_id": "1207662571359903",
+    "active": true,
+    "unit_types": []
+  },
+  "66-boundary-st-parramatta": {
+    "canonical_address": "66 Boundary St, Parramatta",
+    "match_patterns": [
+      "66 boundary"
+    ],
+    "exclusions_note": "",
+    "room_codes": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "7",
+      "8",
+      "9"
+    ],
+    "room_names": {
+      "10": "Room 4",
+      "11": "Room 5",
+      "12": "Room 6",
+      "13": "Room 7",
+      "7": "Room 1",
+      "8": "Room 2",
+      "9": "Room 3"
+    },
+    "closed_rooms": {},
+    "missing_code_rooms": [],
+    "company": "CDA",
+    "portfolio": "Western Sydney",
+    "state": "NSW",
+    "asana_address_id": "1204003179103606",
+    "active": true,
+    "unit_types": [],
+    "full_window_occupants": {
+      "12": "Room 6 occupant (per post-window move-out 1216188786381563, Rohit Shinde, Due 2026-07-25) — occupied whole audit window; NO in-window move-in/out. Kurian r3: full-window occupant. Pre-window Feb-2025 tasks (Siddharth Bagdey) are out of window."
+    }
+  },
+  "71-therry-street-avalon-beach": {
+    "canonical_address": "71 Therry Street, Avalon Beach",
+    "match_patterns": [
+      "71 therry"
+    ],
+    "exclusions_note": "Task #168 (Jorge Nicolas Martini move-out) uses bare code 168; 168/168A are the same physical room (Room 2, single labelled bed) — 168 aliased to Room 2, not a separate room.",
+    "room_codes": [
+      "167",
+      "168",
+      "168A",
+      "169",
+      "170",
+      "171",
+      "172",
+      "173",
+      "174",
+      "479"
+    ],
+    "room_names": {
+      "167": "Room 1",
+      "168A": "Room 2",
+      "169": "Room 3",
+      "170": "Room 4",
+      "171": "Room 5",
+      "172": "Room 6",
+      "173": "Room 7",
+      "174": "Room 8",
+      "479": "Room 9",
+      "168": "Room 2"
+    },
+    "closed_rooms": {},
+    "missing_code_rooms": [],
+    "company": "CLS NSW",
+    "portfolio": "Northern Beaches",
+    "state": "NSW",
+    "asana_address_id": "1204003181052975",
+    "active": true,
+    "unit_types": []
+  }
+}

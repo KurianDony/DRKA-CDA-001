@@ -1,0 +1,84 @@
+room_code,room_label,event_type,event_date,date_source,tenant,task_id,task_name,section,source,in_window,human_review,flags,match_reason
+10,Room 4,move_in,2025-08-07,due_date,Georgia Louise Jackson & Ratu Epeli Bigitibau,1210974108025005,"Georgia Louise Jackson & Ratu Epeli Bigitibau , Room 4, #10, 66 Boundary St, Parramatta",Completed,movein,yes,yes,transfer_cancel,address+room_code
+10,Room 4,move_out,2025-09-11,due_date,Ratu Epeli Bigitibau,1211321633842981,"Room 4, #10, 66 Boundary St, Parramatta, Georgia Louise Jackson & Ratu Epeli Bigitibau",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+10,Room 4,move_in,2025-09-15,due_date,Michael Brian Adriano,1211349889089732,"Michael Brian Adriano, Room 1, #7, 66 Boundary St, Parramatta",Completed,movein,yes,yes,transfer_cancel,address+room_code
+10,Room 4,move_in,2025-10-18,due_date,Emilien Marc Henri Crolas,1211616103121375,"Emilien Marc Henri Crolas, Room 4, #10, 66 Boundary St, Parramatta",Completed,movein,yes,yes,transfer_cancel,address+room_code
+10,Room 4,move_out,2026-01-10,due_date,Emilien Crolas,1212001736782433,"Room 4, #10, 66 Boundary St, Parramatta, Emilien Marc Henri Crolas",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+10,Room 4,move_in,2026-02-07,due_date,Nikita Narkar,1212768627599880,"Nikita Deepak Narkar, Room 4, #10, 66 Boundary St, Parramatta",Completed,movein,yes,yes,transfer_cancel,address+room_code
+11,Room 5,move_out,2025-07-22,earliest_move_out,Devarsh Lokwani,1210634462854630,"Room 5, #11, 66 Boundary St, Parramatta, Devarsh Lokwani",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+11,Room 5,move_in,2025-08-05,due_date,Gahyeon Kim,1210974321792854,"Gahyeon Kim, Room 5, #11, 66 Boundary St, Parramatta",Completed,movein,yes,yes,transfer_cancel,address+room_code
+11,Room 5,move_out,2025-09-16,earliest_move_out,Gahyeon Kim,1211088064476789,"Room 5, #11, 66 Boundary St, Parramatta, Gahyeon Kim",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+11,Room 5,move_in,2025-10-18,due_date,Thibault Fabien Claude Harmand,1211616168470683,"Thibault Fabien Claude Harmand, Room 5, #11, 66 Boundary St, Parramatta",Completed,movein,yes,yes,transfer_cancel,address+room_code
+11,Room 5,move_out,2026-01-10,due_date,Thibault HARMAND,1212001694753543,"Room 5, #11, 66 Boundary St, Parramatta, Thibault Fabien Claude Harmand",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+11,Room 5,move_in,2026-02-07,due_date,Priyal Mamghadi,1212768578765411,"Priyal Sanjay Mamghadi, Room 5, #11, 66 Boundary St, Parramatta",Completed,movein,yes,yes,transfer_cancel,address+room_code
+13,Room 7,move_out,2025-10-05,due_date_conflict_fallback,Bruno Mc Cubbin Villegas,1211518876691623,"🛠️ Room 7, #13, 66 Boundary St, Parramatta, Bruno Mc Cubbin Villegas",Completed,moveout,yes,yes,transfer_cancel|moveout_date_conflict,address+room_code
+13,Room 7,move_in,2025-10-21,due_date,Aadhvik Oberoi,1211678251809806,"Aadhvik Oberoi, Room 7, #13, 66 Boundary St, Parramatta",Completed,movein,yes,yes,transfer_cancel,address+room_code
+7,Room 1,move_out,2025-09-08,due_date,Saksham Saksham,1211145372664631,"Room 1, #7, 66 Boundary St, Parramatta, Saksham Saksham",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+7,Room 1,move_in,2025-10-03,due_date,Orisi Vasukiwai,1211489491859255,"Orisi Vasukiwai, Room 1, #7, 66 Boundary St, Parramatta",Completed,movein,yes,yes,transfer_cancel,address+room_code
+7,Room 1,move_out,2026-01-03,due_date,Orisi Vasukiwai,1212597849366110,"🔴 Room 1, #7, 66 Boundary St, Parramatta, Orisi Vasukiwai",Completed,moveout,yes,,,address+room_code
+7,Room 1,move_in,2026-02-04,due_date,Tanisha Mathur,1212955775598813,"Tanisha Saurabh Mathur, Room 1, #7, 66 Boundary St, Parramatta",Completed,movein,yes,yes,transfer_cancel,address+room_code
+7,Room 1,move_out,2026-06-20,due_date,Tanisha Saurabh Mathur,1216155071311506,"👍🏼👍🏼 Room 1, #7, 66 Boundary St, Parramatta, Tanisha Saurabh Mathur",Pending Condition Report,moveout,yes,yes,transfer_cancel,address+room_code
+8,Room 2,move_out,2025-09-01,due_date_conflict_fallback,Ananta Debnath,1211087711997455,"Room 2, #8, 66 Boundary St, Parramatta, Ananta Debnath",Completed,moveout,yes,yes,transfer_cancel|moveout_date_conflict,address+room_code
+8,Room 2,move_in,2025-09-04,due_date,James William Gong,1211157258737193,"James William Gong, Room 2, #8, 66 Boundary St, Parramatta",Completed,movein,yes,yes,transfer_cancel,address+room_code
+9,Room 3,move_out,2025-09-22,due_date,Thiviru Gunawardena,1211003906429095,"🛠️ Room 3, #9, 66 Boundary St, Parramatta, Thiviru Dilmith Sanvida Jayathilaka Gunawardena",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+9,Room 3,move_in,2025-10-22,due_date,Priyaanshu Kumra,1211712987243008,"Priyaanshu Kumra, Room 3, #9, 66 Boundary St, Parramatta",Completed,movein,yes,yes,transfer_cancel,address+room_code
+,,maintenance,2025-06-27,created_at,Cleaning for Inspections,1210657090370761,"66 Boundary St, Parramatta, Cleaning for Inspections",Resolved,maintenance,no,,tenant_derived_from_name,address
+,,maintenance,2025-06-30,created_at,Rohit Shinde,1210669793208873,"66 Boundary St, Parramatta - Installation of Shower Door",Resolved,maintenance,no,,,address
+,,maintenance,2025-07-03,created_at,Gahyeon Kim,1210701908745149,"66 Boundary St, Parramatta - Dryer",Resolved,maintenance,yes,,,address
+,,maintenance,2025-07-08,created_at,,1210736654504733,"66 Boundary Street, Parramatta - Smoke Alarms Services 16th July 12:00Pm-3:00PM",Resolved,maintenance,yes,,,address
+,,maintenance,2025-07-16,created_at,Thiviru Gunawardena,1210807438505419,"66 Boundary St, Parramatta - Faulty Alarm",Resolved,maintenance,yes,,,address
+,,maintenance,2025-07-16,created_at,Thiviru Gunawardena,1210807568401065,"[Duplicate] 66 Boundary St, Parramatta, Smoke alarm",Resolved,maintenance,yes,,,address
+,,maintenance,2025-07-21,created_at,,1210840302229741,66 Boundary St Parramatta - Mould Issue,Resolved,maintenance,yes,,,address
+,,maintenance,2025-07-23,created_at,Thiviru Gunawardena,1210866401965926,"66 Boundary St, Parramatta, Clogged toilet / sink",Resolved,maintenance,yes,,,address
+,,maintenance,2025-07-24,created_at,Saksham,1210876177791704,"66 Boundary St, Parramatta - Clogged Sink",Resolved,maintenance,yes,,,address
+,,maintenance,2025-08-01,created_at,Thiviru Gunawardena,1210945419789577,"[Duplicate] 66 Boundary St, Parramatta, Cameras installation",Resolved,maintenance,yes,,,address
+,,maintenance,2025-08-05,created_at,,1210973571937227,"66 Boundary St, Parramatta, Room 4 - Mould issue",Resolved,maintenance,yes,,,address
+,,maintenance,2025-08-07,created_at,Parramatta - Bin Broken,1210983049932294,"66 Boundary St, Parramatta - Bin Broken",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-08-07,created_at,Parramatta- Kitchenware replacement,1210995966784047,"66 Boundary St, Parramatta- Kitchenware replacement",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-08-07,created_at,Mould issue,1210995969572384,"[Duplicate] 66 Boundary St, Parramatta, Mould issue",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-08-18,created_at,Parramatta- Shower head replacement,1211074529881897,"66 Boundary St, Parramatta- Shower head replacement",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-08-18,created_at,Saksham,1211074768169678,"[Duplicate] 66 Boundary St, Parramatta- Bins Issue",Resolved,maintenance,yes,,,address
+,,maintenance,2025-09-10,created_at,Rohit Shinde,1211304841713611,"66 Boundary St, Parramatta- Fridge Cleaning",Resolved,maintenance,yes,,,address
+,,maintenance,2025-09-16,created_at,Parramatta- Fridge not working,1211367313546373,"66 Boundary St, Parramatta- Fridge not working",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,move_in,2025-09-23,due_date,Michael Brian Adriano,1211433880033810,"Michael Brian Landingin Adriano, Room 7, #958, 4 Gay St, Castle Hill",Completed,movein,yes,yes,transfer_cancel,address
+,,maintenance,2025-09-24,created_at,Parramatta - rubbish Pick up,1211448462251369,"66 Boundary St, Parramatta - rubbish Pick up",Resolved,maintenance,yes,,tenant_derived_from_name,address+room_code
+,,maintenance,2025-09-24,created_at,Parramatta - Mould,1211448831347543,"3/66 Boundary St, Parramatta - Mould",Resolved,maintenance,yes,,tenant_derived_from_name,address+room_code
+,,maintenance,2025-09-24,created_at,pealing paint,1211448575323080,"[Duplicate] 66 Boundary St, Parramatta, Minor damage (Doors, walls, pealing paint)",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-09-30,created_at,pealing paint,1211504174191498,"[Duplicate] 66 Boundary St, Parramatta, Minor damage (Doors, walls, pealing paint)",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-10-10,created_at,Parramatta- Multiple Issues,1211606176286633,"66 Boundary St, Parramatta- Multiple Issues",Resolved,maintenance,yes,,tenant_derived_from_name,address+room_code
+,,maintenance,2025-10-17,created_at,Parramatta- Broken Windows,1211669743646758,"5/66 Boundary St, Parramatta- Broken Windows",Resolved,maintenance,yes,,tenant_derived_from_name,address+room_code
+,,maintenance,2025-10-18,created_at,,1211677655770543,"66 Boundary St, Parramatta, Room 4 - Broken Light Switch",Resolved,maintenance,yes,,,address
+,,maintenance,2025-11-03,created_at,Parramatta- Clogged sink,1211818164134643,"66 Boundary St, Parramatta- Clogged sink",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-11-20,created_at,Parramatta- Install lock,1212001271817741,"6/66 Boundary St, Parramatta- Install lock",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-11-25,created_at,James Gong,1212082868357726,"66 Boundary St, Parramatta- Missed Bins",Resolved,maintenance,yes,,,address
+,,maintenance,2025-12-01,created_at,James Gong,1212234471547988,"66 Boundary St, Parramatta - Microwave replacement",Resolved,maintenance,yes,,,address
+,,maintenance,2025-12-10,created_at,James Gong,1212327091820641,"66 Boundary St, Parramatta - Front Yard Cleaning",Resolved,maintenance,yes,,,address
+,,maintenance,2025-12-15,created_at,Rohit Shinde,1212438648142495,"66 Boundary St, Parramatta - Additional Kitchenware",Resolved,maintenance,yes,,,address
+,,maintenance,2025-12-16,created_at,James Gong,1212458389808511,"66 Boundary St, Parramatta - Missed collection (Red Bins)",Resolved,maintenance,yes,,,address
+,,maintenance,2025-12-26,created_at,,1212593031615836,"66 Boundary St, Parramatta - Cleaning Schedule 2026",Routine Cleaning,maintenance,yes,,,address
+,,maintenance,2025-12-26,created_at,Rohit Shinde,1212595043577182,"66 Boundary St, Parramatta - Internet",Resolved,maintenance,yes,,,address
+,,maintenance,2026-02-07,created_at,James Gong,1213122361843278,"Room 2/66 Boundary St, Parramatta - Bed bugs (Charge to occupant)",Resolved,maintenance,yes,,,address
+,,maintenance,2026-02-20,created_at,Nikita Deepak Narkar,1213366985344772,"Room 4/66 Boundary St, Parramatta - Room Issues",Resolved,maintenance,yes,,,address
+,,maintenance,2026-02-23,created_at,Rohit Shinde,1213373054711365,"Room 6/66 Boundary St, Parramatta - Window Blinds Issue",Resolved,maintenance,yes,,,address
+,,maintenance,2026-03-06,created_at,Rohit Shinde,1213563196023471,"Room 6/66 Boundary Street, Parramatta - Bed Bugs",Resolved,maintenance,yes,,,address
+,,maintenance,2026-03-06,created_at,Rohit Shinde,1213561668598759,"[Duplicate] Parramatta, 66 Boundary Street , Pest Control",Resolved,maintenance,yes,,,address
+,,maintenance,2026-03-08,created_at,Rohit Shinde,1213549951964552,"[Duplicate] 66 Boundary St, Parramatta - Lawn Maintenance",Resolved,maintenance,yes,,,address
+,,maintenance,2026-03-15,created_at,Rohit Shinde,1213652884963551,"Room 6/66 Boundary St, Parramatta - Bed Bugs",Resolved,maintenance,yes,,,address
+,,maintenance,2026-03-31,created_at,Lawns   Gardening,1213876756054380,"[Duplicate] Parramatta, 66 boundary st , parramatta , Lawns | Gardening",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-04-13,created_at,Rohit,1214048756428491,"[Duplicate] Parramatta, 66 Boundary Street , Lawns | Gardening",Resolved,maintenance,yes,,,address
+,,maintenance,2026-04-20,created_at,James Gong,1214133694612371,"66 Boundary St, Parramatta - TV Issue",Resolved,maintenance,yes,,,address
+,,maintenance,2026-04-20,created_at,James Gong,1214133540185811,"66 Boundary St, Parramatta - Stove burner not working",Resolved,maintenance,yes,,,address
+,,maintenance,2026-04-20,created_at,James Gong,1214133026861211,"[Duplicate] Parramatta, 66 boundary st parramatta , Lawns | Gardening",Resolved,maintenance,yes,,,address
+,,maintenance,2026-04-21,created_at,Rohit,1214144534725432,"Room 6/66 Boundary St, Parramatta - Broken Wardrobe",Resolved,maintenance,yes,,,address
+,,maintenance,2026-04-24,created_at,Tanisha Mathur,1214253604600548,"66 Boundary St, Parramatta - Dryer Replacement",Resolved,maintenance,yes,,,address
+,,maintenance,2026-04-25,created_at,Nikita Narkar,1214274500329855,"[Duplicate] Parramatta, 66 boundary street, Parramatta, NSW 2150, Dryer",Resolved,maintenance,yes,,,address
+,,maintenance,2026-04-26,created_at,James Gong,1214279852542671,"[Duplicate] Parramatta, 66 boundary st Parramatta, Dryer",Resolved,maintenance,yes,,,address
+,,maintenance,2026-05-05,created_at,Parramatta - Sink drawer,1214531602396955,"66 Boundary St, Parramatta - Sink drawer",Plumbing | Leak | Hot Water,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-05-05,created_at,Parramatta - Bins Collection,1214533458812014,"66 Boundary St, Parramatta - Bins Collection",Bins,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-05-05,created_at,Parramatta - Detached Shower Glass  Laundry Area,1214528683252354,"66 Boundary St, Parramatta - Detached Shower Glass (Laundry Area)",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-05-05,created_at,Parramatta - Council pick up,1214528508163399,"[Duplicate] 66 Boundary St, Parramatta - Council pick up",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-05-11,created_at,Rohit Shinde,1214692346192549,"66 Boundary Street, Parramatta - Lawn Maintenance",Resolved,maintenance,yes,,,address
+,,maintenance,2026-05-11,created_at,Parramatta - Camera Reconnection,1214692383799269,"66 Boundary St, Parramatta - Camera Reconnection",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-05-11,created_at,Rohit Shinde,1214695347714986,"66 Boundary Street, Parramatta - Faucet/taps not working",Resolved,maintenance,yes,,,address
+,,maintenance,2026-05-28,created_at,Rohit Shinde,1215197152148144,"66 Boundary Street, Parramatta - Mould issue (Agent)",Resolved,maintenance,yes,,,address
+,,maintenance,2026-06-27,created_at,Nikita Narkar,1216088271316380,"Room 4/66 Boundary street, Parramatta - Mould issue",Painting / Mould,maintenance,yes,,,address

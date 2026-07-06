@@ -1,0 +1,63 @@
+room_code,room_label,event_type,event_date,date_source,tenant,task_id,task_name,section,source,in_window,human_review,flags,match_reason
+168,Room 2,move_out,2025-11-08,due_date,Jorge Nicolas Martini,1211817345741014,"🛠️ - Room 2, #168, 71 Therry Street, Avalon Beach, Jorge Nicolas Martini",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+168,Room 2,maintenance,2025-11-20,created_at,Avalon Beach - Broken pull cord for blinds,1211999960116467,"Room 2/71 Therry Street, Avalon Beach - Broken pull cord for blinds",Resolved,maintenance,yes,,tenant_derived_from_name,address+room_code
+168,Room 2,move_in,2026-06-15,due_date,Mischa Gabriel Abbott,1215743701942249,"Mischa Gabriel Abbott, Room 2, #168, 71 Therry Street, Avalon Beach",Completed,movein,yes,yes,transfer_cancel|paid_after_move_in_due,address+room_code
+168A,Room 2,move_in,2025-07-01,due_date,José Manuel Rodriguez Sanchez,1210665277197897,"Jose Manuel Rodriguez Sanchez & Jorge Nicolas Martini, Room 2, #168A, 71 Therry Street, Avalon Beach",Completed,movein,yes,yes,transfer_cancel,address+room_code
+168A,Room 2,move_out,2025-07-01,due_date,Ramiro Daniel Brion & Santiago Oscar Nicolas Montiel,1211060861649229,"Room 2, #168A, 71 Therry Street, Avalon Beach, Ramiro Daniel Brion & Santiago Oscar Nicolas Montiel",Completed,moveout,yes,,,address+room_code
+168A,Room 2,move_in,2025-12-08,due_date,Teruya Muramatsu,1212304781816325,"Teruya Muramatsu, Room 2, #168A, 71 Therry Street, Avalon Beach",Completed,movein,yes,yes,transfer_cancel,address+room_code
+168A,Room 2,move_out,2026-06-08,due_date,Teruya Muramatsu,1215197149726619,"Room 2, #168A, 71 Therry Street, Avalon Beach, Teruya Muramatsu",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+170,Room 4,move_out,2026-01-07,override_set_date,Melany Gimenez,1212400034885354,"Room 4, #170, 71 Therry Street, Avalon Beach , Melany Xiomara Gimenez & Diego Martin Aviles",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+170,Room 4,move_in,2026-01-10,due_date,Jayden Mathew Wilkinson,1212735854614604,"Jayden Mathew Wilkinson, Room 4, #170, 71 Therry Street, Avalon Beach",Completed,movein,yes,yes,transfer_cancel,address+room_code
+170,Room 4,move_out,2026-01-26,due_date,Jayden Wilkinson,1212987109464098,"Room 4, #170, 71 Therry Street, Avalon Beach, Jayden Wilkinson",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+170,Room 4,move_in,2026-02-06,due_date,Paolo Alejandro Ferreyra,1213072562373614,"Paolo Alejandro Ferreyra, Room 4, #170, 71 Therry Street, Avalon Beach",Completed,movein,yes,yes,transfer_cancel,address+room_code
+171,Room 5,maintenance,2025-06-21,created_at,pealing paint,1210603129615858,"71 Therry Street, Avalon Beach, Minor damage (Doors, walls, pealing paint)",Resolved,maintenance,no,,tenant_derived_from_name,address+room_code
+171,Room 5,move_out,2026-02-06,due_date,Blake James Lester,1213023485727524,"Room 5, #171, 71 Therry Street, Avalon Beach, Blake James Lester",Completed,moveout,yes,,,address+room_code
+171,Room 5,move_in,2026-03-11,due_date,Joshua Manfred Sauermanin,1213448103027671,"Joshua Manfred Sauermanin, Room 5, #171, 71 Therry Street, Avalon Beach",Completed,movein,yes,yes,transfer_cancel,address+room_code
+171,Room 5,move_in,2026-06-30,due_date,Zarrar Muhammad Khan,1215488996086112,"👍👍Zarrar Muhammad Khan, Room 5, #171, 71 Therry Street, Avalon Beach",Completed,movein,yes,yes,transfer_cancel,address+room_code
+171,Room 5,move_out,2026-06-30,name_date,Joshua Sauermann,1214988906368527,"👍🏼👍🏼  N.T 30 June - Room 5, #171, 71 Therry Street, Avalon Beach, Joshua Manfred Sauermanin",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+172,Room 6,move_out,2026-01-15,earliest_move_out,Ghulam Muhammad Hassan,1212332134588317,"Room 6, #172, 71 Therry Street, Avalon Beach, Ghulam Muhammad Hassan",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+172,Room 6,move_in,2026-01-18,due_date,Owen Bell,1212537461472220,"Owen Philip Bell, Room 6, #172, 71 Therry Street, Avalon Beach",Completed,movein,yes,yes,transfer_cancel,address+room_code
+172,Room 6,maintenance,2026-02-14,created_at,Avalon Beach - Window Blinds Issue,1213264129526219,"Room 6/71 Therry Street, Avalon Beach - Window Blinds Issue",Resolved,maintenance,yes,,tenant_derived_from_name,address+room_code
+172,Room 6,move_in,2026-03-17,due_date,Ghulam Muhammad Hassan,1213563538695232,"Ghulam Muhammad Hassan, Room 6, #172, 71 Therry Street, Avalon Beach",Completed,movein,yes,yes,transfer_cancel,address+room_code
+174,Room 8,move_in,2025-07-02,due_date,Yeray Calvo Billson,1210672370927302,"Yeray Calvo Billson & Juliana Soledad Gardeano Moreira, Room 8, #174, 71 Therry Street, Avalon Beach",Completed,movein,yes,yes,transfer_cancel,address+room_code
+174,Room 8,move_out,2025-10-28,due_date,Juliana soledad gardeano moreira,1211465089994732,"🛠️ Room 8, #174, 71 Therry Street, Avalon Beach, Juliana Soledad Gardeano Moreira",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+174,Room 8,maintenance,2025-10-29,created_at,,1211778881684203,"8/71 Therry Street, Avalon Beach, OCR",Resolved,maintenance,yes,,,address+room_code
+174,Room 8,maintenance,2025-10-29,created_at,Council pick up,1211779028258653,"71 Therry Street, Avalon Beach, Council pick up",Resolved,maintenance,yes,,tenant_derived_from_name,address+room_code
+174,Room 8,move_in,2025-10-31,due_date,Guillermo mellibosky,1211635190453749,"Guillermo Mellibosky, Room 8, #174, 71 Therry Street, Avalon Beach",Completed,movein,yes,yes,transfer_cancel,address+room_code
+174,Room 8,maintenance,2025-10-31,created_at,Curtains blinds replacement,1211802469383826,"[Duplicate] 71 Therry Street, Avalon Beach, Curtains/blinds replacement",Resolved,maintenance,yes,,tenant_derived_from_name,address+room_code
+174,Room 8,move_out,2025-11-17,due_date,Guillermo mellibosky,1211891036228621,"🚦 URGENT SD refund - Room 8, #174, 71 Therry Street, Avalon Beach, Guillermo Mellibosky",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+174,Room 8,move_in,2025-12-10,due_date,Rubén Dario García teliz,1212353725642858,"Ruben Dario Garcia Teliz, Room 8, #174, 71 Therry Street, Avalon Beach",Completed,movein,yes,yes,transfer_cancel,address+room_code
+174,Room 8,maintenance,2025-12-13,created_at,Avalon Beach - Mattress replacement,1212424953508558,"Room 8/71 Therry Street, Avalon Beach - Mattress replacement",Resolved,maintenance,yes,,tenant_derived_from_name,address+room_code
+174,Room 8,move_out,2026-03-25,due_date,Ruben Dario Garcia Teliz,1213730713986936,"AR EVICTED - Room 8, #174, 71 Therry Street, Avalon Beach, Ruben Dario Garcia Teliz",Completed,moveout,yes,,,address+room_code
+174,Room 8,move_in,2026-04-07,due_date,muhammad haroon,1213971084417488,"Muhammad Haroon, Room 8, #174, 71 Therry Street, Avalon Beach",Completed,movein,yes,yes,transfer_cancel,address+room_code
+479,Room 9,move_out,2025-09-05,due_date,Muhammad  Ahmed,1211173126609348,"Room 9, #479, 71 Therry Street, Avalon Beach, Muhammad Ahmed",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+479,Room 9,move_in,2025-09-21,due_date,Jayden Mathew Anthony Wilkinson,1211257085451086,"Jayden Wilkinson, Room 9, #479, 71 Therry Street, Avalon Beach",Completed,movein,yes,yes,transfer_cancel,address+room_code
+479,Room 9,move_out,2026-01-19,due_date,Harrison kukla,1212806681561534,"🛠️ Room 9, #479, 71 Therry Street, Avalon Beach, Harrison Michael Kukla",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+479,Room 9,maintenance,2026-02-05,created_at,,1213131906029125,"Room 9/71 Therry Street, Avalon Beach - Room Furniture",Resolved,maintenance,yes,,,address+room_code
+479,Room 9,move_in,2026-05-11,due_date,Mischa Gabriel Abbott,1214566169446128,"Mischa Gabriel Abbott, Room 9, #479, 71 Therry Street, Avalon Beach",Completed,movein,yes,yes,transfer_cancel,address+room_code
+479,Room 9,move_in,2026-06-29,due_date,Ahmer Noor,1216088775783935,"👍👍Ahmer Noor , Room 9, #479, 71 Therry Street, Avalon Beach",Completed,movein,yes,yes,transfer_cancel,address+room_code
+,,maintenance,2025-06-05,created_at,Agent Routine Inspection,1210458876734425,"71 Therry St, Avalon Beach, Agent Routine Inspection, June 27, 2025, at 11:00AM - 2:00PM",Resolved,maintenance,no,,tenant_derived_from_name,address
+,,maintenance,2025-06-30,created_at,Minor leak,1210671164324447,"71 Therry Street, Avalon Beach, Minor leak",Resolved,maintenance,no,,tenant_derived_from_name,address
+,,maintenance,2025-07-26,created_at,Jorge Nicolás Martini,1210894908444631,"71 Therry Street, Avalon Beach - No hot water",Resolved,maintenance,yes,,,address
+,,maintenance,2025-08-05,created_at,Jorge Nicolás Martini,1210973750148702,"[Duplicate] 71 Therry Street, Avalon Beach, No hot water",Resolved,maintenance,yes,yes,transfer_cancel,address
+,,maintenance,2025-08-14,created_at,Jorge Martini,1211050785150178,"71 Therry Street, Avalon Beach - dryer",Resolved,maintenance,yes,,,address
+,,maintenance,2025-09-26,created_at,Avalon Beach- Cleaning,1211473558977929,"71 Therry Street, Avalon Beach- Cleaning",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-09-30,created_at,Jorge Nicolás Martini,1211506218995821,"71 Therry Street, Avalon Beach - Stove not working",Resolved,maintenance,yes,,,address
+,,maintenance,2025-10-01,created_at,Avalon Beach- House Issues,1211518356431174,"[Duplicate] 71 Therry Street, Avalon Beach- House Issues",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-11-04,created_at,Avalon Beach- Multiple Issues,1211830270102747,"71 Therry Street, Avalon Beach- Multiple Issues",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-11-27,created_at,Avalon Beach - Leak Issue,1212204010946403,"71 Therry Street, Avalon Beach - Leak Issue",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-12-01,created_at,Avalon Beach - Shower head replacement,1212227745627279,"Room 8/71 Therry Street, Avalon Beach - Shower head replacement",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-01-07,created_at,,1212684482180370,"(FSC) 71 Therry Street, Avalon Beach - Cleaning Schedule 2026",Routine Cleaning,maintenance,yes,,,address
+,,maintenance,2026-01-15,created_at,Avalon Beach - Power point Issue,1212820265001101,"Room 8/71 Therry Street, Avalon Beach - Power point Issue",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-01-19,created_at,Blake lester,1212852321781528,"71 Therry Street, Avalon Beach - House Issues",Repairs | Installations,maintenance,yes,,,address
+,,maintenance,2026-01-29,created_at,Smoke Alarm Inspection,1213020416909064,"71 Therry Street, Avalon Beach, Smoke Alarm Inspection, February 13, 2026 - 9:30am-10:30am",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-02-07,created_at,,1213165803483290,"(OCR) Room 5/71 Therry Street, Avalon Beach - Room Issues",Resolved,maintenance,yes,,,address
+,,maintenance,2026-02-07,created_at,Duplicate  Cleaning,1213165180722741,[Duplicate] Cleaning,Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-02-12,created_at,,1213205051747624,"Room 5/71 Therry Street, Avalon Beach - Broken Room Door",Resolved,maintenance,yes,,,address
+,,maintenance,2026-02-12,created_at,Duplicate  Furniture   storage,1213181391942571,[Duplicate] Furniture & storage,Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-02-18,created_at,Paolo Ferreyra,1213322846417481,"Room 4/71 Therry St, Avalon Beach - Ceiling light Bulb Socket issue",Resolved,maintenance,yes,,,address
+,,maintenance,2026-02-20,created_at,James,1213362654232635,"71 Therry Street, Avalon Beach - Lost Key",Resolved,maintenance,yes,,,address
+,,maintenance,2026-02-20,created_at,Paolo Ferreyra,1213370848924227,"Room 4/71 Therry St, Avalon Beach - Bathroom Leak",Resolved,maintenance,yes,,,address
+,,maintenance,2026-03-05,created_at,Paolo Ferreyra,1213554428973483,"71 Therry St, Avalon Beach - Internet",Internet,maintenance,yes,,,address
+,,maintenance,2026-04-20,created_at,,1214131822691887,"71 Therry Street, Avalon Beach, Cleaning for Inspections 2026",Cleaning | Lawn | Rubbish,maintenance,yes,,,address
+,,maintenance,2026-04-20,created_at,Council pick up,1214133485684503,"[Duplicate] Avalon Beach, 71 Therry Street, Avalon Beach, Council pick up",Resolved,maintenance,yes,,tenant_derived_from_name,address

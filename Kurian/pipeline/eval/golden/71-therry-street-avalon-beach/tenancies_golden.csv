@@ -1,0 +1,25 @@
+room_code,tenant,start,end,start_kind,end_kind,start_task,end_task,hr
+168,Jorge Nicolas Martini,,2025-11-08,pre_window,move_out,,1211817345741014,yes
+168,Mischa Gabriel Abbott,2026-06-15,,move_in,ongoing,1215743701942249,,yes
+168A,Ramiro Daniel Brion & Santiago Oscar Nicolas Montiel,,2025-07-01,pre_window,move_out,,1211060861649229,
+168A,José Manuel Rodriguez Sanchez,2025-07-01,,move_in,ongoing,1210665277197897,,yes
+168A,Teruya Muramatsu,2025-12-08,2026-06-08,move_in,move_out,1212304781816325,1215197149726619,yes
+170,Melany Gimenez,,2026-01-07,pre_window,move_out,,1212400034885354,yes
+170,Jayden Wilkinson,2026-01-10,2026-01-26,move_in,move_out,1212735854614604,1212987109464098,yes
+170,Paolo Alejandro Ferreyra,2026-02-06,,move_in,ongoing,1213072562373614,,yes
+171,Blake James Lester,,2026-02-06,pre_window,move_out,,1213023485727524,
+171,Joshua Sauermann,2026-03-11,2026-06-30,move_in,move_out,1213448103027671,1214988906368527,yes
+171,Zarrar Muhammad Khan,2026-06-30,,move_in,ongoing,1215488996086112,,yes
+172,Ghulam Muhammad Hassan,,2026-01-15,pre_window,move_out,,1212332134588317,yes
+172,Owen Bell,2026-01-18,,move_in,ongoing,1212537461472220,,yes
+172,Ghulam Muhammad Hassan,2026-03-17,,move_in,ongoing,1213563538695232,,yes
+174,Juliana soledad gardeano moreira,,2025-10-28,orphan_out,move_out,,1211465089994732,yes
+174,Yeray Calvo Billson,2025-07-02,,move_in,ongoing,1210672370927302,,yes
+174,Guillermo mellibosky,2025-10-31,2025-11-17,move_in,move_out,1211635190453749,1211891036228621,yes
+174,Ruben Dario Garcia Teliz,2025-12-10,2026-03-25,move_in,move_out,1212353725642858,1213730713986936,yes
+174,muhammad haroon,2026-04-07,,move_in,ongoing,1213971084417488,,yes
+479,Muhammad  Ahmed,,2025-09-05,pre_window,move_out,,1211173126609348,yes
+479,Harrison kukla,,2026-01-19,orphan_out,move_out,,1212806681561534,yes
+479,Jayden Mathew Anthony Wilkinson,2025-09-21,,move_in,ongoing,1211257085451086,,yes
+479,Mischa Gabriel Abbott,2026-05-11,,move_in,ongoing,1214566169446128,,yes
+479,Ahmer Noor,2026-06-29,,move_in,ongoing,1216088775783935,,yes

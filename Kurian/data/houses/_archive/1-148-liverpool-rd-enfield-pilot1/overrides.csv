@@ -1,0 +1,6 @@
+task_id,action,reason,ruled_by,ruled_on,date
+1215086767147674,exclude,Cancelled Sale - Non Refundable (Sale Status=Cancelled); not a tenancy event (Abhinav 431),pipeline-pending-Kurian,2026-07-05,
+1213291114470159,exclude,[Duplicate] of 1213450431910672 - Umashankar #433 permanent transfer move-out; keep primary transfer record only,pipeline-pending-Kurian,2026-07-05,
+1213450431910672,promote_move_out,Permanent Room Transfer OUT of Room 3 #433 (Umashankar) effective move-out 2026-03-18; subtask promoted per defect#2 (duplicate 1213291114470159 stays excluded),pilot-orchestrator,2026-07-05,
+1213815366058872,promote_move_out,TEMPORARY OCR/ICR transfer OUT of Room 3 #433 (Diego) effective move-out 2026-04-03; subtask promoted per defect#2,pilot-orchestrator,2026-07-05,
+1212217104104404,set_move_out_date,"Kurian r3: event date = paid-to/billed 2025-12-24 (later-date rule); physical vacate 2025-11-30 is a note not the event date",Kurian-2026-07-05-r3,2026-07-05,2025-12-24

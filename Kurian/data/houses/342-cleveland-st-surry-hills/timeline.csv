@@ -1,0 +1,58 @@
+room_code,room_label,event_type,event_date,date_source,tenant,task_id,task_name,section,source,in_window,human_review,flags,match_reason
+1104,Room 1,move_in,2026-03-19,due_date,Arturo Sandoval Montiel,1213336704246033,"Arturo Sandoval Montiel, Room 1, #1104, 342 Cleveland St, Surry Hills",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1104,Room 1,move_out,2026-03-19,name_date,Blake Withers,1213292306521428,"🛠️ NT March 19 - Room 1, #1104, 342 Cleveland St, Surry Hills, Blake Steven Withers",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+1104,Room 1,maintenance,2026-03-20,created_at,,1213741808022337,"Room 1/342 Cleveland St, Surry Hills - Room issues",Resolved,maintenance,yes,,,address+room_code
+1104,Room 1,maintenance,2026-03-24,created_at,Arturo Sandoval Montiel,1213805328581262,"[Duplicate] Room 1/342 Cleveland St, Surry Hills - Room Issues",Resolved,maintenance,yes,,,address+room_code
+1104,Room 1,maintenance,2026-05-29,created_at,Surry Hills - No ventilation,1215236156436666,"Room 1/342 Cleveland St, Surry Hills - No ventilation",Resolved,maintenance,yes,,tenant_derived_from_name,address+room_code
+1104,Room 1,move_in,2026-06-17,due_date,"Ferréol, Arnaud, Dominique, Emmanuel De la Ville",1215747504394046,"👍👍Ferréol Arnaud Dominique Emmanuel De la Ville, Room 1, #1104, 342 Cleveland St, Surry Hills",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1105,Room 2,move_in,2025-12-10,due_date,Daniel Lewis Walked,1211918450587574,"Daniel Lewis Walker, Room 2, #1105, 342 Cleveland St, Surry Hills",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1105,Room 2,move_out,2025-12-10,name_date,Sebastian Jhair Castro Bohorquez,1211884074937124,"NT Dec 10 - Room 2, #1105, 342 Cleveland St, Surry Hills, Sebastian Jhair Castro Bohorquez",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+1105,Room 2,maintenance,2025-12-10,created_at,Danny Walker,1212331099614544,"Room 2/342 Cleveland St, Surry Hills - Multiple Issues",Resolved,maintenance,yes,,,address+room_code
+1105,Room 2,maintenance,2026-01-09,created_at,Daniel Lewis,1212712680531965,"Room 2/342 Cleveland St, Surry Hills- Multiple Issues",Resolved,maintenance,yes,,,address+room_code
+1105,Room 2,move_out,2026-03-15,due_date,Danny Walker,1213197381147418,"🛠️🛏️ Room 2, #1105, 342 Cleveland St, Surry Hills, Daniel Lewis Walker",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+1105,Room 2,maintenance,2026-03-17,created_at,Surry Hills- Missing Keys,1213712206033473,"2/342 Cleveland St, Surry Hills- Missing Keys",Resolved,maintenance,yes,,tenant_derived_from_name,address+room_code
+1105,Room 2,move_in,2026-03-18,due_date,Wing Ho Wong,1213325865216039,"*Wing Ho Wong, (Mar 18) Room 2, #1105, 342 Cleveland St, Surry Hills; TEMPORARY ROOM (Feb 21) Room 2, #597, 10 England Ave, Marrickville",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1105,Room 2,move_out,2026-06-17,due_date_conflict_fallback,Wing Ho Wong,1215425074500556,"⌛🛌🏻 Room 2, #1105, 342 Cleveland St, Surry Hills, Wing Ho Wong",Completed,moveout,yes,yes,transfer_cancel|moveout_date_conflict,address+room_code
+1105,Room 2,move_in,2026-06-27,due_date,Pablo Andrés Guala González,1215986422441871,"👍👍⬇️CB - Pablo Andrés Guala González, Room 2, #1105, 342 Cleveland St, Surry Hills",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1107,Room 4,move_out,2025-07-20,due_date,Baldiri Vidal,1210449861231261,"Room 4, #1107, 342 Cleveland St, Surry Hills, Baldiri Vidal Correa",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+1107,Room 4,move_in,2025-07-25,due_date,Seanna Maria Merome Connell,1210568602705011,"Seanna Maria Merome Connell, Room 4, #1107, 342 Cleveland St, Surry Hills",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1107,Room 4,move_out,2025-12-04,name_date,Seanna Maria Merome Connell,1211844297626203,"NT Dec 4 - Room 4, #1107, 342 Cleveland St, Surry Hills, Seanna Maria Merome Connell",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+1107,Room 4,move_in,2025-12-05,due_date,Asta nonboe,1211893650555706,"Asta Nonboe, Room 4, #1107, 342 Cleveland St, Surry Hills",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1107,Room 4,move_in,2026-05-09,due_date,Charlotte Jean Rivers,1214286343938847,"Charlotte Jean Rivers, Room 4, #1107, 342 Cleveland St, Surry Hills",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1107,Room 4,move_out,2026-05-09,name_date,Asta Nonboe,1213979489803144,"NT May 9 - Room 4, #1107, 342 Cleveland St, Surry Hills, Asta Nonboe",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+1108,Room 5,move_out,2025-07-12,due_date,Daiana Sivak,1210531290858851,"Room 5, #1108, 342 Cleveland St, Surry Hills, Daiana Stefania Sivak",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+1108,Room 5,move_in,2025-07-16,due_date,Lionel Leonard Soans,1210590070854810,"Lionel Leonard Soans, Room 5, #1108, 342 Cleveland St, Surry Hills",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1109,Room 6,maintenance,2025-06-05,created_at,,1210469592574242,"342 Cleveland St, Room 6A - Mould Issue (Escalated)",Resolved,maintenance,no,,,address+room_code
+1109,Room 6,move_out,2025-07-02,due_date,Lefebvre,1210582488460062,"Room 6a, #1109, 342 Cleveland St, Surry Hills, Adrien Antoine Georges Lefebvre",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+1109,Room 6,move_in,2025-07-16,due_date,Bhomik Walia,1210704312192572,"Bhomik Walia & Yash Walia, Room 6a, #1109, 342 Cleveland St, Surry Hills",Completed,movein,yes,yes,transfer_cancel,address+room_code
+,,maintenance,2025-06-09,created_at,Baldiri Vidal,1210497019187521,"342 Cleveland St, Surry Hills - Cleaning Issue",Resolved,maintenance,no,,,address
+,,maintenance,2025-06-11,created_at,Blocked or broken toilet,1210518496732056,"[Duplicate] 342 Cleveland St, Surry Hills, Blocked or broken toilet",Resolved,maintenance,no,,tenant_derived_from_name,address
+,,maintenance,2025-07-01,created_at,Cleaning for Inspections,1210682010526855,"342 Cleveland St, Surry Hills, Cleaning for Inspections",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-07-03,created_at,Surry Hills - Beeping smoke alarm,1210704229013908,"342 Cleveland St, Surry Hills - Beeping smoke alarm",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-07-14,created_at,Preventive Maintenance,1210784776735769,"342 Cleveland St, Surry Hills, Preventive Maintenance, Jul 15, 2025",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-07-28,created_at,Sebastian Castro,1210899432949486,"342 Cleveland St, Surry Hills - Pest Control",Resolved,maintenance,yes,,,address
+,,maintenance,2025-07-29,created_at,Seanna Maria Merome Connell,1210911151709731,"342 Cleveland St, Room 4 - Leak in the ceiling fan",Resolved,maintenance,yes,,,address
+,,maintenance,2025-07-29,created_at,Seanna Connell,1210911481998141,"[Duplicate] 342 Cleveland St, Surry Hills, Minor leak",Resolved,maintenance,yes,,,address
+,,maintenance,2025-08-10,created_at,Sebastian Castro,1211017102105711,"342 Cleveland St, Surry Hills - Pest Control",Resolved,maintenance,yes,,,address
+,,maintenance,2025-08-13,created_at,Surry Hills - Weeding and Garden Maintenance,1211041275952306,"342 Cleveland St, Surry Hills - Weeding and Garden Maintenance",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-11-01,created_at,Surry Hills - Kitchen Leak,1211810081637572,"342 Cleveland St, Surry Hills - Kitchen Leak",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-12-01,created_at,Surry Hills - Storage Area Modification,1212233921442888,"342 Cleveland St, Surry Hills - Storage Area Modification",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-12-03,created_at,Surry Hills- Full Green Bin,1212274523285754,"342 Cleveland St, Surry Hills- Full Green Bin",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-12-04,created_at,Lionel Soans,1212303351150070,"Room 5/342 Cleveland St, Surry Hills - Main Door Code",Resolved,maintenance,yes,,,address
+,,maintenance,2025-12-26,created_at,Danny Walker,1212595426227361,"342 Cleveland St, Surry Hills - Pest Control (Rats)",Resolved,maintenance,yes,,,address
+,,maintenance,2026-01-04,created_at,,1212644633271914,"342 Cleveland St, Surry Hills - Cleaning Schedule 2026",Routine Cleaning,maintenance,yes,,,address
+,,maintenance,2026-01-13,created_at,Surry Hills - Multiple Issues,1212736914760205,"342 Cleveland St, Surry Hills - Multiple Issues",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-01-26,created_at,NA,1212972492635613,"342 Cleveland St, Surry Hills - Lockbox issue (Storage area)",Resolved,maintenance,yes,,,address
+,,maintenance,2026-02-18,created_at,Daniel Walker,1213319095966826,"342 Cleveland St, Surry Hills - Re-seal holes & Pest Control (cockroaches)",Resolved,maintenance,yes,,,address
+,,maintenance,2026-04-20,created_at,Surry Hills - Weeding,1214130679903839,"[Duplicate] 342 Cleveland St, Surry Hills - Weeding",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-04-28,created_at,Surry Hills - Lawns Maintenance,1214337628693186,"342 Cleveland St, Surry Hills - Lawns Maintenance",Cleaning | Lawn | Rubbish,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-04-28,created_at,Surry Hills - Faucet leak  kitchen   bathroom,1214347814548248,"342 Cleveland St, Surry Hills - Faucet leak (kitchen & bathroom)",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-04-28,created_at,Surry Hills - Broken Cabinet   Shelf  Bathroom GF,1214349388919486,"342 Cleveland St, Surry Hills - Broken Cabinet & Shelf (Bathroom GF)",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-05-06,created_at,Arturo Sandoval Montiel,1214562978650236,"342 Cleveland St, Surry Hills - Pest Control (rat)",Resolved,maintenance,yes,,,address
+,,maintenance,2026-05-12,created_at,Wing Ho Wong,1214735971829254,"Room 2/342 Cleveland St, Surry Hills - Mould issue",Resolved,maintenance,yes,,,address
+,,maintenance,2026-05-21,created_at,Charlotte Rivers,1214987222252103,"[Duplicate] 342 Cleveland St, Surry Hills - Ceiling fan and light stopped working",Resolved,maintenance,yes,,,address
+,,maintenance,2026-05-22,created_at,Surry Hills - Rubbish pick up,1215026715325444,"342 Cleveland St, Surry Hills - Rubbish pick up",Cleaning | Lawn | Rubbish,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-05-25,created_at,Charlotte Rivers,1215093059043366,342 Cleveland Street Surry Hills - fan and light not work,Resolved,maintenance,yes,,,address
+,,maintenance,2026-05-29,created_at,Surry Hills - Smoke alarm,1215243170167023,"342 Cleveland St, Surry Hills - Smoke alarm",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-06-01,created_at,Alan Mayorga,1215270126279596,"342 Cleveland St, Surry Hills - Internet issue",Resolved,maintenance,yes,,,address
+,,maintenance,2026-06-24,created_at,Surry Hills - Rubbish Collection,1215989509830880,"342 Cleveland St, Surry Hills - Rubbish Collection",Cleaning | Lawn | Rubbish,maintenance,yes,,tenant_derived_from_name,address

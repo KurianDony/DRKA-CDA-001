@@ -1,0 +1,7 @@
+task_id,action,reason,ruled_by,ruled_on,room,date
+1214653049426975,exclude,LR lease-renewal stub for James Gong (Room 2 #8) empty no date/payment/room code — not a move-in,pipeline-pending-Kurian,2026-07-05,,
+1213275313176550,exclude,Second LR lease-renewal stub for James Gong (Room 2 #8) empty — not a move-in,pipeline-pending-Kurian,2026-07-05,,
+1211529190796475,exclude,Cancelled Sale (Non-Refundable) Senthuran Room 3 #9 — not a tenancy,pipeline-pending-Kurian,2026-07-05,,
+1211391731924312,exclude,Cancelled Sale (Non-Refundable) Iosefo & Elenoa Room 5 #11 — not a tenancy,pipeline-pending-Kurian,2026-07-05,,
+1211349889089732,reassign_room,"Gap-hunt slot-method: Adriano actual room = Room 1 #7 (his move-in Name AND exit task both say ""Room 1, #7""; transfer prev-room=7). Move-in was mis-coded #10 via the room-sold field. Reassign to 7 so it pairs with the promoted exit and clears the Room 10 double-ongoing.",gap-hunt,2026-07-06,7,
+1211433879109640,promote_move_out,"Gap-hunt: Adriano confirmed PERM transfer OUT of Room 1 #7 to Castle Hill #958 (parent 1211433880033810); Asana-verified completed 2025-09-23 (Move Out updated PME+Portfolio, OCR done, tenant charges endorsed to Accounting). Subtask promoted per defect#2; effective move-out 2025-09-23.",gap-hunt,2026-07-06,,

@@ -1,0 +1,33 @@
+target_kind,tenant,room_code,candidate_task_id,candidate_url,candidate_name,candidate_date,is_subtask,score,already_in_dataset
+T2_missing_movein,Francisco Gustavo Hernandez,035A,1210885582624750,https://app.asana.com/0/0/1210885582624750/f,"Francisco Gustavo Hernandez , Room 1, #035A, 287 Cleveland St, Redfern, Ground Floor",2025-07-27,,4.5,yes
+T1_missing_moveout,CHUNG KAI-MIN,035A,1216088016271631,https://app.asana.com/0/0/1216088016271631/f,"➡️ Room Transfer - Room 1, #640, 128 Denison St, Camperdown, Chun-kai Sun",2026-07-11,yes,2.5,
+T1_missing_moveout,Francisco Gustavo Hernandez,035B,1211422430091752,https://app.asana.com/0/0/1211422430091752/f,"Room 1, #035A, 287 Cleveland St, Redfern, Francisco Gustavo Hernandez",2025-10-25,,5.0,yes
+T1_missing_moveout,Matias Ignacio Rebolledo Rojas,035B,1213752101538946,https://app.asana.com/0/0/1213752101538946/f,"🛠️↔️ TEMP OCR/ICR - Room 1, #035B, 287 Cleveland St, Redfern, Ground Floor, Matias Ignacio Rebolledo Rojas, Ap",2026-04-03,yes,5.0,yes
+T2_missing_movein,Yu Shinnishi,037A,1210548991150648,https://app.asana.com/0/0/1210548991150648/f,"Yu Shinnishi, Room 3, #037A, 287 Cleveland St, Redfern",2025-06-17,,3.5,
+T1_missing_moveout,Jin Hendrix De Castro Vergara,037A,1213589504292986,https://app.asana.com/0/0/1213589504292986/f,"➡️ PERM Room Transfer - Room 1, #035B, 287 Cleveland St, Redfern, Ground Floor, Jin Hendrix De Castro Vergara",2026-03-13,yes,5.0,yes
+T2_missing_movein,Kevin Alejandro Hernandez Gomez,037B,1210500193440319,https://app.asana.com/0/0/1210500193440319/f,"Kevin Alejandro Hernandez Gomez , Room 5, #039B, 287 Cleveland St, Redfern",2025-06-10,,3.0,
+T2_missing_movein,Kevin Alejandro Hernandez Gomez,037B,1211449208334950,https://app.asana.com/0/0/1211449208334950/f,"🛠️ Room 2, #28, 285 Cleveland St, Redfern, Leonardo Gabriel Gutierrez Gomez",2025-09-29,yes,2.5,yes
+T2_missing_movein,Kevin Alejandro Hernandez Gomez,037B,1211323580275313,https://app.asana.com/0/0/1211323580275313/f,"Leonardo Gabriel Gutierrez Gomez, Room 2, #36, 287 Cleveland St, Redfern",2025-09-29,,2.5,yes
+T2_missing_movein,Kevin Alejandro Hernandez Gomez,037B,1210885582624750,https://app.asana.com/0/0/1210885582624750/f,"Francisco Gustavo Hernandez , Room 1, #035A, 287 Cleveland St, Redfern, Ground Floor",2025-07-27,,2.5,yes
+T1_missing_moveout,Dimas Suria Natanegara,037B,1215821222380914,https://app.asana.com/0/0/1215821222380914/f,"Room 5, #39, 287 Cleveland St, Redfern, Sabrina Suriajingga Anjani",2026-06-24,,2.5,yes
+T1_missing_moveout,Dimas Suria Natanegara,037B,1213794350437181,https://app.asana.com/0/0/1213794350437181/f,"➡️ PERM Room Transfer - Room 2, #28, 285 Cleveland St, Redfern, Dimas Suria Natanegara                        ",2026-04-19,,2.5,
+T2_missing_movein,SYED AYAAN HUSSAIN,038B,1211321764289846,https://app.asana.com/0/0/1211321764289846/f,"Syed Ayaan Hussain, Room 4, #38, 287 Cleveland St, Redfern",2025-09-15,,4.5,yes
+T2_missing_movein,Lisa Wilson,36,1210555340680575,https://app.asana.com/0/0/1210555340680575/f,"Lisa Wilson, Room 2, #36, 287 Cleveland St, Redfern",2025-06-23,,4.5,
+T2_missing_movein,Leonardo Gomez,36,1211449208334950,https://app.asana.com/0/0/1211449208334950/f,"🛠️ Room 2, #28, 285 Cleveland St, Redfern, Leonardo Gabriel Gutierrez Gomez",2025-09-29,yes,5.0,yes
+T2_missing_movein,Leonardo Gomez,36,1211323580275313,https://app.asana.com/0/0/1211323580275313/f,"Leonardo Gabriel Gutierrez Gomez, Room 2, #36, 287 Cleveland St, Redfern",2025-09-29,,5.0,yes
+T1_missing_moveout,Leonardo Gabriel Gutierrez Gomez,36,1211929755311339,https://app.asana.com/0/0/1211929755311339/f,"NT Nov 25 - Room 2, #36, 287 Cleveland St, Redfern, Leonardo Gabriel Gutierrez Gomez",2025-11-22,,5.0,yes
+T1_missing_moveout,Leonardo Gabriel Gutierrez Gomez,36,1211449208334950,https://app.asana.com/0/0/1211449208334950/f,"🛠️ Room 2, #28, 285 Cleveland St, Redfern, Leonardo Gabriel Gutierrez Gomez",2025-09-29,yes,5.0,yes
+T2_missing_movein,Federico Monti,38,1210549820686039,https://app.asana.com/0/0/1210549820686039/f,"Federico Monti, Room 4, #038A, 287 Cleveland St, Redfern",2025-06-18,,4.5,
+T1_missing_moveout,Syed Ayaan Hussain,38,1212401032138521,https://app.asana.com/0/0/1212401032138521/f,"Room 4, #038B, 287 Cleveland St, Redfern, SYED AYAAN HUSSAIN",2025-12-15,,5.0,yes
+T1_missing_moveout,MASATO OKAZAKI,40,1211953230993252,https://app.asana.com/0/0/1211953230993252/f,"Room 7, #41, 287 Cleveland St, Redfern, MASATO OKAZAKI",2025-11-17,,5.0,yes
+T2_missing_movein,Zaid Hamsassia,40A,1211763842518318,https://app.asana.com/0/0/1211763842518318/f,"Zaid Hamsassia , Room 6, #40A, 287 Cleveland St, Redfern",2025-10-28,,4.5,yes
+T2_missing_movein,Haroun Zouari Usage Rezgui Zouari,40B,1211763827512289,https://app.asana.com/0/0/1211763827512289/f,"Haroun Zouari Usage Rezgui Zouari, Room 6, #40B, 287 Cleveland St, Redfern, Ground Floor",2025-10-28,,4.5,yes
+T2_missing_movein,MASATO OKAZAKI,41,1210608137094421,https://app.asana.com/0/0/1210608137094421/f,"MASATO OKAZAKI, Room 6, #40, 287 Cleveland St, Redfern, Ground Floor",2025-06-28,,3.0,yes
+T1_missing_moveout,Zaid Hamsassia,41,1212289025013487,https://app.asana.com/0/0/1212289025013487/f,"🔴NT Jan 15 - Room 6, #40A, 287 Cleveland St, Redfern, Zaid Hamsassia",2025-12-12,,3.5,yes
+T1_missing_moveout,Haroun Zouari Usage Rezgui Zouari,41,1212152556949219,https://app.asana.com/0/0/1212152556949219/f,"🛌🔴 Room 6, #40B, 287 Cleveland St, Redfern, Haroun Zouari Usage Rezgui Zouari",2025-12-09,,3.5,yes
+T1_missing_moveout,Haroun Zouari Usage Rezgui Zouari,41,1211917167195053,https://app.asana.com/0/0/1211917167195053/f,"Room 6, #40B, 287 Cleveland St, Redfern  Haroun Zouari Usage Rezgui Zouari",2025-11-19,,3.5,yes
+T3_overocc_moveout,CHUNG KAI-MIN,035A,1216088016271631,https://app.asana.com/0/0/1216088016271631/f,"➡️ Room Transfer - Room 1, #640, 128 Denison St, Camperdown, Chun-kai Sun",2026-07-11,yes,2.5,
+T3_overocc_moveout,Syed Ayaan Hussain,38,1212401032138521,https://app.asana.com/0/0/1212401032138521/f,"Room 4, #038B, 287 Cleveland St, Redfern, SYED AYAAN HUSSAIN",2025-12-15,,5.0,yes
+T3_overocc_moveout,Zaid Hamsassia,41,1212289025013487,https://app.asana.com/0/0/1212289025013487/f,"🔴NT Jan 15 - Room 6, #40A, 287 Cleveland St, Redfern, Zaid Hamsassia",2025-12-12,,3.5,yes
+T3_overocc_moveout,Haroun Zouari Usage Rezgui Zouari,41,1212152556949219,https://app.asana.com/0/0/1212152556949219/f,"🛌🔴 Room 6, #40B, 287 Cleveland St, Redfern, Haroun Zouari Usage Rezgui Zouari",2025-12-09,,3.5,yes
+T3_overocc_moveout,Haroun Zouari Usage Rezgui Zouari,41,1211917167195053,https://app.asana.com/0/0/1211917167195053/f,"Room 6, #40B, 287 Cleveland St, Redfern  Haroun Zouari Usage Rezgui Zouari",2025-11-19,,3.5,yes

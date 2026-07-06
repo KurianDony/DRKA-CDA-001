@@ -1,0 +1,18 @@
+room_code,tenant,start,end,start_kind,end_kind,start_task,end_task,hr,agreed_term_months,stay_days,months_past_term
+10,Ratu Epeli Bigitibau,2025-08-07,2025-09-11,move_in,move_out,1210974108025005,1211321633842981,yes,6.0,35,0
+10,Emilien Crolas,2025-10-18,2026-01-10,move_in,move_out,1211616103121375,1212001736782433,yes,3.0,84,0
+10,Nikita Narkar,2026-02-07,,move_in,ongoing,1212768627599880,,yes,3.0,143,1.7
+11,Devarsh Lokwani,,2025-07-22,pre_window,move_out,,1210634462854630,yes,,,
+11,Gahyeon Kim,2025-08-05,2025-09-16,move_in,move_out,1210974321792854,1211088064476789,yes,3.0,42,0
+11,Thibault HARMAND,2025-10-18,2026-01-10,move_in,move_out,1211616168470683,1212001694753543,yes,3.0,84,0
+11,Priyal Mamghadi,2026-02-07,,move_in,ongoing,1212768578765411,,yes,3.0,143,1.7
+13,Bruno Mc Cubbin Villegas,,2025-10-05,pre_window,move_out,,1211518876691623,yes,,,
+13,Aadhvik Oberoi,2025-10-21,,move_in,ongoing,1211678251809806,,yes,3.0,252,5.3
+7,Saksham Saksham,,2025-09-08,pre_window,move_out,,1211145372664631,yes,,,
+7,Michael Brian Adriano,2025-09-15,2025-09-23,move_in,move_out,1211349889089732,1211433879109640,yes,6.0,8,0
+7,Orisi Vasukiwai,2025-10-03,2026-01-03,move_in,move_out,1211489491859255,1212597849366110,yes,12.0,92,0
+7,Tanisha Saurabh Mathur,2026-02-04,2026-06-20,move_in,move_out,1212955775598813,1216155071311506,yes,3.0,136,1.5
+8,Ananta Debnath,,2025-09-01,pre_window,move_out,,1211087711997455,yes,,,
+8,James William Gong,2025-09-04,,move_in,ongoing,1211157258737193,,yes,6.0,299,3.8
+9,Thiviru Gunawardena,,2025-09-22,pre_window,move_out,,1211003906429095,yes,,,
+9,Priyaanshu Kumra,2025-10-22,,move_in,ongoing,1211712987243008,,yes,6.0,251,2.2

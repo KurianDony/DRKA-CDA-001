@@ -1,0 +1,793 @@
+Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent task,Blocked By (Dependencies),Blocking (Dependencies),Estimated time,Percent allocation,Property Manager,Owner,Cost,Type of Request,(General) House Address ,Area of maintenance,Will be fix by,Priority,Manager Approval ,Who is reporting ,Email Address,Tenant Name,Is this a routine inspection? ,Maintenance coordinator,Tenant's Coordinator,Type of Inspectio ,Room Code,Maintenance Status,Department,Maintenance Zone ,CDA Suburbs ,match_reason,matched_room_codes,event_date,in_window,is_subtask,task_url,flag_transfer_cancel,flag_date_keyword,flag_inconsistency,human_review
+1216028006397981,2026-06-25,,2026-07-02,"1/148 Liverpool Rd, Enfield - Internet Issue",Internet,Grace,grace@cdacoliving.com,,2026-07-02,,"Select your suburb:
+Enfield
+
+Full property address:
+148 Liverpool rd, Enfield, 2136, Sydney, NSW, 
+
+Type of request:
+Internet
+
+In which area do you require maintenance?:
+Common area 
+
+Please provide additional details:
+Wifi has been not working since morning of 25/06/2026.
+
+Occupant name:
+Subhojit
+
+Email address:
+talukdarsubhojit71@gmail.com
+
+Phone number:
+0493541420
+
+———————————————
+This task was submitted through Report a Maintenance Issue
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,Internet,"1/148 Liverpool Rd, Enfield",Common area ,,High - 3 days ,,Other,talukdarsubhojit71@gmail.com,Subhojit,,Grace,Ian,,,Ongoing,,Zone 2,Enfield,address,,2026-06-25,yes,,https://app.asana.com/0/0/1216028006397981/f,,,,
+1216188038818899,2026-07-01,,2026-07-02,"(Back Up plan) 1/148 Liverpool Rd, Enfield - Restart the Internet Issue",,Hakan Dogan,hakan@cdacoliving.com,,2026-07-02,,,,"1/148 Liverpool Rd, Enfield - Internet Issue",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-07-01,no,yes,https://app.asana.com/0/0/1216188038818899/f,,,,
+1214180235693910,2026-04-22,,2026-04-23,"1/148 Liverpool Rd, Enfield - Disorganized dining area",Cleaning | Lawn | Rubbish,Ian Espadilla,ian@cdacoliving.com,,2026-04-25,,"Select the department or team submitting this request:
+Cleaners 
+
+Who is reporting?:
+Daniel Ramirez
+
+Select the suburb:
+Enfield
+
+House Address:
+148 Liverpool Rd
+
+Type of Request:
+Cleaning 
+
+Please indicate room number if the maintenance item is related to a specific room:
+Kitchen 
+
+Please provide more information:
+Hello team 
+
+The tenant keep all common areas very disorganised, specially the kitchen.
+
+Can we send him a warning? 
+
+Thanks 
+
+Email address:
+pmcity@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,Cleaning ,"1/148 Liverpool Rd, Enfield",,,High - 3 days ,,Daniel Ramirez,,,,Grace,Ian,,,Ongoing,Cleaners ,Zone 2,Enfield,address,,2026-04-22,yes,,https://app.asana.com/0/0/1214180235693910/f,,,,
+1214702308131749,2026-05-11,,2026-05-21,"1/148 Liverpool Rd, Enfield - Cleaning Issue",Routine Cleaning,Ian Espadilla,ian@cdacoliving.com,,2026-05-14,,"Select the department or team submitting this request:
+Sales & Leasing Managers
+
+Who is reporting?:
+Other
+
+Name:
+Markell Lantin
+
+Tenant Coordinator:
+Ian
+
+Select the suburb:
+Enfield
+
+House Address:
+148 Liverpool Rd
+
+Type of Request:
+Cleaning 
+
+Please indicate room number if the maintenance item is related to a specific room:
+Common areas - Entrance & Stairs
+
+Please provide more information:
+Hello team, Anton inspected the house and he mentioned the house is vacant, but it’s still very dirty.
+
+Email address:
+markell@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,Cleaning ,"1/148 Liverpool Rd, Enfield",,,High - 3 days ,,Other,,,,Grace,Ian,,,Ongoing,Sales & Leasing Managers,Zone 2,Enfield,address,,2026-05-11,yes,,https://app.asana.com/0/0/1214702308131749/f,,,,
+1214800810967537,2026-05-14,,2026-05-21,"1/148 Liverpool Rd, Enfield - Deep Cleaning (charged to previous tenant)",,Santiago Giraldo ,cleanerscda.08@gmail.com,,,,,,"1/148 Liverpool Rd, Enfield - Cleaning Issue",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-05-14,yes,yes,https://app.asana.com/0/0/1214800810967537/f,,,,
+1214957908205166,2026-05-20,,2026-05-21,"1/148 Liverpool Rd, Enfield - To set out items for Council Pick up ",,Brandon Smith Beltran Gaitan,bbeltran549@gmail.com,,2026-05-21,,,,"1/148 Liverpool Rd, Enfield - Cleaning Issue",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-05-20,yes,yes,https://app.asana.com/0/0/1214957908205166/f,,,,
+1216030177214488,2026-06-25,,2026-07-01,"Room 2 , 1/148 Liverpool Rd, Enfield - Room Crack in the Wall",Repairs | Installations,Grace,grace@cdacoliving.com,,2026-07-05,,"Select your suburb:
+Enfield
+
+Full property address:
+1/148 enfield , liverpool road , room 2
+
+Type of request:
+Minor damage (Doors, walls, pealing paint)
+
+In which area do you require maintenance?:
+My room
+
+Please indicate your room number:
+2
+
+Please provide additional details:
+Hi andy
+
+Wanted to inform that the construction which is going on downstairs has increased the crack which was already on this wall
+
+Occupant name:
+Raghav Khandurie
+
+Email address:
+raghavkhanduries8@gmail.com
+
+Phone number:
+0468300837
+
+———————————————
+This task was submitted through Report a Maintenance Issue
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,"Minor damage (Doors, walls, pealing paint)","1/148 Liverpool Rd, Enfield",My room,,Low - 10 days ,,Other,raghavkhanduries8@gmail.com,Raghav Khandurie,,Grace,Ian,,,Ongoing,,Zone 2,Enfield,address,,2026-06-25,yes,,https://app.asana.com/0/0/1216030177214488/f,,,,
+1215892302355333,2026-06-22,,2026-06-23,"1/148 Liverpool Rd, Enfield - To collect and dispose to Bingo ",,Grace,grace@cdacoliving.com,,2026-06-23,,,,"1/146 Liverpool Rd, Enfield - Council Pick-up",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-06-22,yes,yes,https://app.asana.com/0/0/1215892302355333/f,,,,
+1215851536548541,2026-06-19,2026-06-26,2026-06-26,"1/148 Liverpool Rd, Enfield - Washing machine issue",Resolved,Grace,grace@cdacoliving.com,,2026-06-24,,"Select your suburb:
+Enfield
+
+Full property address:
+I48 liverpool rd, Enfield, 2136, Sydney, NSW
+
+Type of request:
+Washing machine
+
+In which area do you require maintenance?:
+Common area 
+
+Please provide additional details:
+Washing machine leaks water when working.
+
+Occupant name:
+Subhojit Talukdar
+
+Email address:
+talukdarsubhojit71@gmail.com
+
+Phone number:
+0493541420
+
+———————————————
+This task was submitted through Report a Maintenance Issue
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,Washing machine,"1/148 Liverpool Rd, Enfield",Common area ,,Medium - 5 days,,Other,talukdarsubhojit71@gmail.com,Subhojit Talukdar,,Grace,Ian,,,Ongoing,,Zone 2,Enfield,address,,2026-06-19,yes,,https://app.asana.com/0/0/1215851536548541/f,,,,
+1215850515643523,2026-06-19,2026-06-22,2026-06-22,"1/148 Liverpool Rd, Enfield (Room 3)- Missing Bedside Table",Resolved,Ian Espadilla,ian@cdacoliving.com,,2026-06-29,,"Select your suburb:
+Enfield
+
+Full property address:
+Unit 1/ 148 Liverpool rd, Enfield, 2136, Sydney, NSW
+
+Type of request:
+Furniture & storage
+
+In which area do you require maintenance?:
+My room
+
+Please indicate your room number:
+3
+
+Please provide additional details:
+My room is missing a bedside table
+
+Occupant name:
+Subhojit Talukdar
+
+Email address:
+talukdarsubhojit71@gmail.com
+
+Phone number:
+0493541420
+
+———————————————
+This task was submitted through Report a Maintenance Issue
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,Furniture & storage,"1/148 Liverpool Rd, Enfield",My room,,Low - 10 days ,,Other,talukdarsubhojit71@gmail.com,Subhojit Talukdar,,Grace,Ian,,,Ongoing,,Zone 2,Enfield,address,,2026-06-19,yes,,https://app.asana.com/0/0/1215850515643523/f,,,,
+1215851661449949,2026-06-19,2026-06-22,2026-06-22,"1/148 Liverpool Rd, Enfield - Bathroom Door Lock ",Resolved,Grace,grace@cdacoliving.com,,2026-06-22,,"Select your suburb:
+Enfield
+
+Full property address:
+Unit 1/148 Liverpool rd, Enfield, 2136, Sydney, NSW
+
+Type of request:
+Keys and door locks
+
+In which area do you require maintenance?:
+Common area 
+
+Please provide additional details:
+Bathroom lock not working as intended thus bathroom door doesn’t lock
+
+Occupant name:
+Subhojit Talukdar
+
+Email address:
+talukdarsubhojit71@gmail.com
+
+Phone number:
+0493541420
+
+———————————————
+This task was submitted through Report a Maintenance Issue
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,,,Keys and door locks,,Common area ,,High - 3 days ,,,talukdarsubhojit71@gmail.com,Subhojit Talukdar,,Grace,Ian,,,,,Zone 2,Enfield,address,,2026-06-19,yes,,https://app.asana.com/0/0/1215851661449949/f,,,,
+1215876511543983,2026-06-20,2026-06-22,2026-06-22,"1/148 Liverpool Rd, Enfield - Washing machine leaking ",Resolved,Hakan Dogan,hakan@cdacoliving.com,,2026-06-22,,,Maintenance Requests,"1/148 Liverpool Rd, Enfield - Washing machine issue",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-06-20,yes,yes,https://app.asana.com/0/0/1215876511543983/f,,,,
+1215823691057815,2026-06-19,2026-06-22,2026-06-22,"1/148 Liverpool rd, Enfield, Bathroom Door Lock not working  (since you are visiting please also check this) ",Resolved,Hakan Dogan,hakan@cdacoliving.com,,2026-06-22,,,Maintenance Requests,"1/148 Liverpool Rd, Enfield - Bathroom Door Lock ",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-06-19,yes,yes,https://app.asana.com/0/0/1215823691057815/f,,,,
+1214961920990584,2026-05-20,2026-05-25,2026-05-25,"1/148 Liverpool Rd, Enfield - Multiple House Concerns",Resolved,Grace,grace@cdacoliving.com,,2026-05-23,,"Select the department or team submitting this request:
+Cleaners 
+
+Who is reporting?:
+Other
+
+Name:
+Marcela Vasquez
+
+Tenant Coordinator:
+Ian
+
+Select the suburb:
+Enfield
+
+House Address:
+1/148 Liverpool Rd, Enfield
+
+Type of Request:
+Shower head replacement
+
+Please indicate room number if the maintenance item is related to a specific room:
+Bathroom 
+
+Please provide more information:
+Leaks
+
+Email address:
+Cleaner.01c@gmail.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,Shower head replacement,"1/148 Liverpool Rd, Enfield",,,High - 3 days ,,Other,,,,Grace,Ian,,,Ongoing,Cleaners ,Zone 2,Enfield,address,,2026-05-20,yes,,https://app.asana.com/0/0/1214961920990584/f,,,,
+1214989582170046,2026-05-21,2026-05-25,2026-05-25,"1/148 Liverpool Rd, Enfield - Shower heads replacement",Resolved,mariajoseravemartinez@gmail.com,mariajoseravemartinez@gmail.com,,2026-05-22,,,Maintenance Requests,"1/148 Liverpool Rd, Enfield - Multiple House Concerns",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-05-21,yes,yes,https://app.asana.com/0/0/1214989582170046/f,,,,
+1214989582170055,2026-05-21,2026-05-25,2026-05-25,"1/148 Liverpool Rd, Enfield - To collect items for disposal",Resolved,Grace,grace@cdacoliving.com,,,,,Maintenance Requests,"1/148 Liverpool Rd, Enfield - Multiple House Concerns",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-05-21,yes,yes,https://app.asana.com/0/0/1214989582170055/f,,,,
+1214989582170047,2026-05-21,2026-05-25,2026-05-25,"1/148 Liverpool Rd, Enfield - Peeling of paint in the Laundry Area",Resolved,Grace,grace@cdacoliving.com,,,,,Maintenance Requests,"1/148 Liverpool Rd, Enfield - Multiple House Concerns",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-05-21,yes,yes,https://app.asana.com/0/0/1214989582170047/f,,,,
+1214962053230340,2026-05-20,2026-05-21,2026-05-21,"[Duplicate] 1/148 Liverpool Rd, Enfield - To collect items for disposal",Resolved,Ian Espadilla,ian@cdacoliving.com,,2026-05-23,,"Select the department or team submitting this request:
+Cleaners 
+
+Who is reporting?:
+Other
+
+Name:
+Marcela Vasquez
+
+Tenant Coordinator:
+Ian
+
+Select the suburb:
+Enfield
+
+House Address:
+1/148 Liverpool Rd, Enfield
+
+Type of Request:
+Bins
+
+Please indicate room number if the maintenance item is related to a specific room:
+Downstairs 
+
+Please provide more information:
+There is a lot of items and rubbish collected after deep cleaning, please collect it. Note that no one lives in this property. 
+
+Email address:
+Cleaner.01c@gmail.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,Bins,"1/148 Liverpool Rd, Enfield",,,High - 3 days ,,Other,,,,Grace,Ian,,,Ongoing,Cleaners ,Zone 2,Enfield,address,,2026-05-20,yes,,https://app.asana.com/0/0/1214962053230340/f,,,,
+1214961866963716,2026-05-20,2026-05-21,2026-05-21,"[Duplicate] 1/148 Liverpool Rd, Enfield - Peeling of paint in the Laundry Area",Resolved,Ian Espadilla,ian@cdacoliving.com,,2026-05-30,,"Select the department or team submitting this request:
+Cleaners 
+
+Who is reporting?:
+Other
+
+Name:
+Marcela Vasquez
+
+Tenant Coordinator:
+Ian
+
+Select the suburb:
+Enfield
+
+House Address:
+1/148 Liverpool Rd, Enfield
+
+Type of Request:
+Minor damage (Doors, walls, pealing paint)
+
+Please indicate room number if the maintenance item is related to a specific room:
+Laundry
+
+Please provide more information:
+Paling paint behind the laundry machine 
+
+Email address:
+Cleaner.01c@gmail.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,,,"Minor damage (Doors, walls, pealing paint)",,,,Low - 10 days ,,Other,,,,Grace,Ian,,,,Cleaners ,Zone 2,Enfield,address,,2026-05-20,yes,,https://app.asana.com/0/0/1214961866963716/f,,,,
+1214957908205164,2026-05-20,,2026-05-21,"50 Barker Rd Strathfield , Kingsgrove-To transfer fridge (located in storage) to front of 148 Liverpool (council pick up May 22) ",,Brandon Smith Beltran Gaitan,bbeltran549@gmail.com,,2026-05-21,,,,"1/270 Kingsgrove Rd, Kingsgrove-Council pick up (Fridge)",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-05-20,yes,yes,https://app.asana.com/0/0/1214957908205164/f,yes,,,yes
+1213815332013494,2026-03-26,2026-05-11,2026-05-11,"1/148 Liverpool Rd, Enfield, Claygo Issue",Resolved,Ian Espadilla,ian@cdacoliving.com,,2026-03-29,,"Select the department or team submitting this request:
+Sales & Leasing Managers
+
+Who is reporting?:
+Ariadna Parra
+
+Select the suburb:
+Enfield
+
+House Address:
+1/148 Liverpool Rd, Enfield
+
+Type of Request:
+Cleaning 
+
+Please provide more information:
+Ariadna conducted remote inspection and the property is so dirty that the leads are not ocnsidering the property for relocation
+
+Email address:
+louella@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,Cleaning ,"1/148 Liverpool Rd, Enfield",,,High - 3 days ,,Ariadna Parra,,,,,Ian,,,Ongoing,Sales & Leasing Managers,Zone 2,Enfield,address,,2026-03-26,yes,,https://app.asana.com/0/0/1213815332013494/f,yes,,,yes
+1213873498773628,2026-03-30,2026-04-28,2026-05-03,"1/148 Liverpool Rd, Enfield-Keys and door locks",Resolved,Grace,grace@cdacoliving.com,,2026-04-28,,"Select the department or team submitting this request:
+Offboarding
+
+Who is reporting?:
+Other
+
+Please indicate your name:
+Jullian Lim
+
+Select the suburb:
+Enfield
+
+House Address:
+1/148 Liverpool Rd, Enfield
+
+Type of Request:
+Keys and door locks
+
+Please indicate room number if the maintenance item is related to a specific room:
+Room 3, #433, 1/148 Liverpool Rd, Enfield
+
+Please provide more information:
+Hi team, I hope you’re well. 
+
+The tenant was unable to move in on 28 March 2026 due to the missing main door key. Could you kindly check with the other existing tenants, as this is a shared key that should be returned to the lockbox after use?
+
+For context regarding access to the main door:
+A lockbox is available, containing the spare key to the main entrance. The code to unlock the lockbox is “1986.” After using the key, please ensure that it is securely returned to the lockbox.
+
+Once this is resolved, kindly coordinate with Diana from the Onboarding team so she can facilitate the move-in of the new tenant. The tenant is currently staying in a hotel and would appreciate a prompt resolution. Thank you.
+
+Email address:
+jullian@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,Keys and door locks,,,,High - 3 days ,,Other,,,,,Ian,,,,Offboarding,Zone 2,Enfield,address+room_code,433,2026-03-30,yes,,https://app.asana.com/0/0/1213873498773628/f,,,,
+1213878510303230,2026-03-30,,2026-03-30,"1/150 Liverpool Rd, Enfield - tenant lockbox location video",,Luisa Bustamante ,luisab@cdacoliving.com,,,,,,"1/148 Liverpool Rd, Enfield-Keys and door locks",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-03-30,yes,yes,https://app.asana.com/0/0/1213878510303230/f,,,,
+1213878510303231,2026-03-30,,2026-03-30,"1/152 Liverpool Rd, Enfield - tenant lockbox location video",,Luisa Bustamante ,luisab@cdacoliving.com,,,,,,"1/148 Liverpool Rd, Enfield-Keys and door locks",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-03-30,yes,yes,https://app.asana.com/0/0/1213878510303231/f,,,,
+1213904752307181,2026-04-02,2026-04-02,2026-04-02,1/148 Liverpool road Enfield- Power Outage,Resolved,Ian Espadilla,ian@cdacoliving.com,,2026-04-05,,"Select your suburb:
+Enfield
+
+Full property address:
+148 Liverpool road Enfield 
+
+Type of request:
+Electrical (lights, powerpoints)
+
+In which area do you require maintenance?:
+My room
+
+Please indicate your room number:
+1/148
+
+Please provide more information:
+There is no electricity in our house
+
+Occupant name:
+Sharayu Sonekar 
+
+Email address:
+Sonekarsharayu@gmail.com
+
+Phone number:
+0481235076
+
+Authorisation to enter the room to undertake maintenance ASAP:
+Yes
+
+———————————————
+This task was submitted through Report a Maintenance Issue
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,"Electrical (lights, powerpoints)","1/148 Liverpool Rd, Enfield",My room,,High - 3 days ,,,Sonekarsharayu@gmail.com,Sharayu Sonekar ,,,Ian,,,,,Zone 2,Enfield,address,,2026-04-02,yes,,https://app.asana.com/0/0/1213904752307181/f,,,,
+1213904753567860,2026-04-02,2026-04-02,2026-04-02,"[Duplicate] Enfield, 148 Liverpool road Enfield 2136, Electrical (lights, powerpoints)",Resolved,Ian Espadilla,ian@cdacoliving.com,,2026-04-05,,"Select your suburb:
+Enfield
+
+Full property address:
+148 Liverpool road Enfield 2136
+
+Type of request:
+Electrical (lights, powerpoints)
+
+In which area do you require maintenance?:
+My room
+
+Please indicate your room number:
+1/148
+
+Please provide more information:
+Dear Sir/Madam,
+
+I would like to inform you that there is no electricity supply at my home. I kindly request you to please check the issue at the earliest and resolve it as soon as possible.
+
+It would be greatly appreciated if you could look into this matter urgently, as it is causing inconvenience.
+
+Thank you for your support.
+
+Yours sincerely,
+
+Occupant name:
+Sharayu Sonekar
+
+Email address:
+Sonekarsharayu@gmail.com
+
+Phone number:
+481235076
+
+Authorisation to enter the room to undertake maintenance ASAP:
+Yes
+
+———————————————
+This task was submitted through Report a Maintenance Issue
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,,,"Electrical (lights, powerpoints)",,My room,,High - 3 days ,,,Sonekarsharayu@gmail.com,Sharayu Sonekar,,,Ian,,,,,Zone 2,Enfield,address,,2026-04-02,yes,,https://app.asana.com/0/0/1213904753567860/f,,,,
+1213873500580976,2026-03-30,2026-04-01,2026-04-01,"1/148 Liverpool Rd, Enfield- Main Door Key not working ",Resolved,,,,,,,Maintenance Requests,"1/148 Liverpool Rd, Enfield-Keys and door locks",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-03-30,yes,yes,https://app.asana.com/0/0/1213873500580976/f,,,,
+1213103843070175,2026-02-07,2026-03-27,2026-04-22,1/148 Liverpool Enfield - Pest Control,Resolved,Ian Espadilla,ian@cdacoliving.com,,2026-03-27,,"Select your suburb:
+Enfield
+
+Full property address:
+1/148 Liverpool Enfield Sydney 
+
+Type of request:
+Pest Control
+
+In which area do you require maintenance?:
+Common area 
+
+Please provide more information:
+There is serious insect problem in this house which affecting hygienic and safety please cleaning whole house because it is so dirty.
+
+Occupant name:
+Sharayu
+
+Email address:
+Sharayusonekar@gmail.com
+
+Phone number:
++61 481 235 076
+
+Authorisation to enter the room to undertake maintenance ASAP:
+Yes
+
+———————————————
+This task was submitted through Report a Maintenance Issue
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,Pest Control,"1/148 Liverpool Rd, Enfield",Common area ,,Medium - 5 days,,,Sharayusonekar@gmail.com,Sharayu,,Grace,Ian,,,,Maintenance,Zone 2,Enfield,address,,2026-02-07,yes,,https://app.asana.com/0/0/1213103843070175/f,,,,
+1213351675149001,2026-02-19,2026-03-09,2026-03-09,1/148 Liverpool Enfield - To empty kitchen cabinets ,Resolved,Darian Mendez,darian@cdacoliving.com,,2026-03-16,,,Maintenance Requests,1/148 Liverpool Enfield - Pest Control,,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-02-19,yes,yes,https://app.asana.com/0/0/1213351675149001/f,,,,
+1213214045494357,2026-02-10,2026-02-11,2026-02-11,"[Duplicate] 1/148 Liverpool Rd, Enfield- Pest Control",Resolved,Rosanna Laarni Arengco,rosanna@cdacoliving.com,,2026-02-15,,"Select your suburb:
+Enfield
+
+Full property address:
+1/148 Liverpool Rd, Enfield 2036
+
+Type of request:
+Pest Control
+
+In which area do you require maintenance?:
+Common area 
+
+Please provide more information:
+Dear Sir/Madam,
+
+
+
+I would like to inform you that there is a serious insect problem in the house, which is affecting hygiene and safety.
+
+
+
+I kindly request that pest control action be taken as soon as possible to resolve this issue.
+
+
+Occupant name:
+Student 
+
+Email address:
+Sonekarsharayu@gmail.com
+
+Phone number:
++61481235076
+
+Authorisation to enter the room to undertake maintenance ASAP:
+Yes
+
+———————————————
+This task was submitted through Report a Maintenance Issue
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,,,Pest Control,,Common area ,,Medium - 5 days,,,Sonekarsharayu@gmail.com,Student ,,,Alyssa,,,,,Zone 2,Enfield,address,,2026-02-10,yes,,https://app.asana.com/0/0/1213214045494357/f,,,,
+1214954297824446,2026-05-20,,2026-05-20,146-148 Liverpool - Battery Replacement  - Lockbox,,mariajoseravemartinez@gmail.com,mariajoseravemartinez@gmail.com,,2026-05-20,,,,Zone 2 - Main Door and Digital Lockbox Battery Replacement ,,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-05-20,yes,yes,https://app.asana.com/0/0/1214954297824446/f,,,,
+1212611921297986,2025-12-30,2026-01-12,2026-01-12,"1/148 Liverpool Rd, Enfield, Smoke Alarm Inspection, Jan 9, 2026 (btwn 12:30pm to 3:30 pm)",Resolved,Rosanna Laarni Arengco,rosanna@cdacoliving.com,,2026-01-09,,"(General) House Address :
+1/148 Liverpool Rd, Enfield
+
+Type of request:
+Smoke Alarm Inspection
+
+Contact person name:
+Smoke Alarm Australia
+
+Contact number:
+0
+
+When would be the inspection?:
+Jan 9, 2026
+
+———————————————
+This task was submitted through Routine Inspections
+https://form.asana.com/?k=BxtV7gLXxTiOxgXBR_gzFw&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,,"1/148 Liverpool Rd, Enfield",,,,,,,,,Grace,Ian,Smoke Alarm Inspection,,,,Zone 2,,address,,2025-12-30,yes,,https://app.asana.com/0/0/1212611921297986/f,,,,
+1212315328643102,2025-12-05,2025-12-12,2025-12-12,"Room 2/1/148 Liverpool Rd, Enfield-Keys and door locks",Resolved,Grace,grace@cdacoliving.com,,2025-12-08,,"Select the department or team submitting this request:
+Offboarding
+
+Who is reporting?:
+Other
+
+Please indicate your name:
+Jullian Lim
+
+House Address:
+1/148 Liverpool Rd, Enfield
+
+Type of Request:
+Keys and door locks
+
+Please indicate room number if the maintenance item is related to a specific room:
+Room 2, #432, 1/148 Liverpool Rd, Enfield
+
+Please provide more information:
+Hi team, just reporting that the spare key is missing as per the cleaner.
+
+Email address:
+jullian@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,Keys and door locks,"1/148 Liverpool Rd, Enfield",,,High - 3 days ,,Other,,,,Grace,Ian,,,,Offboarding,Zone 2,,address+room_code,432,2025-12-05,yes,,https://app.asana.com/0/0/1212315328643102/f,,,,
+1212302355760840,2025-12-05,,2025-12-08,"Room 2/1/148 Liverpool Rd, Enfield-No sparekey for Room 2 ",,,,,,,"https://app.asana.com/app/asana/-/get_asset?asset_id=1212326976331643
+
+
+",,"Room 2/1/148 Liverpool Rd, Enfield-Keys and door locks",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-12-05,yes,yes,https://app.asana.com/0/0/1212302355760840/f,,,,
+1212163730776193,2025-11-27,2025-12-10,2025-12-10,"Rm1/150 Liverpool Rd, Enfield, Cleaning (Full Address) Room 1, #434, 1/150 Liverpool Rd, Enfield, (Occupied - Masaki Nose)",Resolved,Rosanna Laarni Arengco,rosanna@cdacoliving.com,,2025-12-12,,"House Address:
+1/150 Liverpool Rd, Enfield
+
+Type of Request:
+Cleaning 
+
+Tenant Name:
+Masaki Nose
+
+In which area do you require maintenance?:
+My room
+
+Please indicate your room number:
+434
+
+Please provide more information:
+Hi,
+
+I have just moved in, but I am already facing several serious issues.
+
+First, the spare key lockbox code did not work, so I couldn’t open the main door. I was only able to enter because one of the housemates happened to be home and opened the door for me.
+Also, there is no key for my room, which means I cannot lock it when I go out.
+
+Next, I was told during the inspection that the room would be cleaned and the mattress would be professionally cleaned with a cover added. However, there is still a dead cockroach in the exact same place as before, clearly showing that the room was not cleaned at all. The mattress also does not have the cover that was promised.
+
+In addition, the window in my room was left open, and when I tried to close it, I found that it is broken and cannot be closed properly.
+
+I was really looking forward to moving into my new home, so I am extremely disappointed.
+I would like these issues to be resolved as soon as possible.
+
+Thank you.
+
+Email address:
+m.handball0803@gmail.com
+
+Phone number:
+0401175636
+
+Authorisation to enter the room to undertake maintenance ASAP:
+Yes
+
+———————————————
+This task was submitted through Tenants Maintenance Requests
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,Cleaning ,"1/148 Liverpool Rd, Enfield",My room,,High - 3 days ,,,m.handball0803@gmail.com,Masaki Nose,,Grace,Ian,,,,,Zone 2,,address,,2025-11-27,yes,,https://app.asana.com/0/0/1212163730776193/f,,,,
+1211975080353221,2025-11-18,2025-12-09,2025-12-09,"Room 3/1/148 Liverpool Rd, Enfield, Council pick up",Resolved,Grace,grace@cdacoliving.com,,2025-11-23,,"Select the department or team submitting this request:
+Sales & Leasing Managers
+
+Who is reporting?:
+Other
+
+Please indicate your name:
+Markell Lantin
+
+House Address:
+1/148 Liverpool Rd, Enfield
+
+Type of Request:
+Council pick up
+
+Please indicate room number if the maintenance item is related to a specific room:
+Room 3
+
+Please provide more information:
+Hello team, Bryan reported that in Room 3, an air-conditioning unit is currently positioned in the middle of the room and should not be there. We are requesting that the AC unit be removed. Thank you 🙏
+
+Email address:
+markell@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,Council pick up,"1/148 Liverpool Rd, Enfield",,,Medium - 5 days,,Other,,,,Grace,Ian,,,,Sales & Leasing Managers,Zone 2,,address,,2025-11-18,yes,,https://app.asana.com/0/0/1211975080353221/f,,,,
+1211975080932959,2025-11-18,,2025-11-22,"1/148 Liverpool Rd, Enfield, Council pick up - Arrange maintenance person to organise items for collection ",,Rosanna Laarni Arengco,rosanna@cdacoliving.com,,2025-11-22,,,,"Room 3/1/148 Liverpool Rd, Enfield, Council pick up",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-11-18,yes,yes,https://app.asana.com/0/0/1211975080932959/f,,,,
+1211975080932973,2025-11-18,,2025-11-24,"1/148 Liverpool Rd, Enfield, Council pick up - Check if council pick up was done ",,Rosanna Laarni Arengco,rosanna@cdacoliving.com,,2025-11-24,,,,"Room 3/1/148 Liverpool Rd, Enfield, Council pick up",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-11-18,yes,yes,https://app.asana.com/0/0/1211975080932973/f,,,,
+1211961588409278,2025-11-18,2025-12-08,2025-12-08,"1/148 Liverpool Rd, Enfield, removal of Aircon Unit (needs 2 people) ",Resolved,Rosanna Laarni Arengco,rosanna@cdacoliving.com,,2025-12-04,,,Maintenance Requests,"Room 3/1/148 Liverpool Rd, Enfield, Council pick up",,,,,,CLS NSW - James,,,,,,,,,,,,,,,,,,,,address,,2025-11-18,yes,yes,https://app.asana.com/0/0/1211961588409278/f,,,,
+1211999469442598,2025-11-20,2025-11-20,2025-11-20,"1/148 Liverpool Rd, Enfield, Keys and door locks",Resolved,Rosanna Laarni Arengco,rosanna@cdacoliving.com,,2025-11-21,,"Select the department or team submitting this request:
+Offboarding
+
+Who is reporting?:
+Ouanne Garme
+
+House Address:
+1/148 Liverpool Rd, Enfield
+
+Type of Request:
+Keys and door locks
+
+Please indicate room number if the maintenance item is related to a specific room:
+1/148 Liverpool Rd, Enfield
+
+Please provide more information:
+As per Cleaner, Pilar, the Manager Lockbox is locked from the inside. It can't be opened.
+
+She is unable to do inspection report for Room 1, #431, 1/148 Liverpool Rd, Enfield
+
+Email address:
+ouanne@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,Keys and door locks,"1/148 Liverpool Rd, Enfield",,,High - 3 days ,,Ouanne Garme,,,,Grace,Ian,,,,Offboarding,Zone 2,,address+room_code,431,2025-11-20,yes,,https://app.asana.com/0/0/1211999469442598/f,,,,
+1210934168070435,2025-07-31,2025-10-21,2025-10-21,"Room 3 - 1/148 Liverpool Rd, Enfield - Room Issues",Resolved,Grace,grace@cdacoliving.com,,2025-10-17,,"Select the department or team submitting this request:
+Offboarding
+
+Who is reporting?:
+Other
+
+Please indicate your name:
+Jullian Lim
+
+House Address:
+1/148 Liverpool Rd, Enfield
+
+Type of Request:
+Minor damage (Doors, walls, pealing paint)
+
+Please indicate room number if the maintenance item is related to a specific room:
+Room 3, #433, 1/148 Liverpool Rd, Enfield
+
+Please provide more information:
+Hi Team, reporting several issues for this room. Thank 
+- Broken desk - The desk has a visible break or crack on the surface. It may need repair.
+- Burned lamp
+- Wall with line of cracks
+- Broken bed - The slats are either misaligned or not properly secured to the frame.
+- Damaged Blinds/Curtains - Curtains appear stained and frayed, with possible tears in the fabric.
+
+Email address:
+jullian@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,"Minor damage (Doors, walls, pealing paint)","1/148 Liverpool Rd, Enfield",,,Low - 10 days ,,Other,,,,Grace,Ian,,,,Offboarding,,,address+room_code,433,2025-07-31,yes,,https://app.asana.com/0/0/1210934168070435/f,,,,
+1210933817845050,2025-07-31,,2025-10-16,"Room 3 - 1/148 Liverpool Rd, Enfield - Wall with line of cracks",,Grace,grace@cdacoliving.com,,2025-09-18,,,,"Room 3 - 1/148 Liverpool Rd, Enfield - Room Issues",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-07-31,yes,yes,https://app.asana.com/0/0/1210933817845050/f,,,,
+1211283220680745,2025-09-08,,2025-09-08,"💥 Room 3 - 1/148 Liverpool Rd, Enfield - Wall with line of cracks",,Grace,grace@cdacoliving.com,,,,,,"Room 3 - 1/148 Liverpool Rd, Enfield - Wall with line of cracks",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-09-08,yes,yes,https://app.asana.com/0/0/1211283220680745/f,,,,
+1211488773413025,2025-09-29,2025-10-16,2025-10-16,"Room 3 - 1/148 Liverpool Rd, Enfield - To check if there was still a wall crack ",Resolved,Pilar,cleaner.002c@gmail.com,,2025-09-29,,,Maintenance Requests,"Room 3 - 1/148 Liverpool Rd, Enfield - Room Issues",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-09-29,yes,yes,https://app.asana.com/0/0/1211488773413025/f,,,,
+1211321186860476,2025-09-11,2025-09-19,2025-09-19,148 Liverpool - Bathroom Mold Issues ,Resolved,Alejandro Moreno ,alejandromorenoinge2@gmail.com,,2025-09-16,,,Maintenance Requests,"146, 148, 150 and 152 Liverpool Rd - Full House Mold and Leak Inspection ",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-09-11,yes,yes,https://app.asana.com/0/0/1211321186860476/f,,,,
+1211369233696033,2025-09-16,2025-09-17,2025-09-17,148 Liverpool - Moldy Bathroom Curtain Replacement,Resolved,Alison ariel pitrovski,Alisonpitrovski@hotmail.com,,2025-09-17,,,Maintenance Requests,"146, 148, 150 and 152 Liverpool Rd - Full House Mold and Leak Inspection ",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-09-16,yes,yes,https://app.asana.com/0/0/1211369233696033/f,,,,
+1210896255942586,2025-07-27,2025-08-14,2025-08-14,"1/148 Liverpool Rd, Enfield - Fridge stopped working",Resolved,Grace,grace@cdacoliving.com,,2025-08-12,,"House Address:
+1/148 Liverpool Rd, Enfield
+
+Type of Request:
+Fridge not working
+
+Tenant Name:
+Hassan Juma 
+
+In which area do you require maintenance?:
+Common area 
+
+Please provide more information:
+The fridge stopped working.
+It has lost its ability to keep things cool.
+It is also making really loud rumbling noises, so we had to switch it off.
+
+Email address:
+sannjuma@gmail.com
+
+Phone number:
+0449283529
+
+Authorisation to enter the room to undertake maintenance ASAP:
+Yes
+
+Email address:
+sannjuma@gmail.com
+
+———————————————
+This task was submitted through Tenants Maintenance Requests
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,Fridge not working,"1/148 Liverpool Rd, Enfield",Common area ,,Urgent - 2 days,,,sannjuma@gmail.com,Hassan Juma ,,Grace,Ian,,,,,,,address,,2025-07-27,yes,,https://app.asana.com/0/0/1210896255942586/f,,,,
+1211004575674899,2025-08-08,2025-08-13,2025-08-14,Room 3 - 1/148 Liverpool Rd. Enfield - Deliver and Install Double Size Mattress and Dispose the queen size mattress ,Resolved,Hakan Dogan,hakan@cdacoliving.com,,2025-08-13,,"    There was a double size mattress in 50 Barker ( 10 mins away)
+    Please install it here at Room 3 / 148 Liverpool Rd 
+    We need to collect the queen size mattress and leave it in 46 Henly Rd Storage for the mean time - we will wait for a council poick up nearby so it can be collected for free
+",Maintenance Requests,"Room 3 - 1/148 Liverpool Rd, Enfield - Room Issues",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-08-08,yes,yes,https://app.asana.com/0/0/1211004575674899/f,,,,
+1210933817845051,2025-07-31,2025-08-06,2025-08-06,"Room 3 - 1/148 Liverpool Rd, Enfield - Broken bed Disposal ",Resolved,Salim,salim@cdacoliving.com,,2025-08-06,,"https://app.asana.com/0/profile/1207018350459477
+Dispose age green highlighted (owned by previous tenant)
+Installation  of the red highlighted 
+Desk Replacement - Said to eb cracked 
+Curtain Replacement 
+
+https://app.asana.com/app/asana/-/get_asset?asset_id=1210981490816552
+
+
+",Maintenance Requests,"Room 3 - 1/148 Liverpool Rd, Enfield - Room Issues",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-07-31,yes,yes,https://app.asana.com/0/0/1210933817845051/f,,,,
+1210933817845052,2025-07-31,2025-08-06,2025-08-06,"Room 3 - 1/148 Liverpool Rd, Enfield - Damaged Blinds/Curtains - Curtain Replacement ",Resolved,Salim,salim@cdacoliving.com,,2025-08-06,,,Maintenance Requests,"Room 3 - 1/148 Liverpool Rd, Enfield - Room Issues",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-07-31,yes,yes,https://app.asana.com/0/0/1210933817845052/f,,,,
+1210933817845048,2025-07-31,2025-08-06,2025-08-06,"Room 3 - 1/148 Liverpool Rd, Enfield Broken desk - The desk has a visible break or crack on the surface. It may need replacement .",Resolved,Salim,salim@cdacoliving.com,,2025-08-06,,,Maintenance Requests,"Room 3 - 1/148 Liverpool Rd, Enfield - Room Issues",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-07-31,yes,yes,https://app.asana.com/0/0/1210933817845048/f,,,,
+1210933817845049,2025-07-31,2025-08-04,2025-08-05,"Room 3 - 1/148 Liverpool Rd, Enfield - Burned lamp",Resolved,,,,,,,Maintenance Requests,"Room 3 - 1/148 Liverpool Rd, Enfield - Room Issues",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-07-31,yes,yes,https://app.asana.com/0/0/1210933817845049/f,,,,
+1210896255245092,2025-07-27,2025-07-28,2025-07-28,"[Duplicate] 1/148 Liverpool Rd, Enfield, Fridge not working",Resolved,Shane,shane@cdacoliving.com,,2025-07-29,,"House Address:
+1/148 Liverpool Rd, Enfield
+
+Type of Request:
+Fridge not working
+
+Tenant Name:
+Yoshiki Isu
+
+In which area do you require maintenance?:
+Common area 
+
+Please provide more information:
+Fridge makes big noise, and doesn't work properly.
+
+Email address:
+katukun35@gmail.com
+
+Phone number:
+0491104574
+
+Authorisation to enter the room to undertake maintenance ASAP:
+Yes
+
+———————————————
+This task was submitted through Tenants Maintenance Requests
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS NSW - James,,Fridge not working,"1/148 Liverpool Rd, Enfield",Common area ,,Urgent - 2 days,,,katukun35@gmail.com,Yoshiki Isu,,Grace,Ian,,,,,,,address,,2025-07-27,yes,,https://app.asana.com/0/0/1210896255245092/f,,,,
+1210516541488097,2025-06-11,2025-06-12,2025-07-04,"1/152 Liverpool Rd, Enfield - Internet issue (see instruction inside)",Resolved,Alison ariel pitrovski,Alisonpitrovski@hotmail.com,,2025-06-12,,"    Test the wifi if it is working fine thru speediest, if not working fine
+    Locate the wifi extender inside and see the condition (take photo) and let me know if it is working or not, if not we may just need to reset the modem which is located in 148 Liverpool 
+",Maintenance Requests,"1/152 Liverpool Rd, Enfield - Internet issue",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-06-11,no,yes,https://app.asana.com/0/0/1210516541488097/f,,extend,,yes

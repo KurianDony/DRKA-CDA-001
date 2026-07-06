@@ -1,0 +1,42 @@
+room_code,tenant,start,end,start_kind,end_kind,start_task,end_task,hr,agreed_term_months,stay_days,months_past_term
+035A,Francisco Gustavo Hernandez,,2025-10-25,orphan_out,move_out,,1211422430091752,yes,,,
+035A,Tanguy Bernard Gauthier,2025-07-06,,move_in,ongoing,1210720352131274,,yes,3.0,359,8.8
+035A,CHUNG KAI-MIN,2025-07-15,,move_in,ongoing,1210769346658948,,yes,3.0,350,8.5
+035A,Roxx Valeriano,2025-12-21,,move_in,ongoing,1212430575073508,,yes,3.0,191,3.3
+035A,joji hirata,2026-03-28,,move_in,ongoing,1213574534161457,,yes,6.0,94,0
+035B,Leandro Martinez,2025-07-13,2025-07-27,move_in,move_out,1210779407968604,1210894353878878,yes,3.0,14,0
+035B,Francisco Gustavo Hernandez,2025-07-27,,move_in,ongoing,1210885582624750,,yes,3.0,338,8.1
+035B,Jin Hendrix De Castro Vergara,2025-08-08,2026-03-13,move_in,move_out,1210957509085672,1213589504292986,yes,6.0,217,1.1
+035B,Matias Ignacio Rebolledo Rojas,2026-04-03,,move_in,ongoing,1213752002475027,,yes,3.0,88,0
+037A,Yu Shinnishi,,2025-09-23,pre_window,move_out,,1211312533102042,yes,,,
+037A,Edward John Collins,2025-09-26,2025-11-25,move_in,move_out,1211391454281479,1211739356478135,yes,5.0,60,0
+037A,Chanwoo Bae,2025-11-25,2026-03-03,move_in,move_out,1211804434426920,1213307336945589,yes,4.0,98,0
+037A,Jin Hendrix De Castro Vergara,2026-03-13,,move_in,ongoing,1213589118610292,,yes,3.0,109,0.6
+037B,Kevin Alejandro Hernandez Gomez,,2025-06-29,pre_window,move_out,,1210657222258723,,,,
+037B,Santiago Berbotto,2025-08-07,2026-04-19,move_in,move_out,1210875898332448,1213754732145800,yes,6.0,255,2.4
+037B,Dimas Suria Natanegara,2026-04-19,,move_in,ongoing,1213976823034682,,yes,3.0,72,0
+038B,SYED AYAAN HUSSAIN,,2026-01-09,pre_window,move_out,,1212401032138521,yes,,,
+039A,Felipe pellegrini nichio,2025-07-01,2025-09-23,move_in,move_out,1210665280763618,1211097771750722,yes,3.0,84,0
+36,Lisa Wilson,,2025-09-01,pre_window,move_out,,1211310066686372,yes,,,
+36,Leonardo Gomez,2025-09-29,2025-11-22,move_in,move_out,1211323580275313,1211929755311339,yes,6.0,54,0
+36,Javier Abascal Vital,2025-11-25,,move_in,ongoing,1211956952026118,,yes,3.0,217,4.1
+38,Federico Monti,,2025-09-05,pre_window,move_out,,1211255143604148,yes,,,
+38,Syed Ayaan Hussain,2025-09-15,,move_in,ongoing,1211321764289846,,yes,3.0,288,6.5
+38,Inga Kristin H. Lindberg,2025-12-20,2026-05-03,move_in,move_out,1212530466069974,1213754211459532,yes,3.0,134,1.4
+38,Emily Potts,2026-05-03,,move_in,ongoing,1214068620068775,,yes,6.0,58,0
+39,Juan Esteban Cardozo Cuellar,2025-09-25,2025-10-07,move_in,move_out,1211179308040749,1211528388804141,yes,3.0,12,0
+39,Camila Andrea Selin,2025-10-08,2025-10-24,move_in,move_out,1211583777691959,1211667884317328,yes,4.0,16,0
+39,Teigan Jazmine Nolan,2025-10-29,2026-02-10,move_in,move_out,1211747189007141,1212806384421277,yes,3.0,104,0.4
+39,Denis Stein,2026-02-10,2026-05-17,move_in,move_out,1212897256687512,1214146141322644,yes,4.0,96,0
+39,Sabrina Suriajingga Anjani,2026-05-22,2026-06-24,move_in,move_out,1214955384538186,1215821222380914,yes,6.0,33,0
+40,MASATO OKAZAKI,2025-06-28,,move_in,ongoing,1210608137094421,,yes,3.0,367,9.1
+40A,Zaid Hamsassia,,2026-01-15,pre_window,move_out,,1212289025013487,,,,
+40A,Jack Hogan-Finlay,2026-02-02,,move_in,ongoing,1212856625500016,,yes,12.0,148,0
+40B,Haroun Zouari Usage Rezgui Zouari,,2025-12-09,pre_window,move_out,,1212152556949219,,,,
+41,MASATO OKAZAKI,,2025-11-17,orphan_out,move_out,,1211953230993252,yes,,,
+41,Juan Sebastian Carreno Vasquez,2025-07-03,2025-10-28,move_in,move_out,1210667396980403,1211504701513388,yes,3.0,117,0.8
+41,Zaid Hamsassia,2025-10-28,,move_in,ongoing,1211763842518318,,yes,6.0,245,2.0
+41,Haroun Zouari Usage Rezgui Zouari,2025-10-28,,move_in,ongoing,1211763827512289,,yes,6.0,245,2.0
+41,Callum Maxwell,2025-11-29,2026-02-14,move_in,move_out,1212065440263905,1212485381772594,yes,3.0,77,0
+41,Radikanesha Bharly,2026-02-14,2026-05-05,move_in,move_out,1212537428934792,1214044948603920,yes,3.0,80,0
+41,Udaya Bhaskar Gaddam,2026-05-31,,move_in,ongoing,1215080592719549,,yes,6.0,30,0

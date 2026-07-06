@@ -1,0 +1,10 @@
+room_code,tenant,start,end,start_kind,end_kind,start_task,end_task,hr
+431,Yoshiki Isu,,2025-11-16,pre_window,move_out,,1211582567868953,yes
+431,Sharayu Sonekar,2026-02-06,2026-05-05,move_in,move_out,1212748792334048,1214129032497582,yes
+432,Hassan Simiyu Juma,,2025-12-24,pre_window,move_out,,1212217104104404,yes
+432,Jai Padmakar Telang,2026-02-06,2026-05-05,move_in,move_out,1212735719553897,1213954074830792,yes
+432,Raghav Khandurie,2026-06-15,,move_in,ongoing,1215086750451275,,yes
+433,Jinson Jasmany Alava Zambrano,,2025-07-22,pre_window,move_out,,1210816362712739,
+433,Umashankar Sivagnanam,2025-11-09,2026-03-18,move_in,move_out,1211814391913995,1213450431910672,yes
+433,Diego Alejandro Lasso Zapata,2026-04-03,2026-04-03,move_in,move_out,1213815313186065,1213815366058872,yes
+433,Subhojit Talukdar,2026-06-15,,move_in,ongoing,1215086750573147,,yes

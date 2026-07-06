@@ -1,0 +1,5 @@
+task_id,action,reason,ruled_by,ruled_on
+1214921711169447,exclude,"Eviction RETRACTED (last comment on task); real move-out is 2026-07-18 task, outside audit window — James still tenant at window end",Kurian,2026-07-05
+1214989030041968,exclude,"Superseded: Wing's actual sequence = Marrickville temp → into Room 2 on 2026-03-18 → out 2026-06-17 (task 1215425074500556)",Kurian,2026-07-05
+1213349079760277,exclude,"Cancelled Sale - Non Refundable section (Josie, #1105) — never moved in; not a tenancy event. Kurian to confirm.",pipeline-pending-Kurian,2026-07-05
+1212506971580666,exclude,"LR (lease renewal) task for existing #1109 tenants Bhomik & Yash — renewal, not a new move-in. Kurian to confirm.",pipeline-pending-Kurian,2026-07-05

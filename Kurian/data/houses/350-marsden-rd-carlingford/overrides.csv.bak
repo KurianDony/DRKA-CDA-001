@@ -1,0 +1,5 @@
+task_id,action,reason,ruled_by,ruled_on
+1215240103348912,exclude,Cancelled Sale - Non Refundable (Noah); not a tenancy event,pipeline-pending-Kurian,2026-07-05
+1216098477207302,exclude,Out-of-window duplicate move-out for Md Aftab Ovi (Due 2026-07-03); superseded by 1215355847925679 per window discipline,pipeline-pending-Kurian,2026-07-05
+1210517519257845,exclude,Room 4 (1172) Internal Condition Report admin task; no tenant/departure,pipeline-pending-Kurian,2026-07-05
+1215478013034340,promote_move_out,PERM Room Transfer OUT of Room 7 #1175 (Mahyar) is effective move-out 2026-06-08; subtask promoted per defect#2. Parent 1215477961015358 is move-in to foreign #1812 and stays unattributed,pilot-orchestrator,2026-07-05

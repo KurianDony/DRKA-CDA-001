@@ -1,0 +1,17 @@
+task_id,task_url,tenant,room,fees_applied,fee_breakdown,waived,bond_status,evidence_source,needs_asana_check
+1211383102869802,https://app.asana.com/0/0/1211383102869802/f,Yasir Khan,1170,,,,,NO FEE DATA IN EXPORT — check task comments in Asana,yes
+1211381594929794,https://app.asana.com/0/0/1211381594929794/f,Mohd Amaan,1173/1169,$420,Break Fee $420 (field),,,Break Fee (if applicable) field,yes
+1211407198436857,https://app.asana.com/0/0/1211407198436857/f,Benjamin James Dunstan,1175,$720,Break Fee $720 (field) — but notice likely retracted,,,Break Fee field; subtasks show move-out dates removed,yes
+1211857881166869,https://app.asana.com/0/0/1211857881166869/f,Rhine Singha,1174,,,,,NO FEE DATA IN EXPORT — check task comments in Asana; ICR subtask 1210933647625420,yes
+1211660097342272,https://app.asana.com/0/0/1211660097342272/f,Thai Hoang Nguyen Le,1169,,,,,NO FEE DATA IN EXPORT — check task comments in Asana,yes
+1211730441571685,https://app.asana.com/0/0/1211730441571685/f,Basith Valiya Parambil,1170,$720,Break Fee $720 (field),,,Break Fee (if applicable) field,yes
+1212175382509715,https://app.asana.com/0/0/1212175382509715/f,Altaibaatar Seseer,1171,,,,,NO FEE DATA IN EXPORT — check task comments in Asana,yes
+1212329872262092,https://app.asana.com/0/0/1212329872262092/f,Binshaj Korappamkandy,1173,,,,,NO FEE DATA IN EXPORT — check task comments in Asana,yes
+1213308712252815,https://app.asana.com/0/0/1213308712252815/f,Islam Alkhalaeileh,1171,$1760,Break Fee $1760 (field),,,Break Fee (if applicable) field,yes
+1214700730665014,https://app.asana.com/0/0/1214700730665014/f,Jason David Luzano Vero,1173,$230,Break Fee $230 (field),,,Break Fee (if applicable) field,yes
+1213730185740200,https://app.asana.com/0/0/1213730185740200/f,Patrick Joseph McKinney,1175,,,,,NO FEE DATA IN EXPORT — check task comments in Asana,yes
+1215355847925679,https://app.asana.com/0/0/1215355847925679/f,Md Aftab Ahamed Ovi,1171,,,,,NO FEE DATA IN EXPORT — check task comments in Asana,yes
+1210517519257845,https://app.asana.com/0/0/1210517519257845/f,(ICR - no tenant),1172,,,,,NO FEE DATA IN EXPORT — ICR admin task; check task comments in Asana,yes
+1216098477207302,https://app.asana.com/0/0/1216098477207302/f,Md Aftab Ahamed Ovi,1171,,,,,NO FEE DATA IN EXPORT — out-of-window duplicate; check comments,yes
+1215478013034340,https://app.asana.com/0/0/1215478013034340/f,Mahyar Maleki Rad,1175,$0,OCR Clear - no deductions (subtask notes),,,Subtask 1215478013034340 Notes (PERM Room Transfer),no
+1211690507685286,https://app.asana.com/0/0/1211690507685286/f,Mursel Batuhan Ucar,1175,$160,Mattress cover $85 + Room cleaning $75 (temp-room OCR/ICR subtask),,,Subtask 1211690507685286 Notes (TENANT CHARGES),no

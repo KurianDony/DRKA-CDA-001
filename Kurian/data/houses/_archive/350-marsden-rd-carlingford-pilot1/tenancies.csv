@@ -1,0 +1,23 @@
+room_code,tenant,start,end,start_kind,end_kind,start_task,end_task,hr,agreed_term_months,stay_days,months_past_term
+1169,Thai Hoang Nguyen Le,2025-07-17,2025-11-16,move_in,move_out,1210797018400823,1211660097342272,yes,3.0,122,1.0
+1169,Muhammad Faizan Haider,2026-02-04,,move_in,ongoing,1213025038066578,,yes,6.0,146,0
+1169,Dhruv Janghu,2026-02-15,,move_in,ongoing,1213260614973706,,yes,3.0,135,1.4
+1169,Sudipta Paul,2026-03-04,,move_in,ongoing,1213473479987837,,yes,4.0,118,0
+1170,Yasir  Khan,,2025-09-27,orphan_out,move_out,,1211383102869802,yes,,,
+1170,Malik Ahmed,2025-06-27,,move_in,ongoing,1210520924114448,,yes,3.0,368,9.1
+1170,Basith VP,2025-10-07,2025-11-20,move_in,move_out,1211559250062161,1211730441571685,yes,3.0,44,0
+1170,Chu Haur Yong,2025-12-17,,move_in,ongoing,1212430510130927,,yes,3.0,195,3.4
+1171,Altaibaatar Seseer,,2025-12-26,pre_window,move_out,,1212175382509715,yes,,,
+1171,Islam Alkhalaeileh,2026-02-10,2026-02-21,move_in,move_out,1213210855987272,1213308712252815,yes,3.0,11,0
+1171,Md Aftab Ahamed Ovi,2026-03-01,,move_in,ongoing,1213414866165509,,yes,3.0,121,1.0
+1173,Mohd Amaan,,2025-09-26,pre_window,move_out,,1211381594929794,yes,,,
+1173,Jason Vero,,2026-05-22,orphan_out,move_out,,1214700730665014,yes,,,
+1173,Binshaj Korappamkandy,2025-10-06,2026-01-14,move_in,move_out,1211552888817152,1212329872262092,yes,3.0,100,0.3
+1173,Toni Roventa,2026-02-01,,move_in,ongoing,1212791162989772,,yes,6.0,149,0
+1174,Rhine Singha,2025-08-02,2025-11-19,move_in,move_out,1210898021628843,1211857881166869,yes,3.0,109,0.6
+1174,Atharva Arun Das,2026-02-25,,move_in,ongoing,1213210731623192,,yes,6.0,125,0
+1175,Liam Charles Peters,2025-07-26,,move_in,ongoing,1210817071437686,,yes,6.0,339,5.1
+1175,Benjamin James Dunstan,2025-09-05,2025-10-02,move_in,move_out,1211255777029826,1211407198436857,yes,3.0,27,0
+1175,MURSEL BATUHAN UCAR,2025-10-24,,move_in,ongoing,1211677946964542,,yes,8.0,249,0.2
+1175,Patrick Joseph McKinney,2025-11-01,2026-03-18,move_in,move_out,1211764253401407,1213730185740200,yes,4.0,137,0.5
+1175,Mahyar maleki rad,2026-06-06,2026-06-08,move_in,move_out,1215448897492309,1215478013034340,yes,3.0,2,0

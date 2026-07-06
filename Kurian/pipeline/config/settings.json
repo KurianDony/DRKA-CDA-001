@@ -1,0 +1,18 @@
+{
+  "audit_window": { "start": "2025-07-01", "end": "2026-06-30" },
+  "window_padding_days": { "movein": 7, "moveout": 7, "maintenance": 31 },
+  "raw_data_dir": "data/Raw Data",
+  "houses_dir": "data/houses",
+  "sources": {
+    "movein": "2025_Applications_Moving_In (3).csv",
+    "moveout": "Off_boarding_team_ (2).csv",
+    "maintenance": "Maintenance_Requests.csv"
+  },
+  "event_date_fields": {
+    "movein": ["Due Date", "Date and Time Paid", "Completed At", "Created At"],
+    "moveout": ["Due Date", "Earliest Date to Move Out", "Created At"],
+    "maintenance": ["Created At"]
+  },
+  "asana_url_template": "https://app.asana.com/0/0/{task_id}/f",
+  "notes": "Rows OUTSIDE the padded window are DROPPED at S1 (Kurian 2026-07-05: stick to the data range; pre-window tenants still occupying are handled manually). in_window column = inside the unpadded audit window."
+}

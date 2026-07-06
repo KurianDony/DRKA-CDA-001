@@ -1,0 +1,78 @@
+room_code,room_label,event_type,event_date,date_source,tenant,task_id,task_name,section,source,in_window,human_review,flags,match_reason
+1169,Room 1,maintenance,2025-06-11,created_at,,1210518432799190,"350 Marsden Rd, Carlingford, OCR",Resolved,maintenance,no,,,address+room_code
+1169,Room 1,move_in,2025-07-17,due_date,Hoang Nguyen Thai Le,1210797018400823,"Hoang Nguyen Thai Le, Room 1, #1169, 350 Marsden Rd, Carlingford",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1169,Room 1,move_out,2025-11-16,due_date,Thai Hoang Nguyen Le,1211660097342272,"Room 1, #1169, 350 Marsden Rd, Carlingford, Hoang Nguyen Thai Le",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+1169,Room 1,maintenance,2025-11-18,created_at,,1211975410788816,"350 Marsden Rd, Carlingford, OCR",Resolved,maintenance,yes,,,address+room_code
+1169,Room 1,maintenance,2026-02-03,created_at,,1213094939159746,"Room 1/350 Marsden Rd, Carlingford - Room Issue",Resolved,maintenance,yes,,,address+room_code
+1169,Room 1,move_in,2026-02-04,due_date,Muhammad Faizan Haider,1213025038066578,"Muhammad Faizan Haider, Room 1, #1169, 350 Marsden Rd, Carlingford",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1169,Room 1,move_in,2026-02-15,due_date,Dhruv Janghu,1213260614973706,"Dhruv Janghu, Room 1, #1169, 350 Marsden Rd, Carlingford",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1169,Room 1,move_out,2026-02-20,due_date,Dhruv Janghu,1213322591040000,"➡️ Room Transfer - Room 1, #1169, 350 Marsden Rd, Carlingford, Dhruv Janghu",Completed,movein,yes,yes,transfer_cancel|tenant_derived_from_name,address+room_code
+1169,Room 1,move_in,2026-03-04,due_date,Sudipta Paul,1213473479987837,"Sudipta Paul, Room 1, #1169, 350 Marsden Rd, Carlingford",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1169,Room 1,maintenance,2026-05-31,created_at,Sudipta Paul,1215265415121362,"Room 1/350 Marsden Road, Carlingford - Power Point Replacement",Resolved,maintenance,yes,,,address+room_code
+1170,Room 2,move_in,2025-06-27,due_date,Malik Ahmed,1210520924114448,"Ahmed Zahid Malik& Yasir Khan, Room 2, #1170, 350 Marsden Rd, Carlingford",Completed,movein,no,yes,transfer_cancel,address+room_code
+1170,Room 2,move_out,2025-09-27,due_date_conflict_fallback,Yasir  Khan,1211383102869802,"Room 2, #1170, 350 Marsden Rd, Carlingford, Ahmed Zahid Malik & Yasir Khan",Completed,moveout,yes,yes,transfer_cancel|moveout_date_conflict,address+room_code
+1170,Room 2,move_in,2025-10-07,due_date,Basith Valiya Parambil,1211559250062161,"Basith Valiya Parambil, Room 2, #1170, 350 Marsden Rd, Carlingford",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1170,Room 2,move_out,2025-11-20,due_date,Basith VP,1211730441571685,"Room 2, #1170, 350 Marsden Rd, Carlingford, Basith Valiya Parambil",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+1170,Room 2,move_in,2025-12-17,due_date,Chu Haur Yong,1212430510130927,"Chu Haur Yong, Room 2, #1170, 350 Marsden Rd, Carlingford",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1170,Room 2,maintenance,2025-12-18,created_at,Chu Haur Yong,1212506668739674,"Room 2/350 Marsden Rd, Carlingford - Door Lock Issue",Resolved,maintenance,yes,,,address+room_code
+1171,Room 3,move_out,2025-12-26,earliest_move_out,Altaibaatar Seseer,1212175382509715,"Room 3, #1171, 350 Marsden Rd, Carlingford, Altaibaatar Seseer",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+1171,Room 3,move_in,2026-02-10,due_date,Islam Alkhalaeileh,1213210855987272,"Islam Alkhalaeileh, Room 3, #1171, 350 Marsden Rd, Carlingford",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1171,Room 3,move_out,2026-02-21,due_date,Islam Alkhalaeileh,1213308712252815,"Room 3, #1171, 350 Marsden Rd, Carlingford, Islam Alkhalaeileh",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+1171,Room 3,move_in,2026-03-01,due_date,Md Aftab Ahamed Ovi,1213414866165509,"Md Aftab Ahamed Ovi, Room 3, #1171, 350 Marsden Rd, Carlingford",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1173,Room 5,move_out,2025-09-26,due_date,Mohd Amaan,1211381594929794,"Room 5, #1173, 350 Marsden Rd, Carlingford, Mohd Amaan",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+1173,Room 5,move_in,2025-10-06,due_date,Binshaj Korappamkandy,1211552888817152,"Binshaj Korappamkandy , Room 5, #1173, 350 Marsden Rd, Carlingford",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1173,Room 5,move_out,2026-01-14,earliest_move_out,Binshaj Korappamkandy,1212329872262092,"‼️ Room 5, #1173, 350 Marsden Rd, Carlingford, Binshaj Korappamkandy",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+1173,Room 5,move_in,2026-02-01,due_date,Toni Roventa,1212791162989772,"Jason David Luzano Vero, Room 5, #1173, 350 Marsden Rd, Carlingford",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1173,Room 5,move_out,2026-05-22,due_date,Jason Vero,1214700730665014,"Room 5, #1173, 350 Marsden Rd, Carlingford, Jason David Luzano Vero",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+1174,Room 6,maintenance,2025-08-01,created_at,Carlingford - Furniture alignment,1210945271814213,"350 Marsden Rd, Carlingford - Furniture alignment",Resolved,maintenance,yes,,tenant_derived_from_name,address+room_code
+1174,Room 6,move_in,2025-08-02,due_date,Rhine Singha,1210898021628843,"Rhine Singha, Room 6, #1174, 350 Marsden Rd, Carlingford",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1174,Room 6,move_out,2025-11-19,earliest_move_out,Rhine Singha,1211857881166869,"🛠️ Room 6, #1174, 350 Marsden Rd, Carlingford, Rhine Singha",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+1174,Room 6,move_in,2026-02-25,due_date,Atharva Arun Das,1213210731623192,"Atharva Arun Das, Room 6, #1174, 350 Marsden Rd, Carlingford",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1175,Room 7,move_in,2025-07-26,due_date,Liam Charles Peters,1210817071437686,"Liam Charles Peters, Room 7, #1643, 17 Tracey Ave, Carlingford, House 2",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1175,Room 7,move_in,2025-09-05,due_date,Benjamin Dunstan,1211255777029826,"Benjamin James Dunstan, Room 7, #1175, 350 Marsden Rd, Carlingford",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1175,Room 7,move_out,2025-10-02,due_date,Benjamin James Dunstan,1211407198436857,"🛠️ Room 7, #1175, 350 Marsden Rd, Carlingford, Benjamin James Dunstan",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+1175,Room 7,move_in,2025-10-24,due_date,MURSEL BATUHAN UCAR,1211677946964542,"Mursel Batuhan Ucar, Room 5, #1816, 67 Alamein Ave, Carlingford - (Temporary Room - Room 7, #1175, 350 Marsden Rd, Carlingford)",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1175,Room 7,maintenance,2025-10-24,created_at,,1211737777120110,"350 Marsden Rd, Carlingford, Room 7 - Tighten bed Frame",Resolved,maintenance,yes,,,address+room_code
+1175,Room 7,move_in,2025-11-01,due_date,Patrick Joseph McKinney,1211764253401407,"Patrick Joseph McKinney, Room 7, #1175, 350 Marsden Rd, Carlingford",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1175,Room 7,move_out,2026-03-18,due_date,Patrick Joseph McKinney,1213730185740200,"🛠️ Room 7, #1175, 350 Marsden Rd, Carlingford, Patrick Joseph McKinney",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+1175,Room 7,maintenance,2026-03-25,created_at,,1213804317343900,"Room 7/350 Marsden Rd, Carlingford - Room Issues",Electrical,maintenance,yes,,,address+room_code
+1175,Room 7,move_in,2026-06-06,due_date,Mahyar maleki rad,1215448897492309,"PAYMENT PLAN: Mahyar Maleki Rad, Room 7, #1175, 350 Marsden Rd, Carlingford",Completed,movein,yes,yes,transfer_cancel,address+room_code
+1175,Room 7,move_out,2026-06-08,due_date,Mahyar maleki rad,1215478013034340,"➡️ PERM Room Transfer - Room 7, #1175, 350 Marsden Rd, Carlingford, Mahyar maleki rad",,movein,yes,yes,transfer_cancel|tenant_derived_from_name,address+room_code
+,,maintenance,2025-06-15,created_at,Altaibaatar Seseer,1210551893903603,"350 Marsden Rd, Carlingford - Internet",Resolved,maintenance,no,,,address
+,,maintenance,2025-06-15,created_at,Altaibaatar Seseer,1210551810622482,"350 Marsden Rd, Carlingford, Kitchenware (Pans, pots, utensils)",Resolved,maintenance,no,,,address
+,,maintenance,2025-06-20,created_at,Mohd Amaan,1210597653460253,"[Duplicate] 350 Marsden Rd, Carlingford, Internet",Resolved,maintenance,no,,,address
+,,maintenance,2025-06-22,created_at,Altaibaatar Seseer,1210607837690505,"350 Marsden Rd, Carlingford - Council pick up",Resolved,maintenance,no,,,address
+,,maintenance,2025-06-22,created_at,Altaibaatar Seseer,1210608394498095,"350 Marsden Rd, Carlingford -Keys and door locks",Resolved,maintenance,no,,,address
+,,maintenance,2025-06-24,created_at,Altaibaatar Seseer,1210626405837420,"350 Marsden Rd, Carlingford, No water supply",Resolved,maintenance,no,,,address
+,,maintenance,2025-07-01,created_at,Council pick up,1210682814106038,"[Duplicate] 350 Marsden Rd, Carlingford, Council pick up",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-07-01,created_at,Internet,1210682742458859,"[Duplicate] 350 Marsden Rd, Carlingford, Internet",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-07-15,created_at,Carlingford - Fridge Replacement,1210796947907409,"350 Marsden Rd, Carlingford - Fridge Replacement",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-07-17,created_at,Ahmed Malik - Yasir Khan - Mohd Amaan,1210818594541807,"350 Marsden Rd, Carlingford - Bins delivery",Resolved,maintenance,yes,,,address
+,,maintenance,2025-07-18,created_at,Hoang Nguyen Thai Le,1210829638265301,"1/350 Marsden Rd, Carlingford - Bulb Replacement",Resolved,maintenance,yes,,,address
+,,maintenance,2025-07-27,created_at,Curtains blinds replacement,1210897546884949,"350 Marsden Rd, Carlingford, Curtains/blinds replacement",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-07-30,created_at,Carlingford - Council Pick Up,1210912346238711,"350 Marsden Rd, Carlingford - Council Pick Up",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-08-25,created_at,Carlingford - Broken toilet,1211134083215067,"350 Marsden Rd, Carlingford - Broken toilet",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-08-25,created_at,Yasir  Khan,1211133469731605,"[Duplicate] 350 Marsden Rd, Carlingford, Clogged toilet / sink",Resolved,maintenance,yes,,,address
+,,maintenance,2025-09-08,created_at,,1211291349145646,"350 Marsden Rd, Carlingford - Cleaning Schedule 2025",Resolved,maintenance,yes,,,address
+,,maintenance,2025-09-23,created_at,Altaibaatar,1211437812785059,"350 Marsden Rd, Carlingford - Bins",Resolved,maintenance,yes,,,address
+,,maintenance,2025-10-04,created_at,Furniture   storage,1211550077262788,"7/350 Marsden Rd, Carlingford, Furniture & storage",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-10-07,created_at,Carlingford- bulb Replacement,1211571846204837,"350 Marsden Rd, Carlingford- bulb Replacement",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-11-03,created_at,Patrick Joseph,1211817819522296,"350 Marsden Rd, Carlingford, Internet",Resolved,maintenance,yes,,,address
+,,maintenance,2025-11-09,created_at,Thai,1211890970027410,"350 Marsden Rd, Carlingford - vacuum replacement",Resolved,maintenance,yes,,,address
+,,maintenance,2025-11-14,created_at,Furniture   storage,1211944416218259,"350 Marsden Rd, Carlingford, Furniture & storage",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-11-28,created_at,Carlingford - New Kitchen Bin,1212218984098966,"350 Marsden Rd, Carlingford - New Kitchen Bin",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-01-07,created_at,,1212684482180161,"350 Marsden Rd, Carlingford - Cleaning Schedule 2026",Routine Cleaning,maintenance,yes,,,address
+,,maintenance,2026-01-15,created_at,Chu Haur Yong,1212822181833821,"350 Marsden Rd, Carlingford - Broken Yellow Bin Lid",Resolved,maintenance,yes,,,address
+,,maintenance,2026-02-12,created_at,Islam Alkhalaeileh,1213237826966895,"Room 3/350 Marsden Rd, Carlingford - Foul Smell",Resolved,maintenance,yes,,,address
+,,maintenance,2026-02-13,created_at,Carlingford - No water supply,1213176683207125,"350 Marsden Rd, Carlingford - No water supply",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-03-04,created_at,Carlingford - Clogged toilet  Both Levels,1213537806498446,"350 Marsden Road, Carlingford - Clogged toilet (Both Levels)",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-03-04,created_at,Carlingford - Toilet Leak,1213533675706604,"[Duplicate] 350 Marsden Rd, Carlingford - Toilet Leak",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-03-04,created_at,Carlingford - Windows Issue,1213537818939797,"Room 6/350 Marsden Road, Carlingford - Windows Issue",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-03-10,created_at,Carlingford - Fridge Replacement,1213585974750211,"350 Marsden Rd, Carlingford - Fridge Replacement",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-04-13,created_at,Carlingford - Kitchen Cleaning Issue,1214044980455503,"350 Marsden Rd, Carlingford - Kitchen Cleaning Issue",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-04-15,created_at,Carlingford - Broken Toilet Pipe  Downstairs Bathroom,1214068898843451,"350 Marsden Rd, Carlingford - Broken Toilet Pipe (Downstairs Bathroom)",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-04-15,created_at,Fridge not working,1214068854326818,"[Duplicate] Carlingford, 350 Marsden Rd, Carlingford, Fridge not working",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-05-14,created_at,Carlingford - Council pick up,1214796349827224,"350 Marsden Rd, Carlingford - Council pick up",Council Clean Ups | Bins Issues,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-05-14,created_at,Carlingford - Carpet tiles,1214796045298592,"350 Marsden Rd, Carlingford - Carpet tiles",Repairs | Installations,maintenance,yes,,tenant_derived_from_name,address
+,,move_in,2026-06-08,due_date,Mahyar maleki rad,1215477961015358,"PAYMENT PLAN: Mahyar Maleki Rad, Room 1, #1812, 67 Alamein Ave, Carlingford",Completed,movein,yes,yes,transfer_cancel,address
+,,maintenance,2026-06-09,created_at,Carlingford - Maintenance Issues,1215520202628100,"350 Marsden Rd, Carlingford - Maintenance Issues",Repairs | Installations,maintenance,yes,yes,transfer_cancel|tenant_derived_from_name,address

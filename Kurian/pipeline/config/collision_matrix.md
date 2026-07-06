@@ -1,0 +1,27 @@
+# Collision matrix (same street name)
+
+- **bridge rd**: 162 Bridge Rd, Westmead, Westmead; 164 Bridge Rd, Westmead, Westmead
+- **burnett st**: 19 Burnett St, Merrylands, Merrylands; 216 Burnett St, Parramatta, Parramatta
+- **canterbury rd**: 329A Canterbury Rd, Canterbury, Canterbury; Lvl 1 / 969 Canterbury Rd, Lakemba, Lakemba
+- **clarence st**: 90 Clarence St, Merrylands, Merrylands; 90 Clarence St, Merrylands,, Merrylands
+- **cleveland st**: 285 Cleveland St, Redfern, Redfern; 287 Cleveland St, Redfern, Redfern; 289 Cleveland St, Redfern, Redfern; 295 Cleveland St, Redfern, Redfern; 342 Cleveland St, Surry Hills, Surry Hills; 390 Cleveland St, Surry Hills, Surry Hills
+- **cross st**: 27 Cross St, Strathfield, Strathfield; 36B Cross St, Strathfield, Strathfield
+- **crown st**: 1/96 Crown St, Woolloomooloo, Woolloomooloo; 313 Crown St, Surry Hills, ; 313 Crown St, Surry Hills, Surry Hills; 327 Crown St, Surry Hills, Surry Hills
+- **darling street**: 2/681 Darling Street, Rozelle, Rozelle; 669 Darling Street, Rozelle, Rozelle
+- **dunmore st**: 2 Dunmore St, Wentworthville, Wentworthville; 4 Dunmore St, Wentworthville, Wentworthville
+- **elphin rd**: 62 Elphin Rd, Launceston, Launceston; 64 Elphin Rd, Launceston, Launceston
+- **england ave**: 10 England Ave, Marrickville, Marrickville; 10A England Ave, Marrickville, Marrickville
+- **george st**: 33 George St, Burwood Heights, Burwood Heights; 34 George St, North Strathfield, North Strathfield; 40 George St, North Strathfield, North Strathfield; 53 George St, Burwood, Burwood; 72 George St, North Strathfield, North Strathfield
+- **harbord rd**: 1/87 Harbord Rd, Freshwater, Freshwater; 3/87 Harbord Rd, Freshwater, Freshwater
+- **harris st**: 539 Harris St, Ultimo, Ultimo; 605 Harris St, Ultimo, Ultimo; 82 Harris St, Harris Park, Harris Park
+- **king st**: 1/253 King St, Newtown, Newtown; 17 King St, Rockdale, Rockdale; 19 King St, Rockdale, Rockdale; 305R King St, Newtown, Newtown; 604 King St, Erskineville, Erskineville
+- **liverpool rd**: 1/146 Liverpool Rd, Enfield, Enfield; 1/148 Liverpool Rd, Enfield, Enfield; 1/150 Liverpool Rd, Enfield, Enfield; 1/152 Liverpool Rd, Enfield, Enfield; 229 Liverpool Rd, Strathfield, Strathfield; 5/193 Liverpool Rd, Burwood, Burwood
+- **liverpool road**: 396 Liverpool Road, Strathfield, Strathfield; 5/397 Liverpool Road, Strathfield, Strathfield
+- **marion st**: 131A Marion St, Leichhardt, Leichhardt; 280a Marion St, Condell Park, Condell Park
+- **old canterbury rd**: 110 Old Canterbury Rd, Lewisham, Lewisham; 112 Old Canterbury Rd, Lewisham, Lewisham
+- **pacific highway**: 1252 Pacific Highway, Pymble, Pymble; 6/802 Pacific Highway, Chatswood, Chatswood
+- **parramatta road**: 248 Parramatta Road, Stanmore, Stanmore; 5/267 Parramatta Road, Leichhardt, Leichhardt
+- **princes hwy**: 59 Princes Hwy, Kogarah, Kogarah; 61 Princes Hwy, Kogarah, Kogarah; 65 Princes Hwy, Kogarah, Kogarah; 67 Princes Hwy, Kogarah, Kogarah
+- **sexton ave**: 15b Sexton Ave, Castle Hill, Castle Hill; 17 Sexton Ave, Castle Hill, Castle Hill; 19 Sexton Ave, Castle Hill, Castle Hill; 23 Sexton Ave, Castle Hill, Castle Hill
+- **swan ave**: 24 Swan Ave, Strathfield, Strathfield; 27 Swan Ave, Strathfield, Strathfield
+- **underwood rd**: 38 Underwood Rd, Homebush, Homebush; 48 Underwood Rd, Homebush, Homebush

@@ -1,0 +1,38 @@
+room_code,room_label,event_type,event_date,date_source,tenant,task_id,task_name,section,source,in_window,human_review,flags,match_reason
+431,Room 1,move_out,2025-11-16,due_date,Yoshiki Isu,1211582567868953,"Room 1, #431, 1/148 Liverpool Rd, Enfield, Yoshiki Isu",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+431,Room 1,maintenance,2025-11-20,created_at,Keys and door locks,1211999469442598,"1/148 Liverpool Rd, Enfield, Keys and door locks",Resolved,maintenance,yes,,tenant_derived_from_name,address+room_code
+431,Room 1,move_in,2026-02-06,due_date,Sharayu Sonekar,1212748792334048,"Sharayu Sukhadeo Sonekar, Room 1, #431, 1/148 Liverpool Rd, Enfield",Completed,movein,yes,yes,transfer_cancel,address+room_code
+431,Room 1,move_out,2026-05-05,due_date,Sharayu Sonekar,1214129032497582,"Room 1, #431, 1/148 Liverpool Rd, Enfield, Sharayu Sukhadeo Sonekar",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+432,Room 2,maintenance,2025-12-05,created_at,Enfield-Keys and door locks,1212315328643102,"Room 2/1/148 Liverpool Rd, Enfield-Keys and door locks",Resolved,maintenance,yes,,tenant_derived_from_name,address+room_code
+432,Room 2,move_out,2025-12-24,override_set_date,Hassan Simiyu Juma,1212217104104404,"🛠️ Room 2, #432, 1/148 Liverpool Rd, Enfield, Hassan Simiyu Juma",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+432,Room 2,move_in,2026-02-06,due_date,Jai Padmakar Telang,1212735719553897,"Jai Padmakar Telang, Room 2, #432, 1/148 Liverpool Rd, Enfield",Completed,movein,yes,yes,transfer_cancel,address+room_code
+432,Room 2,move_out,2026-05-05,due_date,Jai Padmakar Telang,1213954074830792,"🔑 SHARED MAINDOOR KEY - Room 2, #432, 1/148 Liverpool Rd, Enfield, Jai Padmakar Telang",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+432,Room 2,move_in,2026-06-15,due_date,Raghav Khandurie,1215086750451275,"👍👍Raghav Khandurie   , Room 2, #432, 1/148 Liverpool Rd, Enfield",Completed,movein,yes,yes,transfer_cancel,address+room_code
+433,Room 3,move_out,2025-07-22,name_date,Jinson Jasmany Alava Zambrano,1210816362712739,"🛠️- Room 3, #433, 1/148 Liverpool Rd, Enfield, Jinson Jasmany Alava Zambrano, Jul 22, 2025",Completed,moveout,yes,,,address+room_code
+433,Room 3,maintenance,2025-07-31,created_at,,1210934168070435,"Room 3 - 1/148 Liverpool Rd, Enfield - Room Issues",Resolved,maintenance,yes,,,address+room_code
+433,Room 3,move_in,2025-11-09,due_date,Umashankar sivagnanam,1211814391913995,"Umashankar Sivagnanam, Room 3, #433, 1/148 Liverpool Rd, Enfield",Completed,movein,yes,yes,transfer_cancel,address+room_code
+433,Room 3,move_out,2026-03-18,due_date,Umashankar Sivagnanam,1213450431910672,"➡️ Permanent Room Transfer - Room 3, #433, 1/148 Liverpool Rd, Enfield, Umashankar Sivagnanam",Completed,movein,yes,yes,transfer_cancel|tenant_derived_from_name,address+room_code
+433,Room 3,maintenance,2026-03-30,created_at,Enfield-Keys and door locks,1213873498773628,"1/148 Liverpool Rd, Enfield-Keys and door locks",Resolved,maintenance,yes,,tenant_derived_from_name,address+room_code
+433,Room 3,move_out,2026-04-03,name_date,,1213815366058872,"↔️ TEMPORARY OCR/ICR - Diego Alejandro Lasso Zapata, Room 3, #433, 1/148 Liverpool Rd, Enfield, April 3, 2026",Completed,movein,yes,yes,transfer_cancel,address+room_code
+433,Room 3,move_in,2026-04-03,due_date,Diego Alejandro Lasso Zapata,1213815313186065,"Diego Alejandro Lasso Zapata, (April 3) Room 2, #281, 33 George St, Burwood Heights (Temporary Room: (Mar 30) Room 3, #433, 1/148 Liverpool Rd, Enfield)",Completed,movein,yes,yes,transfer_cancel,address+room_code
+433,Room 3,move_in,2026-06-15,due_date,Subhojit Talukdar,1215086750573147,"👍👍Subhojit Talukdar , Room 3, #433, 1/148 Liverpool Rd, Enfield",Completed,movein,yes,yes,transfer_cancel,address+room_code
+,,maintenance,2025-07-27,created_at,Hassan Juma,1210896255942586,"1/148 Liverpool Rd, Enfield - Fridge stopped working",Resolved,maintenance,yes,,,address
+,,maintenance,2025-07-27,created_at,Yoshiki Isu,1210896255245092,"[Duplicate] 1/148 Liverpool Rd, Enfield, Fridge not working",Resolved,maintenance,yes,,,address
+,,maintenance,2025-11-18,created_at,Council pick up,1211975080353221,"Room 3/1/148 Liverpool Rd, Enfield, Council pick up",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-11-27,created_at,Masaki Nose,1212163730776193,"Rm1/150 Liverpool Rd, Enfield, Cleaning (Full Address) Room 1, #434, 1/150 Liverpool Rd, Enfield, (Occupied - Masaki Nose)",Resolved,maintenance,yes,,,address
+,,maintenance,2025-12-30,created_at,Smoke Alarm Inspection,1212611921297986,"1/148 Liverpool Rd, Enfield, Smoke Alarm Inspection, Jan 9, 2026 (btwn 12:30pm to 3:30 pm)",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-02-07,created_at,Sharayu,1213103843070175,1/148 Liverpool Enfield - Pest Control,Resolved,maintenance,yes,,,address
+,,maintenance,2026-02-10,created_at,Student,1213214045494357,"[Duplicate] 1/148 Liverpool Rd, Enfield- Pest Control",Resolved,maintenance,yes,,,address
+,,maintenance,2026-03-26,created_at,Claygo Issue,1213815332013494,"1/148 Liverpool Rd, Enfield, Claygo Issue",Resolved,maintenance,yes,yes,transfer_cancel|tenant_derived_from_name,address
+,,maintenance,2026-04-02,created_at,Sharayu Sonekar,1213904752307181,1/148 Liverpool road Enfield- Power Outage,Resolved,maintenance,yes,,,address
+,,maintenance,2026-04-02,created_at,Sharayu Sonekar,1213904753567860,"[Duplicate] Enfield, 148 Liverpool road Enfield 2136, Electrical (lights, powerpoints)",Resolved,maintenance,yes,,,address
+,,maintenance,2026-04-22,created_at,Enfield - Disorganized dining area,1214180235693910,"1/148 Liverpool Rd, Enfield - Disorganized dining area",Cleaning | Lawn | Rubbish,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-05-11,created_at,Enfield - Cleaning Issue,1214702308131749,"1/148 Liverpool Rd, Enfield - Cleaning Issue",Routine Cleaning,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-05-20,created_at,Enfield - Multiple House Concerns,1214961920990584,"1/148 Liverpool Rd, Enfield - Multiple House Concerns",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-05-20,created_at,Enfield - To collect items for disposal,1214962053230340,"[Duplicate] 1/148 Liverpool Rd, Enfield - To collect items for disposal",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-05-20,created_at,Enfield - Peeling of paint in the Laundry Area,1214961866963716,"[Duplicate] 1/148 Liverpool Rd, Enfield - Peeling of paint in the Laundry Area",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-06-19,created_at,Subhojit Talukdar,1215851536548541,"1/148 Liverpool Rd, Enfield - Washing machine issue",Resolved,maintenance,yes,,,address
+,,maintenance,2026-06-19,created_at,Subhojit Talukdar,1215850515643523,"1/148 Liverpool Rd, Enfield (Room 3)- Missing Bedside Table",Resolved,maintenance,yes,,,address
+,,maintenance,2026-06-19,created_at,Subhojit Talukdar,1215851661449949,"1/148 Liverpool Rd, Enfield - Bathroom Door Lock",Resolved,maintenance,yes,,,address
+,,maintenance,2026-06-25,created_at,Subhojit,1216028006397981,"1/148 Liverpool Rd, Enfield - Internet Issue",Internet,maintenance,yes,,,address
+,,maintenance,2026-06-25,created_at,Raghav Khandurie,1216030177214488,"Room 2 , 1/148 Liverpool Rd, Enfield - Room Crack in the Wall",Repairs | Installations,maintenance,yes,,,address

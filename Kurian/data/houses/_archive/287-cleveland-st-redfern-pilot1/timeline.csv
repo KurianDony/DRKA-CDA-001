@@ -1,0 +1,116 @@
+room_code,room_label,event_type,event_date,date_source,tenant,task_id,task_name,section,source,in_window,human_review,flags,match_reason
+035A,Room 1,move_in,2025-07-06,due_date,Tanguy Bernard Gauthier,1210720352131274,"Tanguy Bernard Gauthier, Room 1, #035A, 287 Cleveland St, Redfern, Ground Floor",Completed,movein,yes,yes,transfer_cancel,address+room_code
+035A,Room 1,move_in,2025-07-15,due_date,CHUNG KAI-MIN,1210769346658948,"CHUNG KAI-MIN, Room 1, #035A, 287 Cleveland St, Redfern, Ground Floor",Completed,movein,yes,yes,transfer_cancel,address+room_code
+035A,Room 1,move_out,2025-10-25,due_date,Francisco Gustavo Hernandez,1211422430091752,"Room 1, #035A, 287 Cleveland St, Redfern, Francisco Gustavo Hernandez",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+035A,Room 1,move_in,2025-12-21,due_date,Roxx Valeriano,1212430575073508,"Roxx Anjelo Gotinga Valeriano, Room 1, #035A, 287 Cleveland St, Redfern, Ground Floor",Completed,movein,yes,yes,transfer_cancel,address+room_code
+035A,Room 1,move_in,2026-03-28,due_date,joji hirata,1213574534161457,"Joji Hirata, Room 1, #035A, 287 Cleveland St, Redfern, Ground Floor",Completed,movein,yes,yes,transfer_cancel,address+room_code
+035B,Room 1,move_in,2025-07-13,due_date,Leandro Martinez,1210779407968604,"Leandro Martinez, Room 1, #035B, 287 Cleveland St, Redfern, Ground Floor",Completed,movein,yes,yes,transfer_cancel,address+room_code
+035B,Room 1,move_in,2025-07-27,due_date,Francisco Gustavo Hernandez,1210885582624750,"Francisco Gustavo Hernandez , Room 1, #035A, 287 Cleveland St, Redfern, Ground Floor",Completed,movein,yes,yes,transfer_cancel,address+room_code
+035B,Room 1,move_out,2025-07-27,due_date,Leandro Martinez,1210894353878878,"Room 1, #035B, 287 Cleveland St, Redfern, Leandro Martinez, Jul 26, 2025",Completed,moveout,yes,,,address+room_code
+035B,Room 1,move_in,2025-08-08,due_date,Jin Hendrix Vergara,1210957509085672,"Jin Hendrix Vergara, Room 1, #035B, 287 Cleveland St, Redfern, Ground Floor",Completed,movein,yes,yes,transfer_cancel,address+room_code
+035B,Room 1,move_out,2026-03-13,due_date,Jin Hendrix De Castro Vergara,1213589504292986,"➡️ PERM Room Transfer - Room 1, #035B, 287 Cleveland St, Redfern, Ground Floor, Jin Hendrix De Castro Vergara",Completed,movein,yes,yes,transfer_cancel|tenant_derived_from_name,address+room_code
+035B,Room 1,move_in,2026-04-03,due_date,Matias Ignacio Rebolledo Rojas,1213752002475027,"Matias Ignacio Rebolledo Rojas, (April 3) Room 7, #1431, 91 Coxs Rd, North Ryde (Temporary Room: (Mar 22) Room 1, #035B, 287 Cleveland St, Redfern, Ground Floor)",Completed,movein,yes,yes,transfer_cancel,address+room_code
+035B,Room 1,maintenance,2026-04-08,created_at,Furniture   storage,1213977518067759,"Redfern, Room 1, #035B, 287 Cleveland St, Redfern, Ground Floor, Furniture & storage",Resolved,maintenance,yes,,tenant_derived_from_name,address+room_code
+037A,Room 3,move_out,2025-09-23,due_date_conflict_fallback,Yu Shinnishi,1211312533102042,"🛠️ Room 3, #037A, 287 Cleveland St, Redfern, Yu Shinnishi",Completed,moveout,yes,yes,transfer_cancel|moveout_date_conflict,address+room_code
+037A,Room 3,move_in,2025-09-26,due_date,Edward J. Collins,1211391454281479,"Edward J. Collins, Room 3, #037A, 287 Cleveland St, Redfern",Completed,movein,yes,yes,transfer_cancel,address+room_code
+037A,Room 3,move_in,2025-11-25,due_date,Chanwoo Bae,1211804434426920,"Chanwoo Bae, Room 3, #037A, 287 Cleveland St, Redfern (Temporary: Room 8, #1475, 10 Hilts Rd, Strathfield)",Completed,movein,yes,yes,transfer_cancel,address+room_code
+037A,Room 3,move_out,2025-11-25,name_date,Edward John Collins,1211739356478135,"NT Nov 25 - Room 3, #037A, 287 Cleveland St, Redfern, Edward J. Collins",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+037A,Room 3,move_out,2026-03-03,due_date_conflict_fallback,Chanwoo Bae,1213307336945589,"🛠️ Room 3, #037A, 287 Cleveland St, Redfern, Chanwoo Bae",Completed,moveout,yes,yes,transfer_cancel|moveout_date_conflict,address+room_code
+037A,Room 3,maintenance,2026-03-05,created_at,Redfern - Stuck Wardrobe Drawer,1213550653574670,"Room 3/287 Cleveland St, Redfern - Stuck Wardrobe Drawer",Resolved,maintenance,yes,,tenant_derived_from_name,address+room_code
+037A,Room 3,move_in,2026-03-13,due_date,Jin Hendrix De Castro Vergara,1213589118610292,"Jin Hendrix De Castro Vergara, Room 3, #037A, 287 Cleveland St, Redfern",Completed,movein,yes,yes,transfer_cancel,address+room_code
+037B,Room 3,move_out,2025-06-29,due_date,Kevin Alejandro Hernandez Gomez,1210657222258723,"Room 3, #037B, 287 Cleveland St, Redfern, Kevin Alejandro Hernandez Gomez",Completed,moveout,no,,,address+room_code
+037B,Room 3,move_in,2025-08-07,due_date,Santiago Berbotto,1210875898332448,"Santiago Berbotto, Room 3, #037B, 287 Cleveland St, Redfern",Completed,movein,yes,yes,transfer_cancel,address+room_code
+037B,Room 3,maintenance,2026-04-08,created_at,,1213976825026840,"📅 Room 3/287 Cleveland St, Redfern - Room issues (OCR)",Resolved,maintenance,yes,,,address+room_code
+037B,Room 3,move_in,2026-04-19,due_date,Dimas Suria Natanegara,1213976823034682,"Dimas Suria Natanegara, Room 3, #037B, 287 Cleveland St, Redfern",Completed,movein,yes,yes,transfer_cancel,address+room_code
+037B,Room 3,move_out,2026-04-19,earliest_move_out,Santiago Berbotto,1213754732145800,"🛠️ Room 3, #037B, 287 Cleveland St, Redfern, Santiago Berbotto",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+038B,Room 4,move_out,2026-01-09,earliest_move_out,SYED AYAAN HUSSAIN,1212401032138521,"Room 4, #038B, 287 Cleveland St, Redfern, SYED AYAAN HUSSAIN",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+039A,Room 5,move_in,2025-07-01,due_date,Felipe Pellegrini Nichio,1210665280763618,"Felipe Pellegrini Nichio, Room 5, #039A, 287 Cleveland St, Redfern",Completed,movein,yes,yes,transfer_cancel,address+room_code
+039A,Room 5,move_out,2025-09-23,due_date,Felipe pellegrini nichio,1211097771750722,"🛠️ Room 5, #039, 287 Cleveland St, Redfern, Felipe Pellegrini Nichio",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+36,Room 2,move_out,2025-09-01,due_date,Lisa Wilson,1211310066686372,"Room 2, #36, 287 Cleveland St, Redfern, Lisa Wilson",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+36,Room 2,move_out,2025-09-22,earliest_move_out_conflict_fallback,Leonardo Gomez,1211929755311339,"NT Nov 25 - Room 2, #36, 287 Cleveland St, Redfern, Leonardo Gabriel Gutierrez Gomez",Completed,moveout,yes,yes,transfer_cancel|moveout_date_conflict,address+room_code
+36,Room 2,move_in,2025-09-29,due_date,Leonardo Gabriel Gutierrez Gomez,1211323580275313,"Leonardo Gabriel Gutierrez Gomez, Room 2, #36, 287 Cleveland St, Redfern",Completed,movein,yes,yes,transfer_cancel,address+room_code
+36,Room 2,move_in,2025-11-25,due_date,Javier Abascal Vital,1211956952026118,"Javier Abascal Vital, Room 2, #36, 287 Cleveland St, Redfern",Completed,movein,yes,yes,transfer_cancel,address+room_code
+38,Room 4,move_out,2025-09-05,due_date,Federico Monti,1211255143604148,"Room 4, #38, 287 Cleveland St, Redfern, Federico Monti",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+38,Room 4,move_in,2025-09-15,due_date,Syed Ayaan Hussain,1211321764289846,"Syed Ayaan Hussain, Room 4, #38, 287 Cleveland St, Redfern",Completed,movein,yes,,,address+room_code
+38,Room 4,move_in,2025-12-20,due_date,Inga Kristin Haraldsen Lindberg,1212530466069974,"Inga Kristin Haraldsen Lindberg, Room 4, #38, 287 Cleveland St, Redfern",Completed,movein,yes,yes,transfer_cancel,address+room_code
+38,Room 4,move_in,2026-05-03,due_date,Emily Potts,1214068620068775,"Emily Jane Potts, Room 4, #38, 287 Cleveland St, Redfern",Completed,movein,yes,yes,transfer_cancel,address+room_code
+38,Room 4,move_out,2026-05-03,name_date,Inga Kristin H. Lindberg,1213754211459532,"NT May 3 - Room 4, #38, 287 Cleveland St, Redfern, Inga Kristin Haraldsen Lindberg",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+39,Room 5,move_in,2025-09-25,due_date,Juan Esteban Cardozo Cuellar,1211179308040749,"Juan Esteban Cardozo Cuellar, Room 5, #39, 287 Cleveland St, Redfern",Completed,movein,yes,yes,transfer_cancel,address+room_code
+39,Room 5,move_out,2025-10-07,due_date,Juan Esteban Cardozo Cuellar,1211528388804141,"Room 5, #39, 287 Cleveland St, Redfern , Juan Esteban Cardozo Cuellar",Completed,moveout,yes,,,address+room_code
+39,Room 5,move_in,2025-10-08,due_date,Camila Andrea Selin,1211583777691959,"Camila Andrea Selin, Room 5, #39, 287 Cleveland St, Redfern",Completed,movein,yes,yes,transfer_cancel,address+room_code
+39,Room 5,move_out,2025-10-24,due_date,Camila Andrea Selin,1211667884317328,"Room 5, #39, 287 Cleveland St, Redfern, Camila Andrea Selin",Completed,moveout,yes,,,address+room_code
+39,Room 5,move_in,2025-10-29,due_date,Teigan Jazmine Nolan,1211747189007141,"Teigan Jazmine Nolan & Olivia Laura Nolan, Room 5, #39, 287 Cleveland St, Redfern",Completed,movein,yes,yes,transfer_cancel,address+room_code
+39,Room 5,move_in,2026-02-10,due_date,Denis Stein,1212897256687512,"Denis Stein, Room 5, #39, 287 Cleveland St, Redfern",Completed,movein,yes,yes,transfer_cancel,address+room_code
+39,Room 5,move_out,2026-02-10,name_date_conflict_fallback,Teigan Jazmine Nolan,1212806384421277,"NT Feb 10 - Room 5, #39, 287 Cleveland St, Redfern, Teigan Jazmine Nolan & Olivia Laura Nolan",Completed,moveout,yes,yes,transfer_cancel|moveout_date_conflict,address+room_code
+39,Room 5,move_out,2026-05-17,due_date,Denis Stein,1214146141322644,"🛠️ Room 5, #39, 287 Cleveland St, Redfern, Denis Stein",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+39,Room 5,move_in,2026-05-22,due_date,Sabrina Suriajingga Anjani,1214955384538186,"Sabrina Suriajingga Anjani, Room 5, #39, 287 Cleveland St, Redfern",Completed,movein,yes,yes,transfer_cancel,address+room_code
+39,Room 5,move_out,2026-06-24,due_date,Sabrina Suriajingga Anjani,1215821222380914,"Room 5, #39, 287 Cleveland St, Redfern, Sabrina Suriajingga Anjani",Completed,moveout,yes,,,address+room_code
+40,Room 6,move_in,2025-06-28,due_date,MASATO OKAZAKI,1210608137094421,"MASATO OKAZAKI, Room 6, #40, 287 Cleveland St, Redfern, Ground Floor",Completed,movein,no,yes,transfer_cancel,address+room_code
+40A,Room 6,move_out,2026-01-15,name_date,Zaid Hamsassia,1212289025013487,"🔴NT Jan 15 - Room 6, #40A, 287 Cleveland St, Redfern, Zaid Hamsassia",Completed,moveout,yes,,,address+room_code
+40A,Room 6,move_in,2026-02-02,due_date,Jack Hogan-Finlay,1212856625500016,"Jack Edward Mathijs Hogan-Finlay, Room 6, #40A, 287 Cleveland St, Redfern",Completed,movein,yes,yes,transfer_cancel,address+room_code
+40B,Room 6,move_out,2025-12-09,due_date,Haroun Zouari Usage Rezgui Zouari,1212152556949219,"🛌🔴 Room 6, #40B, 287 Cleveland St, Redfern, Haroun Zouari Usage Rezgui Zouari",Completed,moveout,yes,,,address+room_code
+41,Room 7,move_in,2025-07-03,due_date,Juan Sebastián Carreño Vázquez,1210667396980403,"Juan Sebastián Carreño Vázquez , Room 7, #41, 287 Cleveland St, Redfern, Ground Floor",Completed,movein,yes,yes,transfer_cancel,address+room_code
+41,Room 7,move_in,2025-10-28,due_date,Zaid Hamsassia,1211763842518318,"Zaid Hamsassia , Room 6, #40A, 287 Cleveland St, Redfern",Completed,movein,yes,yes,transfer_cancel,address+room_code
+41,Room 7,move_in,2025-10-28,due_date,Haroun Zouari Usage Rezgui Zouari,1211763827512289,"Haroun Zouari Usage Rezgui Zouari, Room 6, #40B, 287 Cleveland St, Redfern, Ground Floor",Completed,movein,yes,yes,transfer_cancel,address+room_code
+41,Room 7,move_out,2025-10-28,earliest_move_out,Juan Sebastian Carreno Vasquez,1211504701513388,"Room 7, #41, 287 Cleveland St, Redfern, Juan Sebastián Carreño Vázquez",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+41,Room 7,move_out,2025-11-17,due_date_conflict_fallback,MASATO OKAZAKI,1211953230993252,"Room 7, #41, 287 Cleveland St, Redfern, MASATO OKAZAKI",Completed,moveout,yes,yes,transfer_cancel|moveout_date_conflict,address+room_code
+41,Room 7,move_in,2025-11-29,due_date,Callum George Maxwell,1212065440263905,"Callum George Maxwell, Room 7, #41, 287 Cleveland St, Redfern",Completed,movein,yes,yes,transfer_cancel,address+room_code
+41,Room 7,move_in,2026-02-14,due_date,Radikanesha Bharly,1212537428934792,"Radikanesha Bharly, Room 7, #41, 287 Cleveland St, Redfern",Completed,movein,yes,yes,transfer_cancel,address+room_code
+41,Room 7,move_out,2026-02-14,name_date,Callum Maxwell,1212485381772594,"NT Feb 14 - Room 7, #41, 287 Cleveland St, Redfern, Callum George Maxwell",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+41,Room 7,move_out,2026-05-05,due_date,Radikanesha Bharly,1214044948603920,"Room 7, #41, 287 Cleveland St, Redfern, Radikanesha Bharly",Completed,moveout,yes,yes,transfer_cancel,address+room_code
+41,Room 7,move_in,2026-05-31,due_date,Udaya Bhaskar Gaddam,1215080592719549,"Udaya Bhaskar Gaddam , Room 7, #41, 287 Cleveland St, Redfern",Completed,movein,yes,yes,transfer_cancel,address+room_code
+,,maintenance,2025-06-07,created_at,,1210490119147347,"[Duplicate] 287 Cleveland St, Redfern - Bathroom door repainting (1st floor)",Resolved,maintenance,no,,,address
+,,maintenance,2025-06-07,created_at,,1210490050262466,"[Duplicate] 287 Cleveland St, Redfern - Shower tap (2nd floor)",Resolved,maintenance,no,,,address
+,,maintenance,2025-06-08,created_at,Redfern - Power Issue,1210492733676812,"285 Cleveland St, Redfern - Power Issue",Resolved,maintenance,no,,tenant_derived_from_name,address
+,,maintenance,2025-06-17,created_at,Federico Monti,1210570344330132,"287 Cleveland St, Redfern - Stove Not Working (Replacement by CDA)",Resolved,maintenance,no,,,address
+,,maintenance,2025-06-17,created_at,Federico Monti,1210565936108574,"[Duplicate] 287 Cleveland St, Redfern , Windows issues | broken glass",Resolved,maintenance,no,,,address
+,,maintenance,2025-06-18,created_at,Cleaning for Inspections,1210577835461184,"287 Cleveland St, Redfern , Cleaning for Inspections",Resolved,maintenance,no,,tenant_derived_from_name,address
+,,maintenance,2025-06-18,created_at,Federico Monti,1210579562360324,"[Duplicate] 287 Cleveland St, Redfern , Windows issues | broken glass",Resolved,maintenance,no,,,address
+,,maintenance,2025-06-19,created_at,Check Coin-Operated Dryers   Collect Coins,1210589417043880,Check Coin-Operated Dryers – Collect Coins,Resolved,maintenance,no,,tenant_derived_from_name,address
+,,maintenance,2025-06-20,created_at,Redfern   Laundry Camera Offline,1210595987146721,"287 Cleveland St, Redfern – Laundry Camera Offline",Resolved,maintenance,no,,tenant_derived_from_name,address
+,,maintenance,2025-06-28,created_at,Federico Monti,1210664744257209,"287 Cleveland St, Redfern - Toilet leak (1st Floor)",Resolved,maintenance,no,,,address
+,,maintenance,2025-07-03,created_at,Federico Monti,1210703212047754,"287 Cleveland St, Redfern - Washing Machine",Resolved,maintenance,yes,,,address
+,,maintenance,2025-07-08,created_at,Federico Monti,1210738560438147,"287 Cleveland St, Redfern - Additional Kitchen and Outside Bins",Resolved,maintenance,yes,,,address
+,,maintenance,2025-07-16,created_at,,1210805844364099,287 Cleveland St - Vacuum not working,Resolved,maintenance,yes,,,address
+,,maintenance,2025-07-19,created_at,Redfern - Damaged baseboard,1210836853070405,"287 Cleveland St, Redfern - Damaged baseboard",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-07-24,created_at,Federico Monti,1210878659347212,"287 Cleveland St, Redfern - Fridge leak",Resolved,maintenance,yes,,,address
+,,maintenance,2025-07-28,created_at,Federico Monti,1210904058813273,"287 Cleveland St, Redfern - Broken stove oven",Resolved,maintenance,yes,,,address
+,,maintenance,2025-08-01,created_at,Redfern - Kitchen cupboard door,1210945973830022,"287 Cleveland St, Redfern - Kitchen cupboard door",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-08-01,created_at,Stove or oven not working,1210945908913391,"[Duplicate] 287 Cleveland St, Redfern , Stove or oven not working",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-08-04,created_at,Sebastian,1210961247682198,"287 Cleveland St, Redfern - Washing machine",Resolved,maintenance,yes,,,address
+,,maintenance,2025-08-09,created_at,Federico Monti,1211011704246697,"287 Cleveland St, Room 4 - Water leak",Resolved,maintenance,yes,,,address
+,,maintenance,2025-09-05,created_at,Daika Yamamoto,1211252770387712,"Room 4/285 Cleveland St, Redfern - Mould issue",Resolved,maintenance,yes,yes,delay,address
+,,maintenance,2025-09-26,created_at,Redfern - Wardrobe Issue,1211473388993486,"5/287 Cleveland St, Redfern - Wardrobe Issue",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-09-26,created_at,,1211473281593810,"3/287 Cleveland St, Redfern - Room Issues",Resolved,maintenance,yes,,,address
+,,maintenance,2025-09-30,created_at,Redfern - Marijuana,1211504173694401,"Room 5/287 Cleveland St, Redfern - Marijuana",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-10-04,created_at,SYED AYAAN HUSSAIN,1211551003035784,"287 Cleveland St, Redfern - Power Issue",Resolved,maintenance,yes,,,address
+,,maintenance,2025-10-13,created_at,Leonardo Gomez,1211621137523138,"Room 2/287 Cleveland St, Redfern - Smoke alarm beeping",Resolved,maintenance,yes,,,address
+,,maintenance,2025-10-18,created_at,edward,1211678171940864,"287 Cleveland St, Redfern - Toilet won't stop flushing",Resolved,maintenance,yes,,,address
+,,maintenance,2025-10-28,created_at,Redfern - Additional Bed,1211764735895363,"Room 6/287 Cleveland St, Redfern - Additional Bed",Resolved,maintenance,yes,,tenant_derived_from_name,address+room_code
+,,maintenance,2025-11-24,created_at,Redfern - Clogged sink  Downstairs Bathroom,1212060861720015,"287 Cleveland St, Redfern - Clogged sink (Downstairs Bathroom)",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-11-25,created_at,,1212083970101130,"Room 6/287 Cleveland St, Redfern - Room Light Issue",Resolved,maintenance,yes,,,address
+,,maintenance,2025-11-25,created_at,Flooding or serious flood damage,1212083958431873,"[Duplicate] 287 Cleveland St, Redfern , Flooding or serious flood damage",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-11-27,created_at,Santiago,1212152788070198,"287 Cleveland St, Redfern - Leaking Toilet",Resolved,maintenance,yes,,,address
+,,maintenance,2025-11-29,created_at,Santiago,1212223861389053,"287 Cleveland St, Redfern - Main door code issue",Resolved,maintenance,yes,,,address
+,,maintenance,2025-12-19,created_at,Mattress replacement,1212512452425303,"6/287 Cleveland St, Redfern , Mattress replacement",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2025-12-20,created_at,Redfern-Cleaning,1212536834629510,"287 Cleveland St, Redfern-Cleaning",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-01-05,created_at,,1212645202198297,"287 Cleveland St, Redfern - Cleaning Schedules 2026",Routine Cleaning,maintenance,yes,,,address
+,,maintenance,2026-02-04,created_at,Surry Hills - Rebuilding of balconies,1213073114639764,"285 - 287 Cleveland St, Surry Hills - Rebuilding of balconies",Resolved,maintenance,yes,yes,transfer_cancel|tenant_derived_from_name,address
+,,maintenance,2026-02-20,created_at,NA,1213366679384002,"287 Cleveland St, Redfern - Pest Control (Rats mostly & roaches)",Resolved,maintenance,yes,,,address
+,,maintenance,2026-02-20,created_at,Denis Stein,1213369065442263,"[Duplicate] Redfern, 287 Cleveland Street, Pest Control",Resolved,maintenance,yes,,,address
+,,maintenance,2026-02-20,created_at,Denis Stein,1213369069618250,"[Duplicate] Redfern, 287 Cleveland St, Pest Control",Resolved,maintenance,yes,,,address
+,,maintenance,2026-02-20,created_at,Jin Vergara,1213361782571865,[Duplicate] 287 Cleveland St Redfern NSW- Pest Control (Rats),Resolved,maintenance,yes,,,address
+,,maintenance,2026-02-26,created_at,Redfern - Multiple Issues,1213443227745783,"287 Cleveland St, Redfern - Multiple Issues",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-03-18,created_at,Denis Stein,1213716976185028,287 Cleveland St - Kitchen cupboard door fell,Resolved,maintenance,yes,,,address
+,,maintenance,2026-04-04,created_at,Redfern - Broken Bed Frame Stand,1213923087196506,"Room 1b/287 Cleveland St, Redfern - Broken Bed Frame Stand",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-04-04,created_at,Redfern - No hot water,1213923087916958,"287 Cleveland St, Redfern - No hot water",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-04-04,created_at,Jack Hogan-Finlay,1213922910781496,[Duplicate] 287 Cleveland St Redfern 2016- No hot water,Resolved,maintenance,yes,,,address
+,,maintenance,2026-04-19,created_at,Joji Hirata,1214121324031455,"Room 1/287 Cleveland St, Redfern, Ground Floor - Flies Infestation",Resolved,maintenance,yes,,,address
+,,maintenance,2026-04-28,created_at,Jack Hogan,1214322349073329,"Room 6/287 Cleveland St, Redfern - Weak WiFi signal",Resolved,maintenance,yes,,,address
+,,maintenance,2026-05-08,created_at,,1214626253195516,Room 7/287 Cleveland - Bed frame loosing screw,Resolved,maintenance,yes,,,address
+,,maintenance,2026-05-20,created_at,Redfern - Unstable bed frame  head part,1214956699989370,"Room 5/287 Cleveland St, Redfern - Unstable bed frame (head part)",Furniture Replacement,maintenance,yes,,tenant_derived_from_name,address+room_code
+,,maintenance,2026-05-20,created_at,Redfern - Uncleaned Common Area,1214963751680652,"287 Cleveland St, Redfern - Uncleaned Common Area",Resolved,maintenance,yes,,tenant_derived_from_name,address
+,,maintenance,2026-05-31,created_at,Udaya Gaddam,1215263220491287,"Room 7/287 Cleveland St, Redfern - Internet Issue",Resolved,maintenance,yes,,,address+room_code
+,,maintenance,2026-06-21,created_at,Emily Potts,1215880183262301,"287 Cleveland St, Redfern - Smoke alarm beeping",Resolved,maintenance,yes,,,address
+,,maintenance,2026-06-29,created_at,Javier Abascal,1216101109966024,"Room 2/287 Cleveland St, Redfern - Mould issue (due to ventilation)",Painting / Mould,maintenance,yes,,,address
+,,maintenance,2026-06-29,created_at,,1216104325339022,287 Cleveland Redfern -  Overflow Bins (charge to occupants),Bins,maintenance,yes,,,address

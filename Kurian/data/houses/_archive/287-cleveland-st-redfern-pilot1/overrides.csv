@@ -1,0 +1,12 @@
+task_id,action,reason,ruled_by,ruled_on
+1212431175562746,exclude,Cancelled Sale - Full Refund (Charlie #40A); not a tenancy,pipeline-pending-Kurian,2026-07-05
+1211582986718236,exclude,Cancelled Sale - Full Refund (Julian #39); not a tenancy,pipeline-pending-Kurian,2026-07-05
+1212843836646006,exclude,Cancelled Sale - Partial Refund + transfer (Bryan #40A); not a completed tenancy,pipeline-pending-Kurian,2026-07-05
+1210779236783683,exclude,Cancelled Sale - Non Refundable (Andres #035A); not a tenancy,pipeline-pending-Kurian,2026-07-05
+1211792711161342,exclude,Cancelled Sale - Non Refundable (Josue #035A temp-only; perm room #165 Surry Hills); not a 287 tenancy,pipeline-pending-Kurian,2026-07-05
+1212897058415733,exclude,LR lease-renewal stub (Inga #38); no payment/tenant fields; not a move-in,pipeline-pending-Kurian,2026-07-05
+1211917167195053,exclude,Retracted/superseded duplicate move-out (Haroun Zouari #40B Nov 19 no-data); real MO is Dec 9 task 1212152556949219,pipeline-pending-Kurian,2026-07-05
+1213589504292986,promote_move_out,PERM Room Transfer OUT of Room 1 #035B (Jin Hendrix) into 037A; effective move-out 2026-03-13; subtask promoted per defect#2 (double_check said 035B should close on transfer date),pilot-orchestrator,2026-07-05
+1210737767129253,exclude,Retracted OFFER RELOC (Lisa Wilson #36); tenant stayed - Move Out Cancelled per Asana comments; not a tenancy event (real MO is task 1211310066686372),asana-comment,2026-07-05
+1211557559194849,exclude,"Giordano Perinelli #41 move-in — Kurian/slot-method r3: confirmed NEVER MOVED IN (full SD refund); non-occupancy, not a tenancy",slot-method-per-Kurian,2026-07-05
+1211738290119973,exclude,"Giordano Perinelli #40 move-out — non-occupancy counterpart (never moved in); excluded so it stops generating a Room 6 orphan_out",slot-method-per-Kurian,2026-07-05

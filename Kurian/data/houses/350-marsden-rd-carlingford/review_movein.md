@@ -1,0 +1,22 @@
+## Move-in tasks (top-level: 20 reviewed, 0 flagged)
+
+- [1215477961015358](https://app.asana.com/0/0/1215477961015358/f) Room 1 (1812, 67 Alamein) | Mahyar | Move-in to FOREIGN room #1812 (67 Alamein); belongs-to-other-house. Paired with PERM transfer OUT of 350's #1175. Rule-resolved: override keeps parent unattributed to 350 (rulings.md).
+- [1215448897492309](https://app.asana.com/0/0/1215448897492309/f) Room 7 (1175) | Mahyar | New Tenant move-in 2026-06-06, paid 2026-06-05 OK. Short 2-day stay; PERM transfer-out to #1812 promoted as move-out 2026-06-08 via override. Rule-resolved (rulings.md).
+- [1213414866165509](https://app.asana.com/0/0/1213414866165509/f) Room 3 (1171) | Md Aftab | New Tenant move-in 2026-03-01, paid 2026-02-24 OK, code matches. Current tenant (Kurian round-3 ruling). Clean.
+- [1213473479987837](https://app.asana.com/0/0/1213473479987837/f) Room 1 (1169) | Sudipta | New Tenant move-in 2026-03-04, paid 2026-02-28 OK, code matches. Clean.
+- [1213210731623192](https://app.asana.com/0/0/1213210731623192/f) Room 6 (1174) | Atharva | New Tenant move-in 2026-02-25, paid 2026-02-10 OK, code matches. Clean.
+- [1213260614973706](https://app.asana.com/0/0/1213260614973706/f) Room 1 (1169) | Dhruv | New Tenant move-in 2026-02-15, paid 2026-02-13 OK, code matches. Clean.
+- [1213210855987272](https://app.asana.com/0/0/1213210855987272/f) Room 3 (1171) | Islam | PERM transfer INTO Room 3 (#1171) from prior code 1339, move-in 2026-02-10, paid same day OK. Attribution confirmed clean (rulings.md).
+- [1213025038066578](https://app.asana.com/0/0/1213025038066578/f) Room 1 (1169) | Muhammad Faizan | New Tenant move-in 2026-02-04, paid 2026-01-29 OK, code matches. Clean.
+- [1212791162989772](https://app.asana.com/0/0/1212791162989772/f) Room 5 (1173) | Jason | Move-in 2026-02-01, paid 2026-01-14 OK. Tenant-Name field "Toni Roventa" is a data-entry artifact; email = Jason Vero (same person). Rule-resolved clean (rulings.md).
+- [1212430510130927](https://app.asana.com/0/0/1212430510130927/f) Room 2 (1170) | Chu Haur | New Tenant move-in 2025-12-17, paid 2025-12-13 OK, code matches. Clean.
+- [1211764253401407](https://app.asana.com/0/0/1211764253401407/f) Room 7 (1175) | Patrick | New Tenant move-in 2025-11-01, paid 2025-10-28 OK, code matches. Clean.
+- [1211677946964542](https://app.asana.com/0/0/1211677946964542/f) Room 5 (1816, 67 Alamein) | Mursel | Perm room #1816 (foreign) not ready; placed in TEMPORARY Room 7 #1175 at 350 from ~2025-10-24. Short temp stay, paid 2025-10-18 OK. Rule-resolved (rulings.md).
+- [1211552888817152](https://app.asana.com/0/0/1211552888817152/f) Room 5 (1173) | Binshaj | New Tenant move-in 2025-10-06, paid 2025-10-05 OK, code matches. Clean.
+- [1211559250062161](https://app.asana.com/0/0/1211559250062161/f) Room 2 (1170) | Basith | New Tenant move-in 2025-10-07, paid 2025-10-06 OK, code matches. Clean.
+- [1211255777029826](https://app.asana.com/0/0/1211255777029826/f) Room 7 (1175) | Benjamin | New Tenant move-in 2025-09-05, paid same day OK, code matches. Clean.
+- [1210898021628843](https://app.asana.com/0/0/1210898021628843/f) Room 6 (1174) | Rhine | New Tenant move-in 2025-08-02, paid 2025-07-27 OK, code matches. Clean.
+- [1210817071437686](https://app.asana.com/0/0/1210817071437686/f) Room 7 (1175) | Liam | Name cites #1643 17 Tracey Ave but that transfer was CANCELLED; room sold = #1175. Move-in 2025-07-26, paid 2025-07-17 OK. Rule-resolved clean (rulings.md).
+- [1210797018400823](https://app.asana.com/0/0/1210797018400823/f) Room 1 (1169) | Hoang | New Tenant move-in 2025-07-17, paid 2025-07-15 OK, code matches. Clean.
+- [1210520924114448](https://app.asana.com/0/0/1210520924114448/f) Room 2 (1170) | Malik | New Tenant move-in 2025-06-27, paid 2025-06-11 OK, code matches; outside audit window. Dual-name title (Malik & Yasir) both attributed in tenancies (Malik ongoing, Yasir orphan_out). Note only.
+- [1215240103348912](https://app.asana.com/0/0/1215240103348912/f) Room 7 (1175) | Noah | Cancelled Sale - Non Refundable; no payment. NOT a tenancy — excluded via override at timeline stage. Rule-resolved (overrides.csv).

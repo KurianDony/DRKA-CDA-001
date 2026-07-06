@@ -1,0 +1,6 @@
+target_kind,tenant,room_code,candidate_task_id,candidate_url,candidate_name,candidate_date,is_subtask,score,already_in_dataset
+T2_missing_movein,Yoshiki Isu,431,1211726278373541,https://app.asana.com/0/0/1211726278373541/f,"➡️ Room Transfer - Room 1, #431, 1/148 Liverpool Rd, Enfield, Yoshiki Isu",2025-11-16,yes,5.0,yes
+T2_missing_movein,Yoshiki Isu,431,1209616670948136,https://app.asana.com/0/0/1209616670948136/f,"Yoshiki Isu, Room 1, #431, 1/148 Liverpool Rd, Enfield",2025-03-16,,4.5,
+T2_missing_movein,Yoshiki Isu,431,1211726191827829,https://app.asana.com/0/0/1211726191827829/f,"Yoshiki Isu, Room 4, #1740, 34 George St, North Strathfield",2025-11-16,,2.5,
+T2_missing_movein,Hassan Simiyu Juma,432,1209546041368802,https://app.asana.com/0/0/1209546041368802/f,"Hassan Simiyu Juma  , Room 2, #432, 1/148 Liverpool Rd, Enfield",2025-03-02,,4.5,
+T1_missing_moveout,Subhojit Talukdar,433,1215080384156379,https://app.asana.com/0/0/1215080384156379/f,"Room 5, #1373, 305R King St, Newtown, Subhojit Talukdar",2026-06-23,,2.5,

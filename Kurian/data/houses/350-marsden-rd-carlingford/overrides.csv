@@ -1,0 +1,7 @@
+task_id,action,reason,ruled_by,ruled_on
+1215240103348912,exclude,Cancelled Sale - Non Refundable (Noah); not a tenancy event,pipeline-pending-Kurian,2026-07-05
+1216098477207302,exclude,Out-of-window duplicate move-out for Md Aftab Ovi (Due 2026-07-03); superseded by 1215355847925679 per window discipline,pipeline-pending-Kurian,2026-07-05
+1210517519257845,exclude,Room 4 (1172) Internal Condition Report admin task; no tenant/departure,pipeline-pending-Kurian,2026-07-05
+1215478013034340,promote_move_out,PERM Room Transfer OUT of Room 7 #1175 (Mahyar) is effective move-out 2026-06-08; subtask promoted per defect#2. Parent 1215477961015358 is move-in to foreign #1812 and stays unattributed,pilot-orchestrator,2026-07-05
+1215355847925679,exclude,Move-out RETRACTED - retraction letter sent 2026-06-09 (comment by Jen Cabana); payment received & notice withdrawn. Not a departure. NOTE: tenant re-submitted a fresh move-out 1216098477207302 (Due 2026-07-03) which is out-of-window and already excluded - so Md Aftab #1171 has NO in-window departure,asana-comment,2026-07-05
+1213322591040000,promote_move_out,"Gap-hunt: PERM Room Transfer OUT of Room 1 #1169 (Dhruv Janghu) to #1491 563 Pennant Hills; Asana-verified completed 2026-02-20 (Move Out updated PME+Portfolio, OCR clear no deductions, endorsed to Accounting; flag_transfer_cancel was a false alarm). Subtask promoted per defect#2; effective move-out 2026-02-20.",gap-hunt,2026-07-06

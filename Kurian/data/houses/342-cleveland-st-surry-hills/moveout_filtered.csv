@@ -1,0 +1,503 @@
+Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent task,Blocked By (Dependencies),Blocking (Dependencies),Estimated time,Actual time,Tenant Name,Email Address,Bond Held,CR Charges,Earliest Date to Move Out,Lease Start Date,Lease End Date,Submission Date,Paid to Dates,Deadline for Replacement,Days Diff (Submission-Move Out),% of Lease Expired,Break Fee (if applicable),Owner,Relocation Option,Contact Number,Who is reporting ,Room Status,Move Out Reason,Form Reason,(General) House Address ,Off boarding Team,Move out notice,NPS,Tenant Feedback,Creation to Today's Date,Due Date to Completion,Type of Retention Request,Retention Contact Status,Retention Successful - Reason,Retention Unsuccessful,Retention - Tenant Feedback,Type of Request,Retention Team,Temporary Room,test,Full Property Address,match_reason,matched_room_codes,event_date,in_window,is_subtask,task_url,flag_transfer_cancel,flag_date_keyword,flag_inconsistency,human_review
+1215425074500556,2026-06-04,2026-06-29,2026-07-02,"⌛🛌🏻 Room 2, #1105, 342 Cleveland St, Surry Hills, Wing Ho Wong",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2026-06-17,"4W Leaving Early - Period ,ENDORSED TO ACCOUNTING,🏁 OCR/ICR Done,👍🏽👍🏽  SCHED","Select your suburb:
+Surry Hills
+
+Full property address:
+342 Cleveland street
+
+Please select an option:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Still in the house
+
+When does your lease agreement end?:
+Jun 17, 2026 at 12:00am
+
+When are you thinking of moving out or when did you move out?:
+Jun 17, 2026 at 12:00am
+
+What is the reason why you want to move out?:
+Other 
+
+Please specify.:
+No window in my room and the bed is too soft
+
+Would you like to explore relocation options with CDA?:
+No
+
+Please enter your full name:
+Wing Ho Wong
+
+Please enter your email address:
+Wingho222158@gmail.com
+
+Best Contact Number:
+0451321215
+
+Bank Account Details:
+Wing Ho Wong
+BSB - 062439 Account number - 10934730
+
+How likely are you recommend CdA to your friends and family?:
+3
+
+Who completed this form?:
+Tenant
+
+❌ MOVE OUT NOTICE: Not compliant
+    must be paid until July 2
+✅ OCR Clear - no deductions
+
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Retention Team",,,,,,Wing Ho Wong,Wingho222158@gmail.com,,,2026-07-02,,,2026-06-04,2026-07-02,,18720,,,,No,0451321215,,Still in the house,Other ,I want to provide my move out notice,,Chriszsa Sicad,,3,,-39873,17254,Move Out Notice,Notified ,,Uncontrollable,No response - unable to contact the tenant,,Gerald,,18720,342 Cleveland street,address+room_code,1105,2026-06-17,yes,,https://app.asana.com/0/0/1215425074500556/f,yes,,,yes
+1214988907606510,2026-05-21,2026-06-02,2026-07-02,"➡️ PERM Room Transfer - Room 1, #1104, 342 Cleveland St, Surry Hills, Arturo Sandoval Montiel",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2026-05-26,"ENDORSED TO ACCOUNTING,ROOM TRANSFER ☎️, DONE 🛠️,🏁 OCR/ICR Done,👍🏽👍🏽  SCHED","❗Delete this subtask if there's already an existing move-out task for this tenant. If no move out task, use this task instead.
+
+Bank details:
+requested via PME ⌛
+
+➡️ PERM Room Transfer
+✅ OCR Clear - no deductions",Off boarding team ,"Arturo Sandoval Montiel, Room 5, #66, 32 Pitt St, Redfern",,,,,,,,,,,,,,,,,,CDA - Navid ,,,,,,,,Chriszsa Sicad,,,,-60305,10199,,,,,,,,,,,address+room_code,1104,2026-05-26,yes,yes,https://app.asana.com/0/0/1214988907606510/f,yes,,,yes
+1214989030041968,2026-05-21,2026-05-25,2026-07-02,"Room 2, #1105, 342 Cleveland St, Surry Hills, Wing Ho Wong",Completed,Jen Cabana,jennelyn@cdacoliving.com,,2026-05-27,,,Off boarding team ,,,,,,Wing Ho Wong,wingho222158@gmail.com,,,,,,,,,,,,CLS VIC - Navid and James,,‪+61 451 421 215‬,,,,,,,,,,-60145,-2911,,,,,,,Gerald,,,,address+room_code,1105,2026-05-27,yes,,https://app.asana.com/0/0/1214989030041968/f,,,,
+1214921711169447,2026-05-19,2026-05-21,2026-07-02,"Room 3, #1106, 342 Cleveland St, Surry Hills, James Xander Rothwel",Completed,Jen Cabana,jennelyn@cdacoliving.com,,2026-05-25,AR EVICTED,,Off boarding team ,,,,,,James Xander Rothwel,jamesxander597@gmail.com,,,,,,,,,,,,CLS VIC - Navid and James,,"'+44 7958953835, +61450189325",,,,,,Chriszsa Sicad,,,,-62907,-5800,,,,,,,Gerald,,,,address+room_code,1106,2026-05-25,yes,,https://app.asana.com/0/0/1214921711169447/f,,,,
+1213979489803144,2026-04-08,2026-05-11,2026-07-02,"NT May 9 - Room 4, #1107, 342 Cleveland St, Surry Hills, Asta Nonboe",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2026-05-06,"3/4 weeks notice met,ENDORSED TO ACCOUNTING, DONE 🛠️,🏁 OCR/ICR Done,👍🏽👍🏽  SCHED","Select your suburb:
+Surry Hills
+
+Full property address:
+342 Cleveland St
+
+Please select an option:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Still in the house
+
+When does your lease agreement end?:
+Mar 3, 2026
+
+When are you thinking of moving out or when did you move out?:
+May 6, 2026
+
+What is the reason why you want to move out?:
+Moving to a different city/country
+
+Are you planning to come back to Australia iin the next 3-6 months?:
+Yes
+
+Would you like to explore relocation options with CDA?:
+No
+
+Please enter your full name:
+Asta Nonboe
+
+Please enter your email address:
+asta.nonboe@gmail.com
+
+Best Contact Number:
++61 415667192
+
+Bank Account Details:
+Bank Name: Commonwealth Bank
+Account Name: Asta Nonboe
+Account Number: 1246 2820
+BSB: 06 2028
+
+How likely are you recommend CdA to your friends and family?:
+4
+
+Who completed this form?:
+Tenant
+
+✅ MOVE OUT NOTICE: Compliant
+✅ OCR Clear - no deductions
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Retention Team",,,,,,Asta Nonboe,asta.nonboe@gmail.com,,,,,,2026-04-08,2026-05-05,,40320,,,CDA - Navid ,No,'+61 415667192,,Still in the house,Moving to a different city/country,I want to provide my move out notice,,Chriszsa Sicad,,4,,-121877,7263,Move Out Notice,Contacted,,Uncontrollable,Moving to another City,,Gerald,,40320,342 Cleveland St,address+room_code,1107,2026-05-06,yes,,https://app.asana.com/0/0/1213979489803144/f,yes,,,yes
+1213325871068653,2026-02-18,2026-04-09,2026-07-02,"NT March 20 - ↔️ TEMPORARY ROOM OCR/ICR - Room 2, #597, 10 England Ave, Marrickville, Wing Ho Wong, March 18, 2026",Completed,Jullian Lim,jullian@cdacoliving.com,,2026-03-19,"ENDORSED TO ACCOUNTING, DONE 🛠️,🏁 OCR/ICR Done,Removed,👍🏽👍🏽  SCHED,TRANSFER TO PERM ROOM","
+Please charge additional 1 day rent for this tenant due to he did not move out on time
+
+✅ OCR REVIEWED:
+Tenant Charges:
+- None, All clear","Off boarding team ,2025_Applications/Moving In","*Wing Ho Wong, (Mar 18) Room 2, #1105, 342 Cleveland St, Surry Hills; TEMPORARY ROOM (Feb 21) Room 2, #597, 10 England Ave, Marrickville",,,,,,,,,,,,,,,,,,,,,,,,,,Jullian Lim,,,,-192226,30369,,,,,,,,,,,address+room_code,1105,2026-03-19,yes,yes,https://app.asana.com/0/0/1213325871068653/f,,,,
+1213336704250955,2026-02-19,2026-03-24,2026-07-02,"➡️ NT March 22 - PERM Room Transfer - Room 5, #66, 32 Pitt St, Redfern, Arturo Sandoval Montiel",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2026-03-19,"ENDORSED TO ACCOUNTING,ROOM TRANSFER ☎️, DONE 🛠️,🏁 OCR/ICR Done,👍🏽👍🏽  SCHED","❗Delete this subtask if there's already an existing move-out task for this tenant. If no move out task, use this task instead.
+
+➡️ PERMANENT Room Transfer
+✅ TENANT CHARGES
+    Room cleaning - $50
+
+Bank details:
+requested via pME ⌛","Off boarding team ,2025_Applications/Moving In","Arturo Sandoval Montiel, Room 1, #1104, 342 Cleveland St, Surry Hills",,,,,,,,,,,,,,,,,,CDA - Navid ,,,,,,,,Chriszsa Sicad,,,,-191345,7578,,,,,,,,,,,address+room_code,1104,2026-03-19,yes,yes,https://app.asana.com/0/0/1213336704250955/f,yes,,,yes
+1213292306521428,2026-02-16,2026-03-23,2026-07-02,"🛠️ NT March 19 - Room 1, #1104, 342 Cleveland St, Surry Hills, Blake Steven Withers",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2026-03-16,"3/4 weeks notice met,ENDORSED TO ACCOUNTING, DONE 🛠️,🏁 OCR/ICR Done,👍🏽👍🏽  SCHED","Select your suburb:
+Surry Hills
+
+Full property address:
+342 Cleveland St, Surry Hills NSW 2010
+
+Please select an option:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Still in the house
+
+When does your lease agreement end?:
+Jul 10, 2025 at 4:00pm
+
+When are you thinking of moving out or when did you move out?:
+Mar 16, 2026 at 3:00pm
+
+What is the reason why you want to move out?:
+Moving in with friends/family 
+
+Would you like to explore relocation options with CDA?:
+No
+
+Please enter your full name:
+Blake Withers
+
+Please enter your email address:
+Blakeofthered@gmail.com
+
+Best Contact Number:
+0434596754
+
+Bank Account Details:
+Westpac
+Blake Withers
+BSB 732-016
+Account number 658927
+
+How likely are you recommend CdA to your friends and family?:
+4
+
+Who completed this form?:
+Tenant
+
+✅ MOVE OUT NOTICE: Compliant
+✅ OCR Clear - no deductions
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Retention Team",,,,,,Blake Withers,Blakeofthered@gmail.com,,,,,,2026-02-16,2026-03-15,,40560,,,CDA - Navid ,No,0434596754,,Still in the house,Moving in with friends/family ,I want to provide my move out notice,,Chriszsa Sicad,,4,,-195627,9811,Move Out Notice,Contacted,,Uncontrollable,Moving to another City,,Gerald,,40560,"342 Cleveland St, Surry Hills NSW 2010",address+room_code,1104,2026-03-16,yes,,https://app.asana.com/0/0/1213292306521428/f,yes,,,yes
+1213197381147418,2026-02-12,2026-03-20,2026-07-02,"🛠️🛏️ Room 2, #1105, 342 Cleveland St, Surry Hills, Daniel Lewis Walker",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2026-03-15,"3/4 weeks notice met,ENDORSED TO ACCOUNTING, DONE 🛠️,🏁 OCR/ICR Done,👍🏽👍🏽  SCHED","Select your suburb:
+Surry Hills
+
+Full property address:
+342 Cleveland St, Surry Hills
+
+Please select an option:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Still in the house
+
+When does your lease agreement end?:
+Mar 9, 2026 at 8:00am
+
+When are you thinking of moving out or when did you move out?:
+Mar 9, 2026
+
+What is the reason why you want to move out?:
+Moving to a different city/country
+
+Where are you moving to?:
+Darwin
+
+Are you planning to come back to Australia iin the next 3-6 months?:
+Yes
+
+Would you like to explore relocation options with CDA?:
+No
+
+Please enter your full name:
+Danny Walker
+
+Please enter your email address:
+walkerdanny96@gmail.com
+
+Best Contact Number:
+0434075930
+
+Bank Account Details:
+West Pac 
+Daniel Walker
+658943
+732-016
+
+How likely are you recommend CdA to your friends and family?:
+1
+
+Comments/Suggestions:
+There’s rats under the floorboards, living next to the kitchen is noisy, room often smells of food, fan is temperamental. General house cleanliness 
+
+Who completed this form?:
+Tenant
+
+✅ MOVE OUT NOTICE: Compliant
+✅ TENANT CHARGES
+    Room cleaning - $75 (including the item left behind)
+
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Retention Team",,,,,,Danny Walker,walkerdanny96@gmail.com,,,,,,2026-02-10,2026-03-14,,47520,,,CDA - Navid ,No,0434075930,,Still in the house,Moving to a different city/country,I want to provide my move out notice,,Chriszsa Sicad,,1,"There’s rats under the floorboards, living next to the kitchen is noisy, room often smells of food, fan is temperamental. General house cleanliness ",-201220,7117,Move Out Notice,Contacted,,Uncontrollable,,,Gerald,,47520,"342 Cleveland St, Surry Hills",address+room_code,1105,2026-03-15,yes,,https://app.asana.com/0/0/1213197381147418/f,yes,,,yes
+1211884074937124,2025-11-08,2025-12-12,2026-07-02,"NT Dec 10 - Room 2, #1105, 342 Cleveland St, Surry Hills, Sebastian Jhair Castro Bohorquez",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2025-12-08,"3/4 weeks notice met,ENDORSED TO ACCOUNTING, DONE 🛠️,🏁 OCR/ICR Done,👍🏽👍🏽  SCHED","Please enter your full name:
+Sebastian Jhair Castro Bohorquez
+
+Please choose your current address below:
+342 Cleveland St, Surry Hills
+
+Please select your room below:
+Room 2, #1105, 342 Cleveland St, Surry Hills
+
+Please select from the options below:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Still in the house
+
+When does your lease agreement end?:
+Dec 4, 2024
+
+When are you thinking of moving out or when did you move out?:
+Dec 8, 2025
+
+What is the reason why you want to move out?:
+Moving in with friends/family 
+
+Would you like to explore relocation options with CDA?:
+No
+
+Please enter your email address:
+Sebastian20122@gmail.com
+
+Best Contact Number:
++61450505094
+
+Bank Account Details:
+Account Name: Sebastian Castro Bohorquez
+BSB: 062705
+Account number: 10239273
+
+How likely are you recommend CdA to your friends and family?:
+4
+
+✅ MOVE OUT NOTICE: Compliant
+✅ TENANT CHARGES
+    Room cleaning - $100
+    Mattress cover - $85
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Retention Team",,,,,,Sebastian Jhair Castro Bohorquez,Sebastian20122@gmail.com,,,,,,2025-11-08,2025-12-06,,43200,,,CLS VIC - Navid and James,No,'+61450505094,,Still in the house,Moving in with friends/family ,I want to provide my move out notice,"342 Cleveland St, Surry Hills",Chriszsa Sicad,,4,,-339977,6120,Move Out Notice,Notified ,,Uncontrollable,Verified move-in with friends or family member,,Gerald,,43200,,address+room_code,1105,2025-12-08,yes,,https://app.asana.com/0/0/1211884074937124/f,yes,,,yes
+1211844297626203,2025-11-05,2025-12-04,2026-07-02,"NT Dec 4 - Room 4, #1107, 342 Cleveland St, Surry Hills, Seanna Maria Merome Connell",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2025-12-02,"3/4 weeks notice met, DONE 🛠️,🏁 OCR/ICR Done,👍🏽👍🏽  SCHED","Please enter your full name:
+Seanna Maria Merome Connell
+
+Please choose your current address below:
+342 Cleveland St, Surry Hills
+
+Please select your room below:
+Room 4, #1107, 342 Cleveland St, Surry Hills
+
+Please select from the options below:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Still in the house
+
+When does your lease agreement end?:
+Nov 24, 2025
+
+When are you thinking of moving out or when did you move out?:
+Dec 2, 2025
+
+What is the reason why you want to move out?:
+Moving to a different city/country
+
+Where are you moving to?:
+Netherlands
+
+Are you planning to come back to Australia iin the next 3-6 months?:
+No
+
+Would you like to explore relocation options with CDA?:
+No
+
+Please enter your email address:
+merome.connell@gmail.com
+
+Best Contact Number:
++61493242112
+
+Bank Account Details:
+Beneficiary: Seanna Connell
+Account: 102881117
+BSB Number: 772772
+
+How likely are you recommend CdA to your friends and family?:
+5
+
+✅ MOVE OUT NOTICE: Compliant
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Retention Team",,,,,,Seanna Maria Merome Connell,merome.connell@gmail.com,,,,,,2025-11-05,2025-12-01,,38880,,,CLS VIC - Navid and James,No,'+61493242112,,Still in the house,Moving to a different city/country,I want to provide my move out notice,"342 Cleveland St, Surry Hills",Chriszsa Sicad,,5,,-344006,3035,Move Out Notice,Notified ,,Uncontrollable,Prefer not to provide feedback,,Gerald,,38880,,address+room_code,1107,2025-12-02,yes,,https://app.asana.com/0/0/1211844297626203/f,yes,,,yes
+1210449861231261,2025-06-03,2025-07-24,2026-07-02,"Room 4, #1107, 342 Cleveland St, Surry Hills, Baldiri Vidal Correa",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2025-07-20,"3/4 weeks notice met,ENDORSED TO ACCOUNTING, DONE 🛠️","Please enter your full name:
+Baldiri Vidal 
+
+Please choose your current address below:
+342 Cleveland St, Surry Hills
+
+Please select your room below:
+Room 4, #1107, 342 Cleveland St, Surry Hills
+
+Please select from the options below:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Still in the house
+
+When does your lease agreement end?:
+Mar 5, 2025
+
+When are you thinking of moving out or when did you move out?:
+Jun 14, 2025
+
+What is the reason why you want to move out?:
+Moving in with friends/family 
+
+Would you like to explore relocation options with CDA?:
+No
+
+Please enter your email address:
+bal2795@gmail.com
+
+Best Contact Number:
+0415062600 
+
+Bank Account Details:
+Commonwealth 
+Baldiri Vidal 
+BSB: 062124
+Account number: 11909811
+
+How likely are you recommend CdA to your friends and family?:
+2
+
+✅ MOVE OUT NOTICE: Compliant
+✅ TENANT CHARGES
+    Mattress cover - $85
+
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Condition Reports (live)",,,,,,Baldiri Vidal ,bal2795@gmail.com,,,2025-07-01,,,2025-06-03,2025-06-30,2025-06-11,67680,,,CLS VIC - Navid and James,No,0415062600 ,,Still in the house,Moving in with friends/family ,I want to provide my move out notice,"342 Cleveland St, Surry Hills",Chriszsa Sicad,,2,Good Place to stay,-566763,5897,,Contacted - 3rd Attempt,Retention Unsuccessful - For Move Out,Uncontrollable,,,,,67680,,address+room_code,1107,2025-07-20,yes,,https://app.asana.com/0/0/1210449861231261/f,yes,,,yes
+1210853410009561,2025-07-22,2025-07-24,2026-03-26,Remove from Portfolio - New Raw Data,,,,,,,,,"Room 4, #1107, 342 Cleveland St, Surry Hills, Baldiri Vidal Correa",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-355427,,,,,,,,,,,,address+room_code,1107,2025-07-22,yes,yes,https://app.asana.com/0/0/1210853410009561/f,,,no_moveout_date,yes
+1210853410009573,2025-07-22,2025-07-24,2026-03-26,Remove from CDA Floor Plan Slides,,,,,,,,,"Room 4, #1107, 342 Cleveland St, Surry Hills, Baldiri Vidal Correa",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-355427,,,,,,,,,,,,address+room_code,1107,2025-07-22,yes,yes,https://app.asana.com/0/0/1210853410009573/f,,,no_moveout_date,yes
+1210531290858851,2025-06-12,2025-07-17,2026-07-02,"Room 5, #1108, 342 Cleveland St, Surry Hills, Daiana Stefania Sivak",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2025-07-12,"3/4 weeks notice met,ENDORSED TO ACCOUNTING, DONE 🛠️,🏁 OCR/ICR Done","Please enter your full name:
+Daiana Sivak
+
+Please choose your current address below:
+342 Cleveland St, Surry Hills
+
+Please select your room below:
+Room 5, #1108, 342 Cleveland St, Surry Hills
+
+Please select from the options below:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Still in the house
+
+When does your lease agreement end?:
+May 14, 2025 at 12:00pm
+
+When are you thinking of moving out or when did you move out?:
+Jul 12, 2025 at 11:00am
+
+What is the reason why you want to move out?:
+Issues with the maintenance of the property 
+
+Would you like to explore relocation options with CDA?:
+No
+
+Please enter your email address:
+daiana.sivak@hotmail.com
+
+Best Contact Number:
+0475187898
+
+Bank Account Details:
+Account name: DaianaSivak
+BSB - 062197 
+Account number - 11129544
+
+How likely are you recommend CdA to your friends and family?:
+1
+
+
+ON TIME NOTICE
+NO BREAK FEE
+✅ OCR Clear - no deductions
+
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Condition Reports (live)",,,,,,Daiana Sivak,daiana.sivak@hotmail.com,,,,2025-02-15,2025-05-14,2025-06-12,,,43260,,,CLS VIC - Navid and James,No,0475187898,,Still in the house,Issues with the maintenance of the property ,I want to provide my move out notice,"342 Cleveland St, Surry Hills",Chriszsa Sicad,,1,"Please improve your house. specially, maintenance.",-553813,7153,,Contacted - 3rd Attempt,Retention Unsuccessful - For Move Out,Uncontrollable,Cleanliness and maintenance issues,,,,43260,,address+room_code,1108,2025-07-12,yes,,https://app.asana.com/0/0/1210531290858851/f,yes,,,yes
+1210778985028679,2025-07-12,2025-07-17,2026-03-26,Remove from Portfolio - New Raw Data,,,,,,,,,"Room 5, #1108, 342 Cleveland St, Surry Hills, Daiana Stefania Sivak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-369652,,,,,,,,,,,,address+room_code,1108,2025-07-12,yes,yes,https://app.asana.com/0/0/1210778985028679/f,,,no_moveout_date,yes
+1210778985028691,2025-07-12,2025-07-17,2026-03-26,Remove from CDA Floor Plan Slides,,,,,,,,,"Room 5, #1108, 342 Cleveland St, Surry Hills, Daiana Stefania Sivak",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-369652,,,,,,,,,,,,address+room_code,1108,2025-07-12,yes,yes,https://app.asana.com/0/0/1210778985028691/f,,,no_moveout_date,yes
+1210582488460062,2025-06-18,2025-07-04,2026-07-02,"Room 6a, #1109, 342 Cleveland St, Surry Hills, Adrien Antoine Georges Lefebvre",Completed,Luisa Bustamante ,luisab@cdacoliving.com,,2025-07-02,"ENDORSED TO ACCOUNTING,W/ BREAK FEE,🏁 OCR/ICR Done","Please enter your full name:
+Lefebvre 
+
+Please choose your current address below:
+342 Cleveland St, Surry Hills
+
+Please select your room below:
+Room 6a, #1109, 342 Cleveland St, Surry Hills
+
+Please select from the options below:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Still in the house
+
+When does your lease agreement end?:
+Jul 5, 2025 at 4:40pm
+
+When are you thinking of moving out or when did you move out?:
+Jul 2, 2025 at 4:40pm
+
+What is the reason why you want to move out?:
+Moving to a different city/country
+
+Are you planning to come back to Australia iin the next 3-6 months?:
+Yes
+
+Would you like to explore relocation options with CDA?:
+No
+
+Please enter your email address:
+Adrien.ge.lefebvre@gmail.com
+
+Best Contact Number:
+0421486048
+
+Bank Account Details:
+Adrien Lefebvre 
+BSB - 062231 
+Account number - 10642723
+
+OR BANK FROM EMAIL
+BSB - 062235 Account number - 11086369
+
+How likely are you recommend CdA to your friends and family?:
+4
+
+❌ MOVE OUT NOTICE: Not compliant
+must be paid until July 15 or replacement
+with break fee of $360
+
+✅ TENANT CHARGES
+    mattress cover - $85
+    mattress - $100
+    room cleaning $75
+
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Condition Reports (live),Retention Team",,,,,,Lefebvre ,Adrien.ge.lefebvre@gmail.com,,,,2025-04-17,2025-07-18,2025-06-18,,2025-06-27,20160,82%,$360,CLS VIC - Navid and James,No,0421486048,,Still in the house,Moving to a different city/country,I want to provide my move out notice,"342 Cleveland St, Surry Hills",Chriszsa Sicad,,4,,-544956,3323,Move Out Notice,Contacted,,Uncontrollable,,,Markell,,20160,,address+room_code,1109,2025-07-02,yes,,https://app.asana.com/0/0/1210582488460062/f,yes,,,yes
+1210702423136032,2025-07-03,2025-07-04,2026-03-26,Remove from Portfolio - New Raw Data,,,,,,,,,"Room 6a, #1109, 342 Cleveland St, Surry Hills, Adrien Antoine Georges Lefebvre",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-383052,,,,,,,,,,,,address+room_code,1109,2025-07-03,yes,yes,https://app.asana.com/0/0/1210702423136032/f,,,no_moveout_date,yes
+1210702423136044,2025-07-03,2025-07-04,2026-03-26,Remove from CDA Floor Plan Slides,,,,,,,,,"Room 6a, #1109, 342 Cleveland St, Surry Hills, Adrien Antoine Georges Lefebvre",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-383052,,,,,,,,,,,,address+room_code,1109,2025-07-03,yes,yes,https://app.asana.com/0/0/1210702423136044/f,,,no_moveout_date,yes

@@ -1,0 +1,616 @@
+Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent task,Blocked By (Dependencies),Blocking (Dependencies),Estimated time,Actual time,Tenant Name,Email Address,Bond Held,CR Charges,Earliest Date to Move Out,Lease Start Date,Lease End Date,Submission Date,Paid to Dates,Deadline for Replacement,Days Diff (Submission-Move Out),% of Lease Expired,Break Fee (if applicable),Owner,Relocation Option,Contact Number,Who is reporting ,Room Status,Move Out Reason,Form Reason,(General) House Address ,Off boarding Team,Move out notice,NPS,Tenant Feedback,Creation to Today's Date,Due Date to Completion,Type of Retention Request,Retention Contact Status,Retention Successful - Reason,Retention Unsuccessful,Retention - Tenant Feedback,Type of Request,Retention Team,Temporary Room,test,Full Property Address,match_reason,matched_room_codes,event_date,in_window,is_subtask,task_url,flag_transfer_cancel,flag_date_keyword,flag_inconsistency,human_review
+1216098477207302,2026-06-29,,2026-07-02,"Room 3, #1171, 350 Marsden Rd, Carlingford, Md Aftab Ahamed Ovi",Termination Notices Sent (manual send move out email),Jen Cabana,jennelyn@cdacoliving.com,,2026-07-03,AR EVICTED,,"Off boarding team ,Retention Team",,,,,,Md Aftab Ahamed Ovi,aftabovi.student@gmail.com,,,,,,,,,,,,CLS VIC - Navid and James,,0452215893,,,,,,Chriszsa Sicad,,,,-4284,,,,,,,,Ella,,,,address+room_code,1171,2026-07-03,no,,https://app.asana.com/0/0/1216098477207302/f,,,,
+1213730185740200,2026-03-19,2026-06-22,2026-07-02,"🛠️ Room 7, #1175, 350 Marsden Rd, Carlingford, Patrick Joseph McKinney",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2026-03-18,"ENDORSED TO ACCOUNTING,LEFT - FORFEITED, DONE 🛠️,🏁 OCR/ICR Done,👍🏽👍🏽  SCHED","Select your suburb:
+Carlingford
+
+Full property address:
+Room 7, #1175, 350 Marsden Rd, Carlingford
+
+Please select an option:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Already left
+
+When does your lease agreement end?:
+Feb 28, 2026
+
+When are you thinking of moving out or when did you move out?:
+Mar 18, 2026
+
+What is the reason why you want to move out?:
+Other 
+
+Please specify.:
+Other
+
+Would you like to explore relocation options with CDA?:
+No
+
+Please enter your full name:
+Patrick Joseph McKinney
+
+Please enter your email address:
+patrickmckinneymusic@gmail.com
+
+Best Contact Number:
++61419595305
+
+Bank Account Details:
+tbc
+
+How likely are you recommend CdA to your friends and family?:
+3
+
+Who completed this form?:
+Company on behalf of the tenant
+
+🔴 LEFT WITHOUT PROPER NOTICE - BOND FORFEITED
+✅ TENANT CHARGES
+    Broken chandelier glass - $156
+    Light Bulb - $50
+
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Retention Team",,,,,,Patrick Joseph McKinney,patrickmckinneymusic@gmail.com,,,,,,2026-03-18,,,0,,,CLS VIC - Navid and James,No,'+61419595305,,Already left,Other ,I want to provide my move out notice,,Chriszsa Sicad,,3,,-151244,138235,Move Out Notice,FYI only,,,,,Gerald,,0,"Room 7, #1175, 350 Marsden Rd, Carlingford",address+room_code,1175,2026-03-18,yes,,https://app.asana.com/0/0/1213730185740200/f,yes,,,yes
+1215478013034340,2026-06-08,2026-06-12,2026-07-02,"➡️ PERM Room Transfer - Room 7, #1175, 350 Marsden Rd, Carlingford, Mahyar maleki rad",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2026-06-08,"ENDORSED TO ACCOUNTING, DONE 🛠️,🏁 OCR/ICR Done,👍🏽👍🏽  SCHED","❗Delete this subtask if there's already an existing move-out task for this tenant. If no move out task, use this task instead.
+
+➡️ PERM Room Transfer
+✅ OCR Clear - no deductions",Off boarding team ,"PAYMENT PLAN: Mahyar Maleki Rad, Room 1, #1812, 67 Alamein Ave, Carlingford",,,,,,,,,,,,,,,,,,,,,,,,,,Chriszsa Sicad,,,,-34420,6225,,,,,,,,,,,address+room_code,1175,2026-06-08,yes,yes,https://app.asana.com/0/0/1215478013034340/f,yes,,,yes
+1215355847925679,2026-06-03,2026-06-09,2026-07-02,"Room 3, #1171, 350 Marsden Rd, Carlingford, Md Aftab Ahamed Ovi",Completed,Jen Cabana,jennelyn@cdacoliving.com,,2026-06-09,AR EVICTED,,Off boarding team ,,,,,,Md Aftab Ahamed Ovi,aftabovi.student@gmail.com,,,,,,,,,,,,CLS VIC - Navid and James,,0452215893,,,,,,Chriszsa Sicad,,,,-41120,79,,,,,,,Gerald,,,,address+room_code,1171,2026-06-09,yes,,https://app.asana.com/0/0/1215355847925679/f,,,,
+1214700730665014,2026-05-11,2026-05-26,2026-07-02,"Room 5, #1173, 350 Marsden Rd, Carlingford, Jason David Luzano Vero",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2026-05-22,"ENDORSED TO ACCOUNTING,W/ BREAK FEE, DONE 🛠️,🏁 OCR/ICR Done,👍🏽👍🏽  SCHED","Select your suburb:
+Carlingford
+
+Full property address:
+350 Marsden Rd, Carlingford NSW 2118
+
+Please select an option:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Still in the house
+
+When does your lease agreement end?:
+Jul 31, 2026
+
+When are you thinking of moving out or when did you move out?:
+May 22, 2026
+
+What is the reason why you want to move out?:
+Moving in with friends/family 
+
+Would you like to explore relocation options with CDA?:
+No
+
+Please enter your full name:
+Jason Vero
+
+Please enter your email address:
+jasonvero1998@gmail.com
+
+Best Contact Number:
++61424031069
+
+Bank Account Details:
+Bank: ANZ 
+BSB: 012437
+Acc. No: 155724142
+
+How likely are you recommend CdA to your friends and family?:
+3
+
+Who completed this form?:
+Tenant
+
+❌ MOVE OUT NOTICE: Not compliant
+    with 1 week break fee
+✅ TENANT CHARGES
+    Mattress cover - $85
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Retention Team",,,,,,Jason Vero,jasonvero1998@gmail.com,,,,2026-02-01,2026-07-31,2026-05-08,2026-05-22,2026-05-20,20160,61.33%,$230,,No,'+61424031069,,Still in the house,Moving in with friends/family ,I want to provide my move out notice,,Chriszsa Sicad,,3,,-74533,6065,Move Out Notice,Contacted,,Uncontrollable,Good experience - uncontrollable factors,,Gerald,,20160,"350 Marsden Rd, Carlingford NSW 2118",address+room_code,1173,2026-05-22,yes,,https://app.asana.com/0/0/1214700730665014/f,yes,,,yes
+1213308712252815,2026-02-17,2026-03-02,2026-07-02,"Room 3, #1171, 350 Marsden Rd, Carlingford, Islam Alkhalaeileh",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2026-02-21,"ENDORSED TO ACCOUNTING,W/ BREAK FEE, DONE 🛠️,🏁 OCR/ICR Done,👍🏽👍🏽  SCHED","Select your suburb:
+Carlingford
+
+Full property address:
+350 Marsden Rd Carlingford
+
+Please select an option:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Still in the house
+
+When does your lease agreement end?:
+May 9, 2026 at 1:00am
+
+When are you thinking of moving out or when did you move out?:
+Feb 21, 2026 at 12:00am
+
+What is the reason why you want to move out?:
+Other 
+
+Please specify.:
+Working moving me elsewhere
+
+Would you like to explore relocation options with CDA?:
+No
+
+Please enter your full name:
+Islam Alkhalaeileh
+
+Please enter your email address:
+islm.alkhalaeileh@gmail.com
+
+Best Contact Number:
+0490024466
+
+Bank Account Details:
+Islam ALKHALAEILEH
+BSB 012357
+ACC number 462891135
+
+How likely are you recommend CdA to your friends and family?:
+3
+
+Comments/Suggestions:
+Clean the carpet please
+
+Who completed this form?:
+Tenant
+
+❌ MOVE OUT NOTICE: Not compliant
+    with 4 weeks break fee
+✅ OCR Clear - no deductions
+
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Retention Team",,,,,,Islam Alkhalaeileh,islm.alkhalaeileh@gmail.com,,,,2026-02-10,2026-05-09,2026-02-17,2026-02-19,2026-02-19,5760,13.5%,$1760,CLS VIC - Navid and James,No,0490024466,,Still in the house,Other ,I want to provide my move out notice,,Chriszsa Sicad,,3,Clean the carpet please,-193902,13313,Move Out Notice,Contacted,,Uncontrollable,Moving to another City,,Gerald,,5760,350 Marsden Rd Carlingford,address+room_code,1171,2026-02-21,yes,,https://app.asana.com/0/0/1213308712252815/f,yes,,,yes
+1213322591040000,2026-02-18,2026-03-02,2026-07-02,"➡️ Room Transfer - Room 1, #1169, 350 Marsden Rd, Carlingford, Dhruv Janghu",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2026-02-20,"ENDORSED TO ACCOUNTING,ROOM TRANSFER ☎️, DONE 🛠️,🏁 OCR/ICR Done,👍🏽👍🏽  SCHED","❗Delete this subtask if there's already an existing move-out task for this tenant. If no move out task, use this task instead.
+
+➡️ROOM TRANSFER
+✅ OCR Clear - no deductions","Off boarding team ,2025_Applications/Moving In","Dhruv Janghu, Room 8, #1491, 563 Pennant Hills Road, West Pennant Hills",,,,,,,,,,,,,,,,,,CLS VIC - Navid and James,,,,,,I want to transfer to a different room,,Chriszsa Sicad,,,,-192637,14753,Transfer / Relocation Request,,,,,,Gerald,,,,address+room_code,1169,2026-02-20,yes,yes,https://app.asana.com/0/0/1213322591040000/f,yes,,,yes
+1212329872262092,2025-12-07,2026-01-08,2026-07-02,"‼️ Room 5, #1173, 350 Marsden Rd, Carlingford, Binshaj Korappamkandy",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2025-12-20,"ENDORSED TO ACCOUNTING, DONE 🛠️,🏁 OCR/ICR Done,👍🏽👍🏽  SCHED,🎇SHUTDOWN","Please enter your full name:
+Binshaj Korappamkandy
+
+Please choose your current address below:
+350 Marsden Rd, Carlingford
+
+Please select your room below:
+Room 5, #1173, 350 Marsden Rd, Carlingford
+
+Please select from the options below:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Still in the house
+
+When does your lease agreement end?:
+Jan 4, 2026 at 8:00am
+
+When are you thinking of moving out or when did you move out?:
+Dec 19, 2025 at 2:30pm
+
+What is the reason why you want to move out?:
+Other 
+
+Please specify.:
+1. Failure to Provide Room Security: During the inspection, I was informed that I would be provided with a key to my room, which includes access to a private balcony and outdoor area. However, despite multiple follow-ups, the key has not been provided. This has caused significant concern regarding the safety and security of my personal belongings. 2. Failure to Uphold Cleaning Agreement: Furthermore, the promise of bi-weekly cleaning of the property has not been fulfilled.
+
+Would you like to explore relocation options with CDA?:
+No
+
+Please enter your email address:
+binshaj39@gmail.com
+
+Best Contact Number:
+0428092346
+
+Bank Account Details:
+Bank Name: Bank west
+Account name: BINSHAJ KORAPPAMKANDY
+BSB: 306076
+Account number: 0727253
+
+How likely are you recommend CdA to your friends and family?:
+1
+
+Comments/Suggestions:
+Improve cleanliness, Arrange Tenants friendly staff to enquire about the issues. Improve maintenance. Give responses for tenants requests
+
+❌ MOVE OUT NOTICE: Not compliant
+    must be paid until January 14 (shutdown period)
+✅ OCR Clear - no deductions
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Retention Team",,,,,,Binshaj Korappamkandy,binshaj39@gmail.com,,,2026-01-14,,,,2026-01-14,,,,,CLS VIC - Navid and James,No,0428092346,,Still in the house,Other ,I want to provide my move out notice,"350 Marsden Rd, Carlingford",Chriszsa Sicad,,1,"Improve cleanliness, Arrange Tenants friendly staff to enquire about the issues. Improve maintenance. Give responses for tenants requests",-298114,27240,Move Out Notice,Contacted,,Controllable - Internal Issues,Unsafe/uneasy in his accommodation,,Gerald,,,,address+room_code,1173,2025-12-20,yes,,https://app.asana.com/0/0/1212329872262092/f,yes,,,yes
+1212175382509715,2025-11-28,2025-12-17,2026-07-02,"Room 3, #1171, 350 Marsden Rd, Carlingford, Altaibaatar Seseer",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2025-12-14,"4W Leaving Early - Period ,ENDORSED TO ACCOUNTING, DONE 🛠️,🏁 OCR/ICR Done,👍🏽👍🏽  SCHED","Please enter your full name:
+Altaibaatar Seseer
+
+Please choose your current address below:
+350 Marsden Rd, Carlingford
+
+Please select your room below:
+Room 3, #1171, 350 Marsden Rd, Carlingford
+
+Please select from the options below:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Still in the house
+
+When does your lease agreement end?:
+Nov 30, 2025
+
+When are you thinking of moving out or when did you move out?:
+Dec 14, 2025
+
+What is the reason why you want to move out?:
+Moving to a different city/country
+
+Where are you moving to?:
+Brisbane
+
+Are you planning to come back to Australia iin the next 3-6 months?:
+Yes
+
+Would you like to explore relocation options with CDA?:
+Yes
+
+Which area(s) are you looking in?:
+Brisbane
+
+Please enter your email address:
+altaibaatarseseer@gmail.com
+
+Best Contact Number:
+0493346463
+
+Bank Account Details:
+Commonwealth Bank
+Altaibaatar Seseer
+Account number: 12163775
+BSB: 062028
+
+How likely are you recommend CdA to your friends and family?:
+4
+
+Comments/Suggestions:
+I am rwnring CDA properties since 2023
+
+❌ MOVE OUT NOTICE: Not compliant
+    must be paid until Dec 25
+✅ OCR Clear - no deductions
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Retention Team",,,,,,Altaibaatar Seseer,altaibaatarseseer@gmail.com,,,2025-12-26,,,2025-11-28,2025-12-25,,23040,,,CLS VIC - Navid and James,Yes,0493346463,,Still in the house,Moving to a different city/country,I want to provide my move out notice,"350 Marsden Rd, Carlingford",Chriszsa Sicad,,4,I am rwnring CDA properties since 2023,-310624,4702,Move Out Notice,Contacted,,Uncontrollable,Good experience - uncontrollable factors,,Gerald,,23040,,address+room_code,1171,2025-12-14,yes,,https://app.asana.com/0/0/1212175382509715/f,yes,,,yes
+1211730441571685,2025-10-23,2025-11-27,2026-07-02,"Room 2, #1170, 350 Marsden Rd, Carlingford, Basith Valiya Parambil",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2025-11-20,"ENDORSED TO ACCOUNTING,W/ BREAK FEE, DONE 🛠️,👍🏽👍🏽  SCHED","Please enter your full name:
+Basith VP
+
+Please choose your current address below:
+350 Marsden Rd, Carlingford
+
+Please select your room below:
+Room 2, #1170, 350 Marsden Rd, Carlingford
+
+Please select from the options below:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Still in the house
+
+When does your lease agreement end?:
+Nov 20, 2025
+
+When are you thinking of moving out or when did you move out?:
+Nov 20, 2025
+
+What is the reason why you want to move out?:
+Other 
+
+Please specify.:
+As discussed during my initial move-in, I was advised that a key to the property would be provided. However, this has not occurred, and despite following up, I have yet to receive one. This has raised serious concerns regarding the security of my personal belongings, and I do not feel comfortable or secure leaving them in the room under the current circumstances.  Given this breach of agreement and the associated risks, I have made the decision to vacate the premises.
+
+Would you like to explore relocation options with CDA?:
+No
+
+Please enter your email address:
+basith633@gmail.com
+
+Best Contact Number:
+0435474142
+
+Bank Account Details:
+Basith Valiyaparambil 
+Account -10949375
+BSB- 064 474
+
+How likely are you recommend CdA to your friends and family?:
+5
+
+Comments/Suggestions:
+Please provide right information while moving in
+
+
+❌ MOVE OUT NOTICE: Not compliant
+    with 3 weeks break fee
+✅ TENANT CHARGES
+    Room cleaning - $75 (minimal)
+    Mattress cover - $85
+
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Retention Team",,,,,,Basith VP,basith633@gmail.com,,,,2025-10-07,2026-01-06,2025-10-08,,2025-11-13,61920,48.9%,$720,CLS VIC - Navid and James,No,0435474142,,Still in the house,Other ,I want to provide my move out notice,"350 Marsden Rd, Carlingford",Chriszsa Sicad,,5,Please provide right information while moving in,-362208,10283,Move Out Notice,Contacted,,Uncontrollable,Dissatisfied with the service,,Regine,,61920,,address+room_code,1170,2025-11-20,yes,,https://app.asana.com/0/0/1211730441571685/f,yes,,,yes
+1211660097342272,2025-10-16,2025-11-25,2026-07-02,"Room 1, #1169, 350 Marsden Rd, Carlingford, Hoang Nguyen Thai Le",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2025-11-16,"3/4 weeks notice met,ENDORSED TO ACCOUNTING, DONE 🛠️,👍🏽👍🏽  SCHED","Please enter your full name:
+Thai Hoang Nguyen Le
+
+Please choose your current address below:
+350 Marsden Rd, Carlingford
+
+Please select your room below:
+Room 1, #1169, 350 Marsden Rd, Carlingford
+
+Please select from the options below:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Still in the house
+
+When does your lease agreement end?:
+Nov 16, 2025 at 12:00am
+
+When are you thinking of moving out or when did you move out?:
+Oct 10, 2025 at 7:39pm
+
+What is the reason why you want to move out?:
+Moving to a different city/country
+
+Where are you moving to?:
+Melbourne
+
+Are you planning to come back to Australia iin the next 3-6 months?:
+Yes
+
+Would you like to explore relocation options with CDA?:
+No
+
+Please enter your email address:
+lehoangnguyenthai@gmail.com
+
+Best Contact Number:
+0466905587
+
+Bank Account Details:
+Bank Name: Commonwealth Bank
+Account name: Thai Hoang Nguyen Le
+BSB: 063-000
+Account number: 1430 1546
+
+How likely are you recommend CdA to your friends and family?:
+4
+
+✅ MOVE OUT NOTICE: Compliant
+✅ TENANT CHARGES
+    Room cleaning - $100
+    Mattress cover - $85
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Retention Team",,,,,,Thai Hoang Nguyen Le,lehoangnguyenthai@gmail.com,,,,,,2025-10-13,2025-11-15,,48960,,,CLS VIC - Navid and James,No,0466905587,,Still in the house,Moving to a different city/country,I want to provide my move out notice,"350 Marsden Rd, Carlingford",Chriszsa Sicad,,4,,-372438,12875,Move Out Notice,Notified ,,Uncontrollable,Moving to another City,,Regine,,48960,,address+room_code,1169,2025-11-16,yes,,https://app.asana.com/0/0/1211660097342272/f,yes,,,yes
+1211857881166869,2025-11-06,2025-11-20,2026-07-02,"🛠️ Room 6, #1174, 350 Marsden Rd, Carlingford, Rhine Singha",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2025-10-30,"4W Leaving Early - Period ,ENDORSED TO ACCOUNTING, DONE 🛠️,👍🏽👍🏽  SCHED","Please enter your full name:
+Rhine Singha
+
+Please choose your current address below:
+350 Marsden Rd, Carlingford
+
+Please select your room below:
+Room 6, #1174, 350 Marsden Rd, Carlingford
+
+Please select from the options below:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Already left
+
+When does your lease agreement end?:
+Nov 1, 2025 at 12:00pm
+
+When are you thinking of moving out or when did you move out?:
+Oct 30, 2025 at 6:00pm
+
+What is the reason why you want to move out?:
+Relocation for Work/University/College
+
+Would you like to explore relocation options with CDA?:
+No
+
+Please enter your email address:
+rhine.singha@gmail.com
+
+Best Contact Number:
+0421609167
+
+Bank Account Details:
+Bank Name - Commonwealth Bank of Australia 
+Account Name - Rhine Singha
+Account number - 1179 4775
+BSB - 062 133
+
+How likely are you recommend CdA to your friends and family?:
+4
+
+❌ MOVE OUT NOTICE: Not compliant
+    must be paid until November 18
+✅ TENANT CHARGES
+    Chair - $120
+    Mattress cover - $85
+    Room cleaning - $100
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Retention Team",,,,,,Rhine Singha,rhine.singha@gmail.com,,,2025-11-19,,,2025-10-22,2025-11-18,,11520,,,CLS VIC - Navid and James,No,0421609167,,Already left,Relocation for Work/University/College,I want to provide my move out notice,"350 Marsden Rd, Carlingford",Chriszsa Sicad,,4,,-342367,30311,Move Out Notice,Notified ,,Uncontrollable,No response - unable to contact the tenant,,Gerald,,11520,,address+room_code,1174,2025-10-30,yes,,https://app.asana.com/0/0/1211857881166869/f,yes,,,yes
+1211690507685286,2025-10-20,2025-10-31,2026-07-02,"↔️ TEMP OCR/ICR - NT Nov 2 - Room 7, #1175, 350 Marsden Rd, Carlingford, Mursel Batuhan Ucar",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2025-10-25,"ENDORSED TO ACCOUNTING, DONE 🛠️,TEMP Sales","↔️Temporary Room
+    Moving out: October 24, 2025
+✅ TENANT CHARGES
+    Mattress cover - $85
+    Room cleaning - $75
+","Off boarding team ,2025_Applications/Moving In","Mursel Batuhan Ucar, Room 5, #1816, 67 Alamein Ave, Carlingford - (Temporary Room - Room 7, #1175, 350 Marsden Rd, Carlingford)",,,,,,,,,,,,,,,,,,CLS VIC - Navid and James,,,,,,,,Chriszsa Sicad,,,,-367003,8840,,,,,,,Regine,,,,address+room_code,1175,2025-10-25,yes,yes,https://app.asana.com/0/0/1211690507685286/f,,,,
+1211407198436857,2025-09-19,2025-10-18,2026-07-02,"🛠️ Room 7, #1175, 350 Marsden Rd, Carlingford, Benjamin James Dunstan",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2025-10-02,"ENDORSED TO ACCOUNTING,W/ BREAK FEE, DONE 🛠️","Please enter your full name:
+Benjamin James Dunstan
+
+Please choose your current address below:
+350 Marsden Rd, Carlingford
+
+Please select your room below:
+Room 7, #1175, 350 Marsden Rd, Carlingford
+
+Please select from the options below:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Still in the house
+
+When does your lease agreement end?:
+Dec 5, 2025 at 6:00pm
+
+When are you thinking of moving out or when did you move out?:
+Oct 3, 2025 at 3:00pm
+
+What is the reason why you want to move out?:
+Other 
+
+Please specify.:
+Marsden Road is EXTREMELY loud-I can't sleep properly.
+
+Would you like to explore relocation options with CDA?:
+Yes
+
+Which area(s) are you looking in?:
+Carlingford (not on Marsden Road), Pennant Hills, Hornsby, Epping, Eastwood, Ryde, Pymble, Turramurra, Hornsby.
+
+Please enter your email address:
+bendunstan22@hotmail.com
+
+Best Contact Number:
+0432552591
+
+Bank Account Details:
+ANZ
+Access Advantage
+308852066
+012306
+
+How likely are you recommend CdA to your friends and family?:
+4
+
+❌ MOVE OUT NOTICE: Not compliant
+with 3 weeks rent break fee
+✅ TENANT CHARGES
+    Mattress - $100
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Retention Team",,,,,,Benjamin James Dunstan,bendunstan22@hotmail.com,,,,2025-09-05,2025-12-04,2025-09-19,2025-10-02,2025-09-29,18720,31.87%,$720,CLS VIC - Navid and James,Yes,0432552591,,Still in the house,Other ,I want to provide my move out notice,"350 Marsden Rd, Carlingford",Chriszsa Sicad,,4,,-411230,23158,Move Out Notice,Contacted,,Uncontrollable,Room with walls that do not isolate outside noise,,Regine,,18720,,address+room_code,1175,2025-10-02,yes,,https://app.asana.com/0/0/1211407198436857/f,yes,,,yes
+1211435487368996,2025-09-23,2025-09-25,2026-05-08,"Room 7, #1175, 350 Marsden Rd, Carlingford, Benjamin James Dunstan - remove move out dates in all platforms",,Chriszsa Sicad,chriszsa@cdacoliving.com,,2025-09-23, DONE 🛠️,,,"🛠️ Room 7, #1175, 350 Marsden Rd, Carlingford, Benjamin James Dunstan",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-264625,3204,,,,,,,,,,,address+room_code,1175,2025-09-23,yes,yes,https://app.asana.com/0/0/1211435487368996/f,,,,
+1211435454759849,2025-09-23,2025-09-23,2026-05-08,Remove move out dates (PMe & RPR),,Chriszsa Sicad,chriszsa@cdacoliving.com,,2025-09-23, DONE 🛠️,,,"🛠️ Room 7, #1175, 350 Marsden Rd, Carlingford, Benjamin James Dunstan",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-264625,382,,,,,,,,,,,address+room_code,1175,2025-09-23,yes,yes,https://app.asana.com/0/0/1211435454759849/f,,,,
+1211381594929794,2025-09-17,2025-10-04,2026-07-02,"Room 5, #1173, 350 Marsden Rd, Carlingford, Mohd Amaan",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2025-09-26,"ENDORSED TO ACCOUNTING,W/ BREAK FEE, DONE 🛠️","Please enter your full name:
+Mohd Amaan
+
+Please choose your current address below:
+350 Marsden Rd, Carlingford
+
+Please select your room below:
+Room 1, #1169, 350 Marsden Rd, Carlingford
+
+Please select from the options below:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Still in the house
+
+When does your lease agreement end?:
+Dec 16, 2025
+
+When are you thinking of moving out or when did you move out?:
+Sep 26, 2025
+
+What is the reason why you want to move out?:
+Moving in with friends/family 
+
+Would you like to explore relocation options with CDA?:
+No
+
+Please enter your email address:
+mohd.amaan0824@gmail.com
+
+Best Contact Number:
+0450228809
+
+Bank Account Details:
+Comm Bank
+Mohd Amaan
+Acc no - 11765888
+Bsb - 062320
+
+How likely are you recommend CdA to your friends and family?:
+4
+
+❌ MOVE OUT NOTICE: Not compliant
+with break fee of 2 weeks
+✅ OCR Clear - no deductions
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Retention Team",,,,,,Mohd Amaan,mohd.amaan0824@gmail.com,,,,2025-06-17,2025-12-16,2025-09-17,,2025-09-24,12960,53.8%,$420,CLS VIC - Navid and James,No,0450228809,,Still in the house,Moving in with friends/family ,I want to provide my move out notice,"350 Marsden Rd, Carlingford",Chriszsa Sicad,,4,,-414245,11649,Move Out Notice,Contacted,,Uncontrollable,No Feedback from the Tenant,,Regine,,12960,,address+room_code,1169|1173,2025-09-26,yes,,https://app.asana.com/0/0/1211381594929794/f,yes,,,yes
+1211383102869802,2025-09-17,2025-10-03,2026-07-02,"Room 2, #1170, 350 Marsden Rd, Carlingford, Ahmed Zahid Malik & Yasir Khan",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,2025-09-27,"4W Leaving Early - Period ,ENDORSED TO ACCOUNTING, DONE 🛠️","Please enter your full name:
+Yasir  Khan
+
+Please choose your current address below:
+350 Marsden Rd, Carlingford
+
+Please select your room below:
+Room 2, #1170, 350 Marsden Rd, Carlingford
+
+Please select from the options below:
+I want to provide my move out notice
+
+Are you still living in the in the property?:
+Still in the house
+
+When does your lease agreement end?:
+Sep 27, 2025 at 11:59pm
+
+When are you thinking of moving out or when did you move out?:
+Sep 27, 2025 at 11:54pm
+
+What is the reason why you want to move out?:
+Moving in with friends/family 
+
+Would you like to explore relocation options with CDA?:
+No
+
+Please enter your email address:
+iyasirkhan2000@gmail.com
+
+Best Contact Number:
+0469865830
+
+Bank Account Details:
+Commonwealth Bank
+Yasir khan
+BSB - 062107 
+Account number - 11546187
+
+How likely are you recommend CdA to your friends and family?:
+3
+
+❌ MOVE OUT NOTICE: Not compliant
+must be paid until October 14
+✅ TENANT CHARGES
+    Room cleaning - $75
+———————————————
+This task was submitted through Tenant Move Out Notice 
+https://form.asana.com/?k=Vzne1c3Kbd7Goz0WSvcg9A&d=1201789231542521","Off boarding team ,Retention Team",,,,,,Yasir  Khan,iyasirkhan2000@gmail.com,,,2025-10-15,,,2025-09-17,2025-10-14,2025-09-24,14400,,,CLS VIC - Navid and James,No,0469865830,,Still in the house,Moving in with friends/family ,I want to provide my move out notice,"350 Marsden Rd, Carlingford",Chriszsa Sicad,,3,,-414073,8617,Move Out Notice,Contacted,,Uncontrollable,Good experience - end of contract,,Regine,,14400,,address+room_code,1170,2025-09-27,yes,,https://app.asana.com/0/0/1211383102869802/f,yes,,,yes
+1210933647625420,2025-07-31,2025-08-07,2026-07-02,"ICR - Room 6, #1174, 350 Marsden Rd, Carlingford ",Completed,Chriszsa Sicad,chriszsa@cdacoliving.com,,, DONE 🛠️,"Due Date : Friday 01/08/2025
+    new tenant moving in 02/08/2025 (Saturday)
+    Old ICR - Room-6-LESLIE-27-May-2025
+
+
+","Off boarding team ,2025_Applications/Moving In","Rhine Singha, Room 6, #1174, 350 Marsden Rd, Carlingford",,,,,,,,,,,,,,,,,,,,,,,,,,Chriszsa Sicad,,,,-483431,,,,,,,,,,,,address+room_code,1174,2025-07-31,yes,yes,https://app.asana.com/0/0/1210933647625420/f,,,no_moveout_date,yes
+1210517519257845,2025-06-11,2025-07-14,2026-07-02,"ICR - Room 4, #1172, 350 Marsden Rd, Carlingford",Completed,Camila,cleaner.005c@gmail.com,,2025-07-16,ICR,,Off boarding team ,,,,,,,,,,,,,,,,,,,CLS VIC - Navid and James,,,,,,,,Ouanne Dumpit,,,,-555492,-2737,,,,,,,,,,,address+room_code,1172,2025-07-16,yes,,https://app.asana.com/0/0/1210517519257845/f,,,,

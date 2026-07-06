@@ -1,0 +1,43 @@
+# Move-in review — 287 Cleveland St, Redfern
+
+## Move-in tasks (top-level: 39 reviewed, 1 flagged)
+
+- [1215080592719549](https://app.asana.com/0/0/1215080592719549/f) R7 #41 | Udaya | direct move-in 2026-05-31, paid 05-23; clean.
+- [1214955384538186](https://app.asana.com/0/0/1214955384538186/f) R5 #39 | Sabrina | direct move-in 2026-05-22, paid 05-20; clean (move-out retraction question is a move-out-side item, ruled later-date-stands).
+- [1214068620068775](https://app.asana.com/0/0/1214068620068775/f) R4 #38 | Emily | direct move-in 2026-05-03, paid 04-15; clean.
+- [1213976823034682](https://app.asana.com/0/0/1213976823034682/f) R3 #037B | Dimas | PERM transfer INTO 037B, 2026-04-19; prior room = 285 Cleveland #28 (rulings.md, resolved).
+- [1213574534161457](https://app.asana.com/0/0/1213574534161457/f) R1 #035A | Joji | direct move-in 2026-03-28, paid 03-07; clean.
+- [1213752002475027](https://app.asana.com/0/0/1213752002475027/f) R1 #035B | Matias | temp-at-287: perm room is #1431 91 Coxs Rd North Ryde, temp #035B here; recorded as a 287 035B tenancy. Temp start Mar 22, perm-ref Apr 3.  **HUMAN REVIEW: temp-only-at-287 — confirm whether to exclude like Josue (perm room is another property) or keep as a 287 tenancy; open per double_check.md**
+- [1213589118610292](https://app.asana.com/0/0/1213589118610292/f) R3 #037A | Jin Hendrix | PERM transfer INTO 037A, 2026-03-13; counterpart 035B close handled by promote_move_out 1213589504292986 (settled).
+- [1212537428934792](https://app.asana.com/0/0/1212537428934792/f) R7 #41 | Radikanesha | direct move-in 2026-02-14, paid 2025-12-20; clean.
+- [1212897256687512](https://app.asana.com/0/0/1212897256687512/f) R5 #39 | Denis | direct move-in 2026-02-10, paid 01-21; clean.
+- [1212856625500016](https://app.asana.com/0/0/1212856625500016/f) R6 #40A | Jack | direct move-in 2026-02-02, paid 01-19; clean (bed 40A, follows Zaid per slot ruling).
+- [1212897058415733](https://app.asana.com/0/0/1212897058415733/f) R4 #38 | (Inga) | LR lease-renewal stub, no payment/tenant fields; excluded per overrides (not a move-in) — settled.
+- [1212430575073508](https://app.asana.com/0/0/1212430575073508/f) R1 #035A | Roxx | direct move-in 2025-12-21, paid 12-13; clean.
+- [1212530466069974](https://app.asana.com/0/0/1212530466069974/f) R4 #38 | Inga | direct move-in 2025-12-20, paid 12-19; clean.
+- [1212065440263905](https://app.asana.com/0/0/1212065440263905/f) R7 #41 | Callum | direct move-in 2025-11-29, paid 11-24; code 41 matched 40A|41, room = 41 per slot ruling (settled).
+- [1211956952026118](https://app.asana.com/0/0/1211956952026118/f) R2 #36 | Javier | direct move-in 2025-11-25, paid 11-16; replacement for Leonardo (clean).
+- [1211804434426920](https://app.asana.com/0/0/1211804434426920/f) R3 #037A | Chanwoo | move-in 2025-11-25, paid 10-31; came via temp room 10 Hilts Rd Strathfield, now 037A (clean).
+- [1211747189007141](https://app.asana.com/0/0/1211747189007141/f) R5 #39 | Teigan | direct move-in 2025-10-29, paid 10-25; clean.
+- [1211763842518318](https://app.asana.com/0/0/1211763842518318/f) R6 #40A | Zaid | code 41 in export, name says 40A; slot ruling → real room = Room 6 bed A (settled).
+- [1211763827512289](https://app.asana.com/0/0/1211763827512289/f) R6 #40B | Haroun | code 41 in export, name says 40B; slot ruling → real room = Room 6 bed B (settled).
+- [1211557559194849](https://app.asana.com/0/0/1211557559194849/f) R7 #41 | Giordano | never moved in (full SD refund); excluded per overrides/slot ruling — settled.
+- [1211583777691959](https://app.asana.com/0/0/1211583777691959/f) R5 #39 | Camila | direct move-in 2025-10-08, paid same day; clean.
+- [1211179308040749](https://app.asana.com/0/0/1211179308040749/f) R5 #39 | Juan Esteban | direct move-in 2025-09-25, paid 08-29; clean.
+- [1211323580275313](https://app.asana.com/0/0/1211323580275313/f) R2 #36 | Leonardo | direct move-in 2025-09-29, paid 09-11; clean.
+- [1211391454281479](https://app.asana.com/0/0/1211391454281479/f) R3 #037A | Edward | direct move-in 2025-09-26, paid 09-18; clean.
+- [1211321764289846](https://app.asana.com/0/0/1211321764289846/f) R4 #38 | Syed | direct move-in 2025-09-15, paid 09-11; clean.
+- [1210875898332448](https://app.asana.com/0/0/1210875898332448/f) R3 #037B | Santiago | direct move-in 2025-08-07, paid 07-24; clean.
+- [1210957509085672](https://app.asana.com/0/0/1210957509085672/f) R1 #035B | Jin Hendrix | direct move-in 2025-08-08, paid 08-03; later transfers out to 037A (settled).
+- [1210885582624750](https://app.asana.com/0/0/1210885582624750/f) R1 #035A→035B | Francisco | Replacement Tenant, move-in 2025-07-27, paid 07-25; code 035B (matched 035A|035B), bed-pairing artifact accepted per ruling.
+- [1210779407968604](https://app.asana.com/0/0/1210779407968604/f) R1 #035B | Leandro | direct move-in 2025-07-13, paid 07-12; clean (14-day stay).
+- [1210667396980403](https://app.asana.com/0/0/1210667396980403/f) R7 #41 | Juan Sebastián | direct move-in 2025-07-03, paid 06-29; clean.
+- [1210665280763618](https://app.asana.com/0/0/1210665280763618/f) R5 #039A | Felipe | direct move-in 2025-07-01, paid 06-28; clean.
+- [1210608137094421](https://app.asana.com/0/0/1210608137094421/f) R6 #40 | Masato | move-in 2025-06-28, paid 06-22; code 40, exits under #41 → slot ruling real room = Room 7 (settled). outside audit window.
+- [1210769346658948](https://app.asana.com/0/0/1210769346658948/f) R1 #035A | Chung | direct move-in 2025-07-15, paid 07-11; clean.
+- [1210720352131274](https://app.asana.com/0/0/1210720352131274/f) R1 #035A | Tanguy | direct move-in 2025-07-06, paid 07-05; clean.
+- [1212431175562746](https://app.asana.com/0/0/1212431175562746/f) R6 #40A | Charlie | Cancelled Sale - Full Refund; excluded per overrides (not a tenancy) — settled.
+- [1211582986718236](https://app.asana.com/0/0/1211582986718236/f) R5 #39 | Julian | Cancelled Sale - Full Refund; excluded per overrides (not a tenancy) — settled.
+- [1212843836646006](https://app.asana.com/0/0/1212843836646006/f) R6 #40A | Bryan | Cancelled Sale - Partial Refund + PERM transfer; excluded per overrides (not a completed tenancy) — settled.
+- [1211792711161342](https://app.asana.com/0/0/1211792711161342/f) R4 #165 | Josue | Cancelled Sale - Non Refundable; perm room #165 Surry Hills, temp-only at 287 #035A; excluded per overrides (not a 287 tenancy) — settled.
+- [1210779236783683](https://app.asana.com/0/0/1210779236783683/f) R1 #035A | Andres | Cancelled Sale - Non Refundable; excluded per overrides (not a tenancy) — settled.

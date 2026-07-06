@@ -1,0 +1,43 @@
+# Move-in review — 287 Cleveland St, Redfern
+
+## Move-in tasks (top-level: 39 reviewed, 12 flagged)
+
+- [1215080592719549](https://app.asana.com/0/0/1215080592719549/f) #41 | Udaya | New tenant, direct move-in 31 May 2026, paid 23 May. Dates consistent, room valid.
+- [1214955384538186](https://app.asana.com/0/0/1214955384538186/f) #39 | Sabrina | New tenant, move-in 22 May 2026, paid 20 May. Consistent, room valid.
+- [1214068620068775](https://app.asana.com/0/0/1214068620068775/f) #38 | Emily | New tenant, move-in 3 May 2026, paid 15 Apr. Consistent, room valid.
+- [1213976823034682](https://app.asana.com/0/0/1213976823034682/f) #037B | Dimas | PERM transfer INTO 037B, move-in 19 Apr 2026. Prev room #28 (not this house) — but earlier task shows 037A. Prior-room chain needs verification. **HUMAN REVIEW: transfer; prev-room code #28 conflicts with tenant's 037A history — needs Asana comment check**
+- [1213574534161457](https://app.asana.com/0/0/1213574534161457/f) #035A | Joji | New tenant, move-in 28 Mar 2026, paid 7 Mar ($50 partial). Room valid.
+- [1213752002475027](https://app.asana.com/0/0/1213752002475027/f) #035B (temp) | Matias | PERM room is #1431 North Ryde; 287 035B is only a TEMPORARY room (moved in 22 Mar). Not a 287 permanent tenancy. **HUMAN REVIEW: temp-room-only at 287, permanent tenancy belongs to North Ryde house**
+- [1213589118610292](https://app.asana.com/0/0/1213589118610292/f) #037A | Jin | PERM transfer INTO 037A from temp 035B, move-in 13 Mar 2026. Paid 3 Mar. **HUMAN REVIEW: transfer INTO 037A, out of 035B — date-altering**
+- [1212537428934792](https://app.asana.com/0/0/1212537428934792/f) #41 | Radikanesha | New tenant, move-in 14 Feb 2026, paid 20 Dec 2025. Room valid.
+- [1212897256687512](https://app.asana.com/0/0/1212897256687512/f) #39 | Denis | New tenant, move-in 10 Feb 2026, paid 21 Jan. Consistent, room valid.
+- [1212856625500016](https://app.asana.com/0/0/1212856625500016/f) #40A | Jack | New tenant. Due 2 Feb 2026 but Notes move-in reads 1 Feb 2026. **HUMAN REVIEW: due-date vs Notes move-in date mismatch (2 Feb vs 1 Feb)**
+- [1212897058415733](https://app.asana.com/0/0/1212897058415733/f) #38 | Inga | "LR |" lease-renewal task, no payment/tenant fields — NOT a move-in. **HUMAN REVIEW: LR = lease renewal, exclude from timeline**
+- [1212430575073508](https://app.asana.com/0/0/1212430575073508/f) #035A | Roxx | New tenant, move-in 21 Dec 2025, paid 13 Dec. Tag ❌NORESPONSE. Room valid.
+- [1212530466069974](https://app.asana.com/0/0/1212530466069974/f) #38 | Inga | New tenant, move-in 20 Dec 2025, paid 19 Dec. Room valid. (Prior tenancy to the LR renewal above.)
+- [1212065440263905](https://app.asana.com/0/0/1212065440263905/f) #41 | Callum | New tenant, move-in 29 Nov 2025, paid 24 Nov. Room valid (matched 40A|41 — name & code both 41).
+- [1211956952026118](https://app.asana.com/0/0/1211956952026118/f) #36 | Javier | New tenant, move-in 25 Nov 2025, paid 16 Nov. Consistent, room valid.
+- [1211804434426920](https://app.asana.com/0/0/1211804434426920/f) #037A | Chanwoo | New tenant, PERM room 037A at 287; temp room was #1475 Strathfield. Notes carry two move-in dates (2 Nov temp / 25 Nov perm). Due 25 Nov 2025 = permanent. **HUMAN REVIEW: temp-room chain (Strathfield → 037A); confirm 287 move-in date 25 Nov**
+- [1211747189007141](https://app.asana.com/0/0/1211747189007141/f) #39 | Teigan | New tenant (co-tenant Olivia), move-in 29 Oct 2025, paid 25 Oct. Room valid.
+- [1211763842518318](https://app.asana.com/0/0/1211763842518318/f) #40A | Zaid | New tenant. Name says #40A, Room Code column = 41 (matched 40A|41). Bed-suffix codes in same room. **HUMAN REVIEW: name room #40A vs Room Code 41 — confirm correct bed**
+- [1211763827512289](https://app.asana.com/0/0/1211763827512289/f) #40B | Haroun | New tenant. Name says #40B, Room Code column = 41 (matched 40B|41). **HUMAN REVIEW: name room #40B vs Room Code 41 — confirm correct bed**
+- [1211557559194849](https://app.asana.com/0/0/1211557559194849/f) #41 | Giordano | New tenant, move-in 10 Oct 2025, paid 6 Oct. Consistent, room valid.
+- [1211583777691959](https://app.asana.com/0/0/1211583777691959/f) #39 | Camila | New tenant, move-in 8 Oct 2025, paid 8 Oct. Room valid.
+- [1211179308040749](https://app.asana.com/0/0/1211179308040749/f) #39 | Juan Esteban | New tenant, move-in 25 Sep 2025, paid 29 Aug ($130 partial). Room valid.
+- [1211323580275313](https://app.asana.com/0/0/1211323580275313/f) #36 | Leonardo | New tenant, move-in 29 Sep 2025, paid 11 Sep. Room valid.
+- [1211391454281479](https://app.asana.com/0/0/1211391454281479/f) #037A | Edward | New tenant, move-in 26 Sep 2025, paid 18 Sep. Room valid.
+- [1211321764289846](https://app.asana.com/0/0/1211321764289846/f) #38 | Syed | New tenant, move-in 15 Sep 2025, paid 11 Sep. Consistent, room valid.
+- [1210875898332448](https://app.asana.com/0/0/1210875898332448/f) #037B | Santiago | New tenant, move-in 7 Aug 2025, paid 24 Jul ($200 partial). Room valid.
+- [1210957509085672](https://app.asana.com/0/0/1210957509085672/f) #035B | Jin Hendrix | New tenant, move-in 8 Aug 2025, paid 3 Aug. Room valid. (Same tenant later transfers to 037A — see 1213589118610292.)
+- [1210885582624750](https://app.asana.com/0/0/1210885582624750/f) #035A | Francisco | Replacement tenant. Name says 035A, Room Code column = 035B (matched 035A|035B). Move-in 27 Jul 2025. **HUMAN REVIEW: name room 035A vs Room Code 035B — confirm correct room**
+- [1210779407968604](https://app.asana.com/0/0/1210779407968604/f) #035B | Leandro | New tenant, move-in 13 Jul 2025, paid 12 Jul. Room valid.
+- [1210667396980403](https://app.asana.com/0/0/1210667396980403/f) #41 | Juan Sebastián | New tenant, move-in 3 Jul 2025, paid 29 Jun. Room valid.
+- [1210665280763618](https://app.asana.com/0/0/1210665280763618/f) #039A | Felipe | New tenant, move-in 1 Jul 2025, paid 28 Jun. Room valid.
+- [1210608137094421](https://app.asana.com/0/0/1210608137094421/f) #40 | Masato | New tenant, move-in 28 Jun 2025, paid 22 Jun. Room valid. Outside audit window (in_window=no).
+- [1210769346658948](https://app.asana.com/0/0/1210769346658948/f) #035A | Chung | New tenant, move-in 15 Jul 2025, paid 11 Jul. Room valid.
+- [1210720352131274](https://app.asana.com/0/0/1210720352131274/f) #035A | Tanguy | New tenant, move-in 6 Jul 2025, paid 5 Jul. Room valid.
+- [1212431175562746](https://app.asana.com/0/0/1212431175562746/f) #40A | Charlie | Cancelled Sale - Full Refund. Not a tenancy. **HUMAN REVIEW: Cancelled Sale — exclude via overrides at timeline stage**
+- [1211582986718236](https://app.asana.com/0/0/1211582986718236/f) #39 | Julian | Cancelled Sale - Full Refund. Not a tenancy. **HUMAN REVIEW: Cancelled Sale — exclude via overrides at timeline stage**
+- [1212843836646006](https://app.asana.com/0/0/1212843836646006/f) #40A | Bryan | Cancelled Sale - Partial Refund; also tagged Room Transfer (prev 045A). Not a completed tenancy. **HUMAN REVIEW: Cancelled Sale + transfer — exclude via overrides**
+- [1211792711161342](https://app.asana.com/0/0/1211792711161342/f) #035A (temp) | Josue | Cancelled Sale - Non Refundable; perm room #165 Surry Hills, 035A was only temp at 287. Not a 287 tenancy. **HUMAN REVIEW: Cancelled Sale, temp-only at 287 — exclude**
+- [1210779236783683](https://app.asana.com/0/0/1210779236783683/f) #035A | Andres | Cancelled Sale - Non Refundable. Not a tenancy. **HUMAN REVIEW: Cancelled Sale — exclude via overrides at timeline stage**

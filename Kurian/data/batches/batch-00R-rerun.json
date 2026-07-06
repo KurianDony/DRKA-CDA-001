@@ -1,0 +1,112 @@
+{
+  "batch": "00R-rerun",
+  "created": "2026-07-06",
+  "purpose": "Clean-room RERUN of the 5 pilot houses on the upgraded pipeline + v2 skills. Prove the improved system reproduces or beats the pilot from scratch: lower flag rates, no cross-house junk, S6 gap-hunt integrated. Standing Kurian rulings (overrides.csv + rulings.md per house) are KEPT and apply.",
+  "pilot_baseline_ref": "data/batches/batch-00-pilot.json (all 5 golden-frozen 2026-07-05)",
+  "houses": {
+    "287-cleveland-st-redfern": {
+      "why": "stress test: 12 rooms, 8 bed-codes, Cleveland St collision cluster, CDA",
+      "stage": "extracted",
+      "status": "verify-pass",
+      "agent": "a92c16fc7e327ec73",
+      "attempts": 1,
+      "rerun_top_level": "movein 39 / moveout 27 / maint 58 — identical to pilot-final",
+      "a0": "C3-documented-proceed (038B orphan only; cleaner than pilot which also had 039B)",
+      "pilot_review_counts": "movein 39r/12f; moveout 26r/17f",
+      "notes": "Known C3 bed-code orphan 038B documented (bed B of room 038) — proceed."
+    },
+    "1-148-liverpool-rd-enfield": {
+      "why": "unit-style address, Liverpool Rd collision cluster, small (3 rooms), CLS NSW",
+      "stage": "extracted",
+      "status": "verify-pass",
+      "agent": "a1f81c4b1820ab874",
+      "attempts": 1,
+      "rerun_top_level": "movein 7 / moveout 6 / maint 24 — identical to pilot-final",
+      "a0": "PASS",
+      "pilot_review_counts": "movein 7r/4f; moveout 8r/5f"
+    },
+    "350-marsden-rd-carlingford": {
+      "why": "closed rooms in roster; prior vacancy-audit history; CLS VIC",
+      "stage": "extracted",
+      "status": "verify-pass",
+      "agent": "aa59ff5a5046fdc7c",
+      "attempts": 1,
+      "rerun_top_level": "movein 20 / moveout 14 / maint 45 — identical to pilot-final; Rms4&8 closed (0 events, expected)",
+      "a0": "PASS",
+      "pilot_review_counts": "movein 20r/8f; moveout 14r/9f"
+    },
+    "66-boundary-st-parramatta": {
+      "why": "clean control: 7 rooms, no collisions, no bed codes, CDA",
+      "stage": "extracted",
+      "status": "verify-pass",
+      "agent": "a51d59f1d3f5f12a8",
+      "attempts": 1,
+      "a0": "PASS",
+      "pilot_review_counts": "movein 17r/10f; moveout 11r/10f",
+      "expected_delta": "should keep FOUR fewer cross-house rows than pilot round 1 (Kapil/Gabriel/Malik/Tung out by design)",
+      "rerun_top_level": "movein 17 / moveout 11 / maint 59 — identical to pilot-final; ≥3-digit rule held (0 code-only matches); Kapil/Gabriel/Malik/Tung ABSENT (delta satisfied); Adriano outbound-transfer #7->Castle Hill logged to QUESTIONS-FOR-KURIAN"
+    },
+    "71-therry-street-avalon-beach": {
+      "why": "CLS NSW, 9 rooms, different region (Northern Beaches)",
+      "stage": "extracted",
+      "status": "verify-pass",
+      "agent": "ae8c7280b3bca7a35",
+      "attempts": 1,
+      "rerun_top_level": "movein 17 / moveout 15 / maint 33 — identical to pilot-final",
+      "a0": "PASS",
+      "pilot_review_counts": "movein 17r/8f; moveout 15r/11f"
+    }
+  },
+  "stageC": {
+    "completed": "2026-07-06",
+    "timelines": "all 5 S5+S6 built, VERIFY PASS",
+    "gaphunt_attached": [
+      "350 Dhruv 1213322591040000 promote_move_out 2026-02-20 (Asana-verified transfer completed)",
+      "66 Adriano reassign_room 1211349889089732->#7 + promote_move_out 1211433879109640 (2025-09-23) — slot-method; RESOLVED Room 10 double-ongoing (Nikita sole)"
+    ],
+    "ruling_completions_applied": [
+      "287 Leonardo 1211929755311339 set_move_out_date 2025-11-22 (P5 comment; fixed ruling-#7 fallback that put MO before MI) -> Javier sole ongoing #36",
+      "71 Owen Bell 1212537461472220 exclude MOVE-IN (completes standing NEVER-MOVED-IN ruling; move-out was already excluded) -> Ghulam sole #172"
+    ],
+    "double_ongoing_remaining_for_kurian": "287 {035A:4,035B:2,38:2,41:3} | 350 {1169:2,1170:2,1175:2} | 71 {174:2,479:3} | 66 & 1-148 CLEAN",
+    "package_posted": "2026-07-06 — awaiting Kurian",
+    "override_rows_after": "287:12 1-148:5 350:6 66:6 71:5 (all standing rows preserved + gap-hunt additions)"
+  },
+  "stageB": {
+    "completed": "2026-07-06",
+    "movein_flags_pilot_vs_rerun": "287 12->1 | 1-148 4->1 | 350 8->0 | 66 10->3 | 71 8->1",
+    "moveout_flagrate_pilot_vs_rerun": "287 65%->7.7% | 1-148 62.5%->0% | 350 64%->0% | 66 91%->45.5% | 71 73%->6.7%",
+    "moveout_target": "<=35%: MET on 4/5; 66 at 45.5% (5/11) above target but every flag is a genuine open item in rulings.md (evictions/arrears/break-fee dispute/billed-vs-physical/relocation) — none rule-resolvable, not reducible",
+    "enforcement": "66 move-in review rejected+re-run once (had flagged 4 override-settled excludes); corrected to 3 genuine date-altering flags",
+    "spot_audit": "2 move-out lines/house by Task ID — all match CSV; Mohd Amaan(350) room #1169(notes/rulings) vs #1173(pipeline) has no reassign override -> Stage C Kurian item",
+    "p5_sweep": "connector read comments OK (gate PASS); swept 8 flagged tasks across 287/66/71; ruled_by=asana-comment 2026-07-06; overrides.csv byte-identical to pilot on all 5",
+    "resolved_by_sweep": "287 Leonardo ($313 arrears only, break fee not charged); 66 Tanisha ($0 OCR clear), Ratu ($125, $1360 not real), Bruno fees ($80/$270 waived), Ananta fees ($285); 71 Blake ($250 applied/$270 waived, bond deducted, NCAT was threat only)",
+    "still_needs_kurian_stageC": [
+      "287 Sabrina 1215821222380914 — fee/bond + retraction-vs-active-MO settlement",
+      "66 Orisi 1212597849366110 — arrears $ amount not stated in comments",
+      "66 Bruno 1211518876691623 — DATE decision: physical Oct 5 vs billed Oct 20 2025",
+      "66 Ananta 1211087711997455 — DATE: departure ~Sep 4 vs billed Sep 15 2025",
+      "350 Mohd Amaan 1211381594929794 — room #1169 (notes/rulings) vs #1173 (pipeline); needs reassign_room ruling",
+      "66 Adriano 1211433880033810 — prev-room code 7 vs #10 conflict (QUESTIONS)",
+      "1-148 #434 shared-maintenance-row belongs to 1/150 (QUESTIONS, no misattribution)"
+    ]
+  },
+  "stageA": {
+    "completed": "2026-07-06",
+    "result": "5/5 VERIFY=PASS; all top-level filter counts identical to pilot-final; no cross-house leakage; overrides.csv+rulings.md untouched on all houses",
+    "a0_note": "287 proceeded under documented C3 orphan 038B (cleaner than pilot which also had 039B); other 4 PASS clean",
+    "notes_to_carry": [
+      "1-148: #434 (belongs to 1/150) surfaced in a shared maintenance row, correctly UNRESOLVED not misattributed — logged to QUESTIONS-FOR-KURIAN",
+      "66-boundary: Adriano outbound perm transfer #7->#958 (4 Gay St Castle Hill) UNRESOLVED, logged to QUESTIONS-FOR-KURIAN — gap-hunt target for Stage C",
+      "66-boundary: ≥3-digit rule confirmed working (0 code-only matches); Kapil/Gabriel/Malik/Tung absent"
+    ]
+  },
+  "roster_reconciliation": {
+    "added": "2026-07-06",
+    "source": "New Raw Data - trimmed.csv col 'Tenant Name' (current occupant, ~2026-07-04 snapshot)",
+    "convention": "Name1 / Name2 = Name1 current, Name2 successor after Name1 departs",
+    "resolved": "over-occupancy current-occupant answered by roster; departed tenants = missing move-out (date absent from export)",
+    "artifact": "data/batches/batch-00R-roster-reconciliation.md",
+    "recommendation": "wire the roster Tenant Name column into S5/verify as a ground-truth check on ongoing tenancies + auto-flag missing move-outs (pipeline enhancement for owner)"
+  }
+}

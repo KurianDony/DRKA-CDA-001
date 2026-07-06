@@ -1,0 +1,101 @@
+{
+  "batch": "00-pilot",
+  "created": "2026-07-05",
+  "purpose": "P1 pilot — 5 diverse houses to calibrate skills, flag rates, context cost. 342 Cleveland already complete (benchmark/golden).",
+  "houses": {
+    "287-cleveland-st-redfern": {
+      "why": "stress test: 12 rooms, 8 bed-codes, Cleveland St 6-house collision cluster, CDA",
+      "stage": "golden-frozen",
+      "status": "pilot-complete",
+      "attempts": 1,
+      "agent": "",
+      "notes": "PASS; 4 bed codes surfaced+added; 2 anomalies (039A/40A/40B/41 beds; task 1210737767129253 no-date)",
+      "a0": "C3-documented-proceed",
+      "review": "movein 39r/12f; moveout 26r/17f ~$4.7k fees, 11 comment-check; spot-audit OK",
+      "final": "44 tenancies/23 gaps; 18 decisions; heavy bed-code artifacts",
+      "r2_promote": "overrides added + re-run; VERIFY PASS; closure BLOCKED by defect#2b (promoted move_out has empty tenant, S5 cannot pair)",
+      "r2_final": "R2: Jin promote(unpaired-2b); bed-recon 6 artifacts; P5 10 fees resolved +Lisa exclude; VERIFY+eval PASS"
+    },
+    "1-148-liverpool-rd-enfield": {
+      "why": "unit-style address, Liverpool Rd 6-house collision cluster, small (3 rooms), CLS NSW",
+      "stage": "golden-frozen",
+      "status": "pilot-complete",
+      "attempts": 1,
+      "agent": "",
+      "notes": "PASS; clean; 433 ongoing tenancy for S5",
+      "a0": "PASS",
+      "review": "movein 7r/4f; moveout 8r/5f $1259.80, 8 comment-check; spot-audit OK",
+      "final": "9 tenancies/6 gaps; Rm433 3-ongoing (defect#2)",
+      "r2_promote": "overrides added + re-run; VERIFY PASS; closure BLOCKED by defect#2b (promoted move_out has empty tenant, S5 cannot pair)",
+      "r2_final": "R2: Umashankar+Diego promote(unpaired-2b); P5 8/8 fees resolved; VERIFY+eval PASS"
+    },
+    "350-marsden-rd-carlingford": {
+      "why": "has closed rooms in roster; house has prior vacancy-audit history; CLS VIC",
+      "stage": "golden-frozen",
+      "status": "pilot-complete",
+      "attempts": 1,
+      "agent": "",
+      "notes": "PASS; Rms4&8 closed as expected; anomaly: Mahyar transfer-out 1215477961015358",
+      "a0": "PASS",
+      "review": "movein 20r/8f; moveout 14r/9f ~$4010, 14 comment-check; spot-audit OK",
+      "final": "22 tenancies/15 gaps; Mahyar 1175 open (defect#2)",
+      "r2_promote": "overrides added + re-run; VERIFY PASS; closure BLOCKED by defect#2b (promoted move_out has empty tenant, S5 cannot pair)",
+      "r2_final": "R2: Mahyar promote(unpaired-2b); P5 +MdAftab exclude(no in-window MO -> Kurian); Islam $1760 waived; VERIFY+eval PASS"
+    },
+    "66-boundary-st-parramatta": {
+      "why": "clean control: 7 rooms, no collisions, no bed codes, CDA",
+      "stage": "golden-frozen",
+      "status": "pilot-complete",
+      "attempts": 1,
+      "agent": "",
+      "notes": "PASS; no collision leak; anomalies: cross-house 1211433880033810; Rm6 #12 empty",
+      "a0": "PASS",
+      "review": "movein 17r/10f; moveout 11r/10f $3700, 7 comment-check; spot-audit OK",
+      "final": "14 tenancies/8 gaps; DEFECT#1 single-digit codes strand 5 move-outs; needs regex fix+re-run",
+      "r2_final": "R2: regex-fixed, moveout review refreshed (5 newly-attributed); P5 Adriano prev=7; golden-candidate; VERIFY+eval PASS"
+    },
+    "71-therry-street-avalon-beach": {
+      "why": "CLS NSW, 9 rooms, different region (Northern Beaches)",
+      "stage": "golden-frozen",
+      "status": "pilot-complete",
+      "attempts": 1,
+      "agent": "",
+      "notes": "PASS; #168 aliased to Rm2; anomalies: 168 alias; Rm4 ruling#7 fallback 1212400034885354",
+      "a0": "PASS",
+      "review": "movein 17r/8f; moveout 15r/11f $660, 12 comment-check; spot-audit OK",
+      "final": "25 tenancies/15 gaps; Harrison code collision",
+      "r2_final": "R2: P5 +Owen exclude, Harrison=479, Melany 7Jan; golden-candidate; VERIFY+eval PASS"
+    }
+  },
+  "pilot_complete": "2026-07-05",
+  "defects": [
+    "#1 single-digit #code regex lib/common.py (66-boundary degraded)",
+    "#2 subtask transfer-out skipped by S3 (350,1-148)"
+  ],
+  "round2": {
+    "completed": "2026-07-05",
+    "all_verify": "PASS",
+    "all_eval": "PASS",
+    "regression_342": "PASS",
+    "open_blocker": "defect#2b promoted move_out has empty tenant -> S5 no pair (affects 287,350,1-148)"
+  },
+  "golden_candidates": {
+    "ready_first": [
+      "66-boundary-st-parramatta",
+      "71-therry-street-avalon-beach"
+    ],
+    "after_2b_fix": [
+      "287-cleveland-st-redfern",
+      "350-marsden-rd-carlingford",
+      "1-148-liverpool-rd-enfield"
+    ]
+  },
+  "round3": {
+    "completed": "2026-07-05",
+    "all_verify": "PASS",
+    "all_eval": "PASS",
+    "regression_342": "PASS",
+    "goldens_frozen": true
+  },
+  "pilot_status": "CLOSED — all 5 houses golden-frozen; 342 regression green"
+}

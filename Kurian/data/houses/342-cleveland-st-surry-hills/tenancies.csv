@@ -1,0 +1,16 @@
+room_code,tenant,start,end,start_kind,end_kind,start_task,end_task,hr,agreed_term_months,stay_days,months_past_term
+1104,Blake Withers,,2026-03-19,pre_window,move_out,,1213292306521428,yes,,,
+1104,Arturo Sandoval Montiel,2026-03-19,,move_in,ongoing,1213336704246033,,yes,3.0,103,0.4
+1104,"Ferréol, Arnaud, Dominique, Emmanuel De la Ville",2026-06-17,,move_in,ongoing,1215747504394046,,yes,7.0,13,0
+1105,Sebastian Jhair Castro Bohorquez,,2025-12-10,pre_window,move_out,,1211884074937124,yes,,,
+1105,Danny Walker,2025-12-10,2026-03-15,move_in,move_out,1211918450587574,1213197381147418,yes,3.0,95,0.1
+1105,Wing Ho Wong,2026-03-18,2026-06-17,move_in,move_out,1213325865216039,1215425074500556,yes,3.0,91,0
+1105,Pablo Andrés Guala González,2026-06-27,,move_in,ongoing,1215986422441871,,yes,3.0,3,0
+1107,Baldiri Vidal,,2025-07-20,pre_window,move_out,,1210449861231261,yes,,,
+1107,Seanna Maria Merome Connell,2025-07-25,2025-12-04,move_in,move_out,1210568602705011,1211844297626203,yes,4.0,132,0.3
+1107,Asta Nonboe,2025-12-05,2026-05-09,move_in,move_out,1211893650555706,1213979489803144,yes,3.0,155,2.1
+1107,Charlotte Jean Rivers,2026-05-09,,move_in,ongoing,1214286343938847,,yes,3.0,52,0
+1108,Daiana Sivak,,2025-07-12,pre_window,move_out,,1210531290858851,yes,,,
+1108,Lionel Leonard Soans,2025-07-16,,move_in,ongoing,1210590070854810,,yes,6.0,349,5.5
+1109,Lefebvre,,2025-07-02,pre_window,move_out,,1210582488460062,yes,,,
+1109,Bhomik Walia,2025-07-16,,move_in,ongoing,1210704312192572,,yes,6.0,349,5.5

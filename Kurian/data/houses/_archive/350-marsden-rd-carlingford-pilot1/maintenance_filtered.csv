@@ -1,0 +1,1407 @@
+Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent task,Blocked By (Dependencies),Blocking (Dependencies),Estimated time,Percent allocation,Property Manager,Owner,Cost,Type of Request,(General) House Address ,Area of maintenance,Will be fix by,Priority,Manager Approval ,Who is reporting ,Email Address,Tenant Name,Is this a routine inspection? ,Maintenance coordinator,Tenant's Coordinator,Type of Inspectio ,Room Code,Maintenance Status,Department,Maintenance Zone ,CDA Suburbs ,match_reason,matched_room_codes,event_date,in_window,is_subtask,task_url,flag_transfer_cancel,flag_date_keyword,flag_inconsistency,human_review
+1213804317343900,2026-03-25,,2026-06-30,"Room 7/350 Marsden Rd, Carlingford - Room Issues",Electrical,Jhon,jhon@cdacoliving.com,,2026-05-11,,"Select the department or team submitting this request:
+Offboarding
+
+Who is reporting?:
+Other
+
+Please indicate your name:
+Chriszsa Sicad
+
+Select the suburb:
+Carlingford
+
+House Address:
+Room 7, #1175, 350 Marsden Rd, Carlingford
+
+Type of Request:
+Electrical (lights, powerpoints)
+
+Please indicate room number if the maintenance item is related to a specific room:
+Room 7
+
+Please provide more information:
+Hello! Here are the flagged issues:
+
+1. Two bulbs are not working and one of the chandelier's glass is broken.
+- based from previous ICR only 1 bulb is not working
+- the chandelier  glass is not broken
+2. Bedframe is bent, it has the same condition before but was fixed, however same issue persist.
+3. Door with hole
+- existing already prior move-in
+
+Previous ICR for reference:
+https://app.au.safetyculture.com/report/public/audit/2a79492c4dcc11d92a7d1948c80476aef283bbd113e9ebaa35ea6699e065ec42
+
+
+
+Email address:
+chriszsa@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,"Electrical (lights, powerpoints)","350 Marsden Rd, Carlingford",Common area ,,High - 3 days ,,Other,,,,Jhon ,Angelica,,,Ongoing,Offboarding,Zone 3 ,Carlingford,address+room_code,1175,2026-03-25,yes,,https://app.asana.com/0/0/1213804317343900/f,,,,
+1213815045997494,2026-03-26,,2026-03-26,"Room 7/350 Marsden Rd, Carlingford - Two bulbs are not working and one of the chandelier's glass is broken",,,,,,,,,"Room 7/350 Marsden Rd, Carlingford - Room Issues",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-03-26,yes,yes,https://app.asana.com/0/0/1213815045997494/f,,,,
+1213815045997496,2026-03-26,,2026-04-27,"Room 7/350 Marsden Rd, Carlingford - Room door hole",,Jhon,jhon@cdacoliving.com,,2026-04-23,,,,"Room 7/350 Marsden Rd, Carlingford - Room Issues",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-03-26,yes,yes,https://app.asana.com/0/0/1213815045997496/f,,,,
+1212684482180161,2026-01-07,,2026-04-03,"350 Marsden Rd, Carlingford - Cleaning Schedule 2026",Routine Cleaning,Darian Mendez,darian@cdacoliving.com,,,,,Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Routine cleaning ,"350 Marsden Rd, Carlingford",Common area ,CDA,Routine task ,,Jane Tolentino,,,No ,Oscar,Angelica,,,,,Zone 3 ,,address,,2026-01-07,yes,,https://app.asana.com/0/0/1212684482180161/f,,,,
+1212684482180169,2026-01-07,,2026-06-18,"350 Marsden Rd, Carlingford - June 2026",,Laura Cardona,cleaner.003cda@gmail.com,,2026-06-16,,,,"350 Marsden Rd, Carlingford - Cleaning Schedule 2026",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-01-07,yes,yes,https://app.asana.com/0/0/1212684482180169/f,,,,
+1212684482180170,2026-01-07,,2026-01-07,"350 Marsden Rd, Carlingford - July 2026",,,,,,,,,"350 Marsden Rd, Carlingford - Cleaning Schedule 2026",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-01-07,yes,yes,https://app.asana.com/0/0/1212684482180170/f,,,,
+1212684482180171,2026-01-07,,2026-01-07,"350 Marsden Rd, Carlingford - August 2026",,,,,,,,,"350 Marsden Rd, Carlingford - Cleaning Schedule 2026",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-01-07,yes,yes,https://app.asana.com/0/0/1212684482180171/f,,,,
+1212684482180172,2026-01-07,,2026-01-07,"350 Marsden Rd, Carlingford - September 2026",,,,,,,,,"350 Marsden Rd, Carlingford - Cleaning Schedule 2026",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-01-07,yes,yes,https://app.asana.com/0/0/1212684482180172/f,,,,
+1212684482180173,2026-01-07,,2026-01-07,"350 Marsden Rd, Carlingford - October 2026",,,,,,,,,"350 Marsden Rd, Carlingford - Cleaning Schedule 2026",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-01-07,yes,yes,https://app.asana.com/0/0/1212684482180173/f,,,,
+1212684482180174,2026-01-07,,2026-01-07,"350 Marsden Rd, Carlingford - November 2026",,,,,,,,,"350 Marsden Rd, Carlingford - Cleaning Schedule 2026",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-01-07,yes,yes,https://app.asana.com/0/0/1212684482180174/f,,,,
+1212684482180175,2026-01-07,,2026-01-07,"350 Marsden Rd, Carlingford - December 2026",,,,,,,,,"350 Marsden Rd, Carlingford - Cleaning Schedule 2026",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-01-07,yes,yes,https://app.asana.com/0/0/1212684482180175/f,,,,
+1214796349827224,2026-05-14,,2026-05-15,"350 Marsden Rd, Carlingford - Council pick up",Council Clean Ups | Bins Issues,Joseph Angelo Sablay,joseph@cdacoliving.com,,2026-05-19,,"Select the department or team submitting this request:
+Cleaners 
+
+Who is reporting?:
+Other
+
+Name:
+Santiago
+
+Tenant Coordinator:
+Ian
+
+Select the suburb:
+Carlingford
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Council pick up
+
+Please provide more information:
+Items left behind, still next to the big bins
+
+Email address:
+cleanerscda.08@gmail.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Council pick up,"350 Marsden Rd, Carlingford",Common area ,,Medium - 5 days,,Other,,,,Jhon ,Angelica,,,Ongoing,Cleaners ,Zone 3 ,Carlingford,address,,2026-05-14,yes,,https://app.asana.com/0/0/1214796349827224/f,,,,
+1215520202628100,2026-06-09,,2026-06-12,"350 Marsden Rd, Carlingford - Maintenance Issues",Repairs | Installations,Jhon,jhon@cdacoliving.com,,2026-06-12,,"Select the department or team submitting this request:
+Offboarding
+
+Who is reporting?:
+Other
+
+Name:
+Chriszsa Sicad
+
+Tenant Coordinator:
+Angelica
+
+Select the suburb:
+Carlingford
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Mould issue 
+
+Please indicate room number if the maintenance item is related to a specific room:
+Common area and Room 7
+
+Please provide more information:
+Hello, the tenant was suppose to transfer to this room & property but did not proceed. The ICR prior move-in shows no issues or no flagged issues. However tenant raised a few concerns or damage as well as in the common area. 
+
+Here's his comment:
+""Hello Valentina , this property at 350 marsden road is in a very terrible condition , molds all over the place and shower inside and outside , cracks allover the room , broken cieling light bulb , super dirty carpet and much more . I will send you pictures now but can we please change this room because this is not livable at all otherwise renovated . I will become sick in here.""
+
+Please check provided photos for reference and see what we can do or what we can repair or if they're just considered as aesthetic issue. Thank you.
+
+Email address:
+chriszsa@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Mould issue ,"350 Marsden Rd, Carlingford",Common area ,,High - 3 days ,,Other,,,,Jhon ,Angelica,,,Ongoing,Offboarding,Zone 3 ,Carlingford,address,,2026-06-09,yes,,https://app.asana.com/0/0/1215520202628100/f,yes,,,yes
+1215576098003380,2026-06-10,,2026-06-10,"350 Marsden Rd, Carlingford - Moulds all over the property",,,,,,,,,"350 Marsden Rd, Carlingford - Maintenance Issues",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-06-10,yes,yes,https://app.asana.com/0/0/1215576098003380/f,,,,
+1215576098003381,2026-06-10,,2026-06-10,"350 Marsden Rd, Carlingford - Mould inside and outside the shower",,,,,,,,,"350 Marsden Rd, Carlingford - Maintenance Issues",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-06-10,yes,yes,https://app.asana.com/0/0/1215576098003381/f,,,,
+1215576098003382,2026-06-10,,2026-06-10,"350 Marsden Rd, Carlingford - Cracks throughout the room",,,,,,,,,"350 Marsden Rd, Carlingford - Maintenance Issues",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-06-10,yes,yes,https://app.asana.com/0/0/1215576098003382/f,,,,
+1215576098003385,2026-06-10,,2026-06-10,"350 Marsden Rd, Carlingford - Structure Damage Outdoors ",,,,,,,,,"350 Marsden Rd, Carlingford - Maintenance Issues",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-06-10,yes,yes,https://app.asana.com/0/0/1215576098003385/f,,,,
+1214796045298592,2026-05-14,,2026-05-18,"350 Marsden Rd, Carlingford - Carpet tiles",Repairs | Installations,Joseph Angelo Sablay,joseph@cdacoliving.com,,,,"Select the department or team submitting this request:
+Cleaners 
+
+Who is reporting?:
+Other
+
+Name:
+Santiago 
+
+Tenant Coordinator:
+Ian
+
+Select the suburb:
+Carlingford
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Carpet tiles
+
+Please provide more information:
+Damaged carpet in main corridor 
+
+Email address:
+cleanerscda.08@gmail.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Carpet tiles,"350 Marsden Rd, Carlingford",Common area ,,,,Other,,,,Jhon ,Angelica,,,Ongoing,Cleaners ,Zone 3 ,Carlingford,address,,2026-05-14,yes,,https://app.asana.com/0/0/1214796045298592/f,,,,
+1215576098003383,2026-06-10,2026-06-11,2026-06-11,"350 Marsden Rd, Carlingford - Broken ceiling light bulb",Resolved,Hakan Dogan,hakan@cdacoliving.com,,2026-06-11,,Replace the bulbs then remove the broken cover of the light ,Maintenance Requests,"350 Marsden Rd, Carlingford - Maintenance Issues",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-06-10,yes,yes,https://app.asana.com/0/0/1215576098003383/f,,,,
+1215576098003384,2026-06-10,2026-06-11,2026-06-11,"350 Marsden Rd, Carlingford - Dirty and damaged carpet",Resolved,Hakan Dogan,hakan@cdacoliving.com,,2026-06-11,,"Please check if this is something we can patch 
+Looks mouldy, please confirm. Thanks! ",Maintenance Requests,"350 Marsden Rd, Carlingford - Maintenance Issues",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-06-10,yes,yes,https://app.asana.com/0/0/1215576098003384/f,,,,
+1213537806498446,2026-03-04,2026-06-06,2026-06-06,"350 Marsden Road, Carlingford - Clogged toilet (Both Levels)",Resolved,Ma Angelica Malabanan,mmalabanan@cdacoliving.com,,2026-05-11,,"Select the department or team submitting this request:
+Sales & Leasing Managers
+
+Who is reporting?:
+⁠Juan Herrera
+
+Select the suburb:
+Carlingford
+
+House Address:
+350 Marsden road 
+
+Type of Request:
+Blocked or broken toilet
+
+Please indicate room number if the maintenance item is related to a specific room:
+Both toilets 
+
+Please provide more information:
+Both toiles are block according with tenants 
+
+Email address:
+juan@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Broken toilet,"350 Marsden Rd, Carlingford",Common area ,CDA,Urgent - 2 days,,⁠Juan Herrera,,,,Jhon ,Angelica,,,Ongoing,Sales & Leasing Managers,Zone 3 ,Carlingford,address,,2026-03-04,yes,,https://app.asana.com/0/0/1213537806498446/f,,,,
+1215265415121362,2026-05-31,2026-06-04,2026-06-04,"Room 1/350 Marsden Road, Carlingford - Power Point Replacement ",Resolved,Jhon,jhon@cdacoliving.com,,2026-06-03,,"Select your suburb:
+Carlingford
+
+Full property address:
+350 Marsden road, Carlingford, NSW 2118
+
+Type of request:
+Electrical (lights, powerpoints)
+
+In which area do you require maintenance?:
+My room
+
+Please indicate your room number:
+Room 1 - #1169
+
+Please provide additional details:
+My room’s socket(powerpoint) isn’t working properly . I was loose from the beginning. But I somehow managed it. 
+But recently it burned one multiplug. I bought multiplug but it’s same problem sparking sound. 
+It’s bearly working. I am not using that socket for safety.  The whole powerboard isn’t even properly attached with the wall. 
+Need to change the whole board asap . 
+
+
+Occupant name:
+Sudipta Paul
+
+Email address:
+sudiptapilotsyl2021@gmail.com
+
+Phone number:
+0420274175
+
+———————————————
+This task was submitted through Report a Maintenance Issue
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,"Electrical (lights, powerpoints)","350 Marsden Rd, Carlingford",My room,,High - 3 days ,,,sudiptapilotsyl2021@gmail.com,Sudipta Paul,,Jhon ,Angelica,,,Ongoing,Maintenance,Zone 3 ,Carlingford,address+room_code,1169,2026-05-31,yes,,https://app.asana.com/0/0/1215265415121362/f,,,,
+1215268563675910,2026-06-01,2026-06-03,2026-06-03,"350 Marsden Road, Carlingford, NSW 2118, - Power Point Replacement (Room1) ",Resolved,Hakan Dogan,hakan@cdacoliving.com,,2026-06-03,,"As per Tenant: 
+ "" My room’s socket(powerpoint) isn’t working properly . I was loose from the beginning. But I somehow managed it. 
+But recently it burned one multiplug. I bought multiplug but it’s same problem sparking sound. 
+It’s bearly working. I am not using that socket for safety.  The whole powerboard isn’t even properly attached with the wall. "" ",Maintenance Requests,"Room 1/350 Marsden Road, Carlingford - Power Point Replacement ",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-06-01,yes,yes,https://app.asana.com/0/0/1215268563675910/f,,,,
+1212684482180168,2026-01-07,2026-05-28,2026-05-28,"350 Marsden Rd, Carlingford - May 2026",Resolved,Santiago Giraldo ,cleanerscda.08@gmail.com,,2026-05-15,,,Maintenance Requests,"350 Marsden Rd, Carlingford - Cleaning Schedule 2026",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-01-07,yes,yes,https://app.asana.com/0/0/1212684482180168/f,,,,
+1213585974750211,2026-03-10,2026-05-11,2026-05-28,"350 Marsden Rd, Carlingford - Fridge Replacement",Resolved,Jhon,jhon@cdacoliving.com,,2026-05-04,,"Select the department or team submitting this request:
+Maintenance
+
+Who is reporting?:
+Christian Baleta
+
+Select the suburb:
+Carlingford
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Fridge not working
+
+Please indicate room number if the maintenance item is related to a specific room:
+Kitchen Area
+
+Please provide more information:
+Name: Jason David Luzano Vero
+Number: +61 410 660 102
+Remarks: Main Fridge. Main fridge keeps beeping, we’ve temporarily turned it off. Can someone come and check it please
+
+Email address:
+christian@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Fridge not working,"350 Marsden Rd, Carlingford",Common area ,,Urgent - 2 days,,Christian Baleta,,,,Jhon ,Angelica,,,Ongoing,Maintenance,Zone 3 ,Carlingford,address,,2026-03-10,yes,,https://app.asana.com/0/0/1213585974750211/f,,,,
+1214044980455503,2026-04-13,2026-04-25,2026-04-25,"350 Marsden Rd, Carlingford - Kitchen Cleaning Issue",Resolved,Christian Baleta,christian@cdacoliving.com,,2026-04-16,,"Select the department or team submitting this request:
+Cleaners 
+
+Who is reporting?:
+Daniel Ramirez
+
+Select the suburb:
+Carlingford
+
+House Address:
+350 Marsden Rd
+
+Type of Request:
+Cleaning 
+
+Please provide more information:
+Hello Team 
+
+This guys have the kitchen in bad conditions
+
+Could you please help me to address the matter? 
+
+Thanks 
+
+Email address:
+pmcity@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Cleaning ,"350 Marsden Rd, Carlingford",Common area ,,High - 3 days ,,Daniel Ramirez,,,,Jhon ,Angelica,,,Ongoing,Cleaners ,Zone 3 ,Carlingford,address,,2026-04-13,yes,,https://app.asana.com/0/0/1214044980455503/f,,,,
+1212684482180167,2026-01-07,2026-04-25,2026-04-25,"350 Marsden Rd, Carlingford - April 2026",Resolved,Deisy C,cleaner.004c@gmail.com,,2026-04-15,,,Maintenance Requests,"350 Marsden Rd, Carlingford - Cleaning Schedule 2026",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-01-07,yes,yes,https://app.asana.com/0/0/1212684482180167/f,,,,
+1214059985936679,2026-04-14,,2026-04-16,Location of the Utilities in the Property,,Deisy C,cleaner.004c@gmail.com,,2026-04-15,,"Locate the Utilities -Check for the location of the ff and take a photo and video where it can be found:
+
+    Water Meter
+    Switchboard
+    Hot water System 
+    Gas meter
+    Bins
+    Internet Location and Details 
+",,"350 Marsden Rd, Carlingford - April 2026",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-04-14,yes,yes,https://app.asana.com/0/0/1214059985936679/f,,,,
+1212822181833821,2026-01-15,2026-04-24,2026-04-24,"350 Marsden Rd, Carlingford - Broken Yellow Bin Lid",Resolved,Pilar,cleaner.002c@gmail.com,,2026-02-06,,"House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Rubbish pick up 
+
+Tenant Name:
+Chu Haur Yong
+
+In which area do you require maintenance?:
+Common area 
+
+Please provide more information:
+There’s an issue with the yellow bin where the yellow cover was broken since last bin collection and the bins was not collected when it was placed out there for bins collection today. Please fix/replace the yellow bin cover.
+
+Email address:
+chuhaur1401@gmail.com
+
+Phone number:
+0478641068
+
+Authorisation to enter the room to undertake maintenance ASAP:
+No
+
+Please advise suitable date and time our team can enter:
+It’s an issue regarding the yellow bin.
+
+Email address:
+chuhaur1401@gmail.com
+
+———————————————
+This task was submitted through Tenants Maintenance Requests
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Rubbish pick up ,"350 Marsden Rd, Carlingford",Common area ,,,,,chuhaur1401@gmail.com,Chu Haur Yong,,Oscar,Angelica,,,,,Zone 3 ,,address,,2026-01-15,yes,,https://app.asana.com/0/0/1212822181833821/f,,,,
+1214068898843451,2026-04-15,2026-04-20,2026-04-20,"350 Marsden Rd, Carlingford - Broken Toilet Pipe (Downstairs Bathroom)",Resolved,Jhon,jhon@cdacoliving.com,,2026-04-17,,"Select the department or team submitting this request:
+Cleaners 
+
+Who is reporting?:
+Other
+
+Please indicate your name:
+Deisy C
+
+Select the suburb:
+Carlingford
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Blocked or broken toilet
+
+Please indicate room number if the maintenance item is related to a specific room:
+Bathroom down stairs 
+
+Please provide more information:
+The pipe of toilet is broken and the water doesn’t flush properly and smells so bad please fix it thanks 
+
+Email address:
+cleaner.004c@gmail.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Broken toilet,"350 Marsden Rd, Carlingford",Common area ,,Urgent - 2 days,,Other,,,,Jhon ,Angelica,,,Ongoing,Cleaners ,Zone 3 ,Carlingford,address,,2026-04-15,yes,,https://app.asana.com/0/0/1214068898843451/f,,,,
+1214080385407407,2026-04-16,2026-04-20,2026-04-20,"350 Marsden Rd, Carlingford - Broken Toilet Pipe Re-attachment",Resolved,Alison ariel pitrovski,Alisonpitrovski@hotmail.com,,2026-04-17,,"    Kindly assist regarding the detached toilet pipe 
+
+",Maintenance Requests,"350 Marsden Rd, Carlingford - Broken Toilet Pipe (Downstairs Bathroom)",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-04-16,yes,yes,https://app.asana.com/0/0/1214080385407407/f,,,,
+1214068854326818,2026-04-15,2026-04-16,2026-04-16,"[Duplicate] Carlingford, 350 Marsden Rd, Carlingford, Fridge not working",Resolved,Christian Baleta,christian@cdacoliving.com,,2026-04-17,,"Select the department or team submitting this request:
+Cleaners 
+
+Who is reporting?:
+Other
+
+Please indicate your name:
+Deisy C
+
+Select the suburb:
+Carlingford
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Fridge not working
+
+Please indicate room number if the maintenance item is related to a specific room:
+Kitchen 
+
+Please provide more information:
+The fridge is not working and is disconnected because when the tenants connect it star to make noise each 5 mins so now is off and not working 
+
+Email address:
+cleaner.004c@gmail.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,,,Fridge not working,,,,Urgent - 2 days,,Other,,,,Jhon ,Angelica,,,,Cleaners ,Zone 3 ,Carlingford,address,,2026-04-15,yes,,https://app.asana.com/0/0/1214068854326818/f,,,,
+1213533675706604,2026-03-04,2026-04-08,2026-04-08,"[Duplicate] 350 Marsden Rd, Carlingford - Toilet Leak",Resolved,,,,2026-04-09,,"Select the department or team submitting this request:
+Maintenance
+
+Who is reporting?:
+Christian Baleta
+
+Select the suburb:
+Carlingford
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Minor leak
+
+Please indicate room number if the maintenance item is related to a specific room:
+Bathroom
+
+Please provide more information:
+Name: Jason David Luzano Vero
+Number: +61 410 660 102
+Remarks: Toilet Leak. Water coming out from the toilet
+
+Email address:
+christian@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Minor leak,"350 Marsden Rd, Carlingford",Common area ,,Medium - 5 days,,Christian Baleta,,,,Oscar,Angelica,,,Ongoing,Maintenance,Zone 3 ,Carlingford,address,,2026-03-04,yes,,https://app.asana.com/0/0/1213533675706604/f,,,,
+1213815045997495,2026-03-26,2026-04-06,2026-04-06,"Room 7/350 Marsden Rd, Carlingford - Bedframe is bent (it has the same condition before but was fixed, however same issue persist)",Resolved,,,,,,,Maintenance Requests,"Room 7/350 Marsden Rd, Carlingford - Room Issues",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-03-26,yes,yes,https://app.asana.com/0/0/1213815045997495/f,,,,
+1213880827867712,2026-03-31,2026-04-03,2026-04-03,"Room 7/350 Marsden Rd, Carlingford - To get bedframe in the storage and install in this property",,Ricardo Alberto Corrales Rivera ,richicorrales24@gmail.com,,2026-04-02,,,,"Room 7/350 Marsden Rd, Carlingford - Bedframe is bent (it has the same condition before but was fixed, however same issue persist)",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-03-31,yes,yes,https://app.asana.com/0/0/1213880827867712/f,,,,
+1213656028369774,2026-03-16,2026-03-26,2026-03-26,"350 Marsden Rd, Carlingford - To check/fix the beeping sound on the fridge",Resolved,Thomas Barna,maintenance@cdacoliving.com,,2026-03-26,,,Maintenance Requests,"350 Marsden Rd, Carlingford - Fridge Replacement",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-03-16,yes,yes,https://app.asana.com/0/0/1213656028369774/f,,,,
+1212684482180166,2026-01-07,2026-03-19,2026-03-19,"350 Marsden Rd, Carlingford - March 2026",Resolved,Camila,cleaner.005c@gmail.com,,2026-03-19,,,Maintenance Requests,"350 Marsden Rd, Carlingford - Cleaning Schedule 2026",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-01-07,yes,yes,https://app.asana.com/0/0/1212684482180166/f,,,,
+1213094939159746,2026-02-03,2026-03-14,2026-04-12,"Room 1/350 Marsden Rd, Carlingford - Room Issue",Resolved,Christian Baleta,christian@cdacoliving.com,,2026-03-06,,"Select the department or team submitting this request:
+Offboarding
+
+Who is reporting?:
+Other
+
+Please indicate your name:
+Chriszsa Sicad
+
+Select the suburb:
+Carlingford
+
+House Address:
+Room 1, #1169, 350 Marsden Rd, Carlingford
+
+Type of Request:
+Mattress replacement
+
+Please indicate room number if the maintenance item is related to a specific room:
+Room 1
+
+Please provide more information:
+Cleaner reported that the mattress might need replacement and the tenant might complain because the mattress is full of hard to remove stains.
+
+Context:
+The mattress was already cleaned last Nov 22 (this is the last condition report for the room) however the stains were still hard to remove. Previous ICR for reference
+
+Room 1, #1169, 350 Marsden Rd, Carlingford / Ana y Camila / 18 Nov 2025
+https://app.au.safetyculture.com/report/public/audit/0f49c722ceee879fa6f96708f39fe4c20b9f672ec845a232f5708deccd7b688e
+
+Note: Room occupied by February 4
+
+
+Email address:
+chriszsa@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Mattress replacement,"350 Marsden Rd, Carlingford",Empty rooms,,Low - 10 days ,,Other,,,,Oscar,Angelica,,,,Offboarding,Zone 3 ,Carlingford,address+room_code,1169,2026-02-03,yes,,https://app.asana.com/0/0/1213094939159746/f,,,,
+1213237826966895,2026-02-12,2026-03-14,2026-03-20,"Room 3/350 Marsden Rd, Carlingford - Foul Smell",Resolved,Christian Baleta,christian@cdacoliving.com,,2026-02-16,👍🏽👍🏽  SCHED,"Select your suburb:
+Carlingford
+
+Full property address:
+350 Marsden Rd, Carlingford Room 3
+
+Type of request:
+Carpet tiles
+
+In which area do you require maintenance?:
+My room
+
+Please indicate your room number:
+3
+
+Please provide more information:
+Just moved in and the rooms smells musty and humid and there are signs of mould on the carpet. First night sleeping caused me allergies. 
+
+Occupant name:
+Islam Alkhalaeileh
+
+Email address:
+Islam.alkhalaeileh@gmail.com
+
+Phone number:
+0490024466
+
+Authorisation to enter the room to undertake maintenance ASAP:
+Yes
+
+———————————————
+This task was submitted through Report a Maintenance Issue
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Carpet tiles,"350 Marsden Rd, Carlingford",My room,,,,,Islam.alkhalaeileh@gmail.com,Islam Alkhalaeileh,,Oscar,Angelica,,,,Maintenance,Zone 3 ,Carlingford,address,,2026-02-12,yes,,https://app.asana.com/0/0/1213237826966895/f,,,,
+1213537818939797,2026-03-04,2026-03-09,2026-03-09,"Room 6/350 Marsden Road, Carlingford - Windows Issue",Resolved,,,,2026-03-06,,"Select the department or team submitting this request:
+Sales & Leasing Managers
+
+Who is reporting?:
+⁠Juan Herrera
+
+Select the suburb:
+Carlingford
+
+House Address:
+350 marsden road 
+
+Type of Request:
+Curtains/blinds replacement
+
+Please indicate room number if the maintenance item is related to a specific room:
+Room 6 
+
+Please provide more information:
+The sliding window is stuck and the guy can get air into the room 
+
+Email address:
+juan@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Curtains/blinds replacement,"350 Marsden Rd, Carlingford",My room,,Medium - 5 days,,⁠Juan Herrera,,,,Oscar,Angelica,,,Ongoing,Sales & Leasing Managers,Zone 3 ,Carlingford,address,,2026-03-04,yes,,https://app.asana.com/0/0/1213537818939797/f,,,,
+1213548159181177,2026-03-05,2026-03-06,2026-03-06,"Room 6/350 Marsden Road, Carlingford - Fix the stuck Windows",Resolved,Thomas Barna,maintenance@cdacoliving.com,,2026-03-06,,,Maintenance Requests,"Room 6/350 Marsden Road, Carlingford - Windows Issue",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-03-05,yes,yes,https://app.asana.com/0/0/1213548159181177/f,,,,
+1213548158234004,2026-03-05,2026-03-06,2026-03-06,"350 Marsden Road, Carlingford - unclogged toilet (Both Levels)",Resolved,Thomas Barna,maintenance@cdacoliving.com,,2026-03-06,,,Maintenance Requests,"350 Marsden Road, Carlingford - Clogged toilet (Both Levels)",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-03-05,yes,yes,https://app.asana.com/0/0/1213548158234004/f,,,,
+1213548153330152,2026-03-05,2026-03-06,2026-04-08,"350 Marsden Rd, Carlingford - To put sealant on the Toilet Leak (To send video if cannot be repair and video will be use for the agent)",Resolved,Thomas Barna,maintenance@cdacoliving.com,,2026-03-06,,,Maintenance Requests,"350 Marsden Road, Carlingford - Clogged toilet (Both Levels)",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-03-05,yes,yes,https://app.asana.com/0/0/1213548153330152/f,,,,
+1212218984098966,2025-11-28,2026-02-24,2026-03-28,"350 Marsden Rd, Carlingford - New Kitchen Bin",Resolved,,,,2026-02-25,,"Select the department or team submitting this request:
+Maintenance
+
+Who is reporting?:
+Other
+
+Please indicate your name:
+Marcela Vasquez 
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Bins
+
+Please indicate room number if the maintenance item is related to a specific room:
+Kitchen
+
+Please provide more information:
+New kitchen bin 
+
+Email address:
+Cleaner.01c@gmail.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Bins,"350 Marsden Rd, Carlingford",Common area ,,High - 3 days ,,Other,,,,Oscar,Angelica,,,,Maintenance,Zone 3 ,,address,,2025-11-28,yes,,https://app.asana.com/0/0/1212218984098966/f,,,,
+1212684482180165,2026-01-07,2026-02-21,2026-02-21,"350 Marsden Rd, Carlingford - February 2026",Resolved,Laura Cardona,cleaner.003cda@gmail.com,,2026-02-16,,,Maintenance Requests,"350 Marsden Rd, Carlingford - Cleaning Schedule 2026",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-01-07,yes,yes,https://app.asana.com/0/0/1212684482180165/f,,,,
+1213331069541057,2026-02-19,2026-02-20,2026-02-20,"Room 1/350 Marsden Rd, Carlingford - Check leak source that may affect the wet carpet",Resolved,Ricardo Alberto Corrales Rivera ,richicorrales24@gmail.com,,2026-02-20,,,Maintenance Requests,"Room 1/350 Marsden Rd, Carlingford - Room Issue",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-02-19,yes,yes,https://app.asana.com/0/0/1213331069541057/f,,,,
+1213091478710745,2026-02-03,2026-02-20,2026-02-20,"Room 1/350 Marsden Rd, Carlingford - To get spare double size mattress from 50 Barker and replace mattress",Resolved,Ricardo Alberto Corrales Rivera ,richicorrales24@gmail.com,,2026-02-20,,"https://app.asana.com/app/asana/-/get_asset?asset_id=1213348774072628
+
+
+",Maintenance Requests,"Room 1/350 Marsden Rd, Carlingford - Room Issue",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-02-03,yes,yes,https://app.asana.com/0/0/1213091478710745/f,,,,
+1213176683207125,2026-02-13,2026-02-16,2026-02-17,"350 Marsden Rd, Carlingford - No water supply",Resolved,,,,2026-02-13,,"Select the department or team submitting this request:
+Maintenance
+
+Who is reporting?:
+Christian Baleta
+
+Select the suburb:
+Carlingford
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Serious water service leak
+
+Please indicate room number if the maintenance item is related to a specific room:
+Common Area
+
+Please provide more information:
+Name: Jason David Luzano Vero
+Number: +61 410 660 102
+Remarks: URGENT - No running water. Sink doesn’t seem to work anymore.
+
+Email address:
+christian@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Serious water service leak,"350 Marsden Rd, Carlingford",Common area ,,Urgent - 2 days,,Christian Baleta,,,,Oscar,Angelica,,,,Maintenance,Zone 3 ,Carlingford,address,,2026-02-13,yes,,https://app.asana.com/0/0/1213176683207125/f,,,,
+1213254652141025,2026-02-13,2026-02-16,2026-02-16,"350 Marsden Rd, Carlingford -  To look for the main water valve and  check if it is switch on ",Resolved,Camila,cleaner.005c@gmail.com,,2026-02-13,,"    Check if all water taps in the house have water. If there is still no water:
+        Look for the main water valve outside the house, as we don’t have it in the drive.
+        If the valve is off, turn it on and check the taps again.
+        If the valve was already on and there is still no water, please let me know so I can raise this with the agent.
+    Extra tasks:
+    Take photos of the water meter, switch breaker, hot water tank and  gas meter, 
+    Let us know their locations so we can save them in the drive.
+
+
+",Maintenance Requests,"350 Marsden Rd, Carlingford - No water supply",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2026-02-13,yes,yes,https://app.asana.com/0/0/1213254652141025/f,,,,
+1212684482180163,2026-01-07,2026-01-09,2026-01-09,"350 Marsden Rd, Carlingford - January 2026",Resolved,Christian Baleta,christian@cdacoliving.com,,2026-01-02,,,Maintenance Requests,"350 Marsden Rd, Carlingford - Cleaning Schedule 2026",,,,,,CLS VIC - Navid and James,,,,,,,,,,,,,,,,,,,,address,,2026-01-07,yes,yes,https://app.asana.com/0/0/1212684482180163/f,,,,
+1211291349145646,2025-09-08,2026-01-09,2026-01-31,"350 Marsden Rd, Carlingford - Cleaning Schedule 2025",Resolved,Darian Mendez,darian@cdacoliving.com,,2025-12-31,,"Rooms: 7
+Tenants: 7",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Routine cleaning ,"350 Marsden Rd, Carlingford",Common area ,CDA,Routine task ,,Jane Tolentino,,,No ,Oscar,Alyssa,,,,,,,address,,2025-09-08,yes,,https://app.asana.com/0/0/1211291349145646/f,,,,
+1211292040999922,2025-09-08,2026-01-09,2026-01-09,"350 Marsden Rd, Carlingford- December 2025",Resolved,Christian Baleta,christian@cdacoliving.com,,2025-12-29,,,Maintenance Requests,"350 Marsden Rd, Carlingford - Cleaning Schedule 2025",,,,,,CLS VIC - Navid and James,,,,,,,,,,,,,,,,,,,,address,,2025-09-08,yes,yes,https://app.asana.com/0/0/1211292040999922/f,,,,
+1212506668739674,2025-12-18,2025-12-19,2025-12-19,"Room 2/350 Marsden Rd, Carlingford - Door Lock Issue",Resolved,Christian Baleta,christian@cdacoliving.com,,2025-12-18,,"House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Keys and door locks
+
+Tenant Name:
+Chu Haur Yong
+
+In which area do you require maintenance?:
+My room
+
+Please indicate your room number:
+#1170
+
+Please provide more information:
+I had just moved in the room (#1170) at 17 December 2025. 
+
+I had to complaint about my room door lock (#1170).
+
+When I moved in, I did not saw a key and I cannot completely lock the door of the room. Was it broken? Because the room door can still be opened from outside by turning the lock.
+
+I need to request for the installation of the door lock and a key to my room for my personal safety and the security of my personal stuffs/belongings together with the furnitures provided in the room because I am concerned about the security of the house as strangers can still get in the house without using the main door. If strangers come to take, steal and make damages to my stuff and the furnitures in the house, it will cause big issue and loss for that.
+
+Besides, the room was not completely clean as there was a bit of dirt and dust here and there like the unremovable dirt on the carpet. I had taken photos and video of the whole furniture and fittings of the room then post it at Andy’s WhatsApp for evidence purposes to show it’s already been there since I moved in so I will not be responsible for that when I moved out.
+
+Please solve my request as soon as possible for the issue of the room door by installing or changing the room door lock/knob with a key for the safety and security of my personal safety, belongings and furnitures in the room.
+
+Email address:
+chuhaur1401@gmail.com
+
+Phone number:
++61478641068
+
+Authorisation to enter the room to undertake maintenance ASAP:
+Yes
+
+Email address:
+chuhaur1401@gmail.com
+
+———————————————
+This task was submitted through Tenants Maintenance Requests
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Keys and door locks,"350 Marsden Rd, Carlingford",My room,,High - 3 days ,,,chuhaur1401@gmail.com,Chu Haur Yong,,Oscar,Angelica,,,,Maintenance,Zone 3 ,,address+room_code,1170,2025-12-18,yes,,https://app.asana.com/0/0/1212506668739674/f,,,,
+1211292040999916,2025-09-08,2025-12-12,2025-12-12,"350 Marsden Rd, Carlingford  - November 2025 ",Resolved,,,,2025-11-28,,,Maintenance Requests,"350 Marsden Rd, Carlingford - Cleaning Schedule 2025",,,,,,CLS VIC - Navid and James,,,,,,,,,,,,,,,,,,,,address,,2025-09-08,yes,yes,https://app.asana.com/0/0/1211292040999916/f,,,,
+1211975410788816,2025-11-18,2025-11-18,2025-11-18,"350 Marsden Rd, Carlingford, OCR",Resolved,Chriszsa Sicad,chriszsa@cdacoliving.com,,,,"Select the department or team submitting this request:
+Maintenance
+
+Who is reporting?:
+Other
+
+Please indicate your name:
+Ana 
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+OCR
+
+Please indicate room number if the maintenance item is related to a specific room:
+Room 1, #1169, 350 Marsden Rd, Carlingford
+
+Please provide more information:
+mattress cleaning
+
+Email address:
+cleaner.005c@gmail.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,OCR,"350 Marsden Rd, Carlingford",,,,,Other,,,,Oscar,Alyssa,,,,Maintenance,Zone 3 ,,address+room_code,1169,2025-11-18,yes,,https://app.asana.com/0/0/1211975410788816/f,,,,
+1211944416218259,2025-11-14,2025-11-18,2025-11-18,"350 Marsden Rd, Carlingford, Furniture & storage",Resolved,Alexander Celis,logistics@cdacoliving.com,,,,"Select the department or team submitting this request:
+Offboarding
+
+Who is reporting?:
+Other
+
+Please indicate your name:
+Chriszsa Sicad
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Furniture & storage
+
+Please indicate room number if the maintenance item is related to a specific room:
+Room 6
+
+Please provide more information:
+Chair is missing. Previous ICR shows there's a chair for this room. Tenant is charged for the chair.
+
+Previous ICR:
+https://app.au.safetyculture.com/report/audit/audit_05ac21e247134b479db1401f2e8bab1b
+
+Note: Room is empty
+
+Email address:
+chriszsa@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Furniture & storage,"350 Marsden Rd, Carlingford",,,Low - 10 days ,,Other,,,,Oscar,Alyssa,,,,Offboarding,Zone 3 ,,address,,2025-11-14,yes,,https://app.asana.com/0/0/1211944416218259/f,,,,
+1210735261830992,2025-11-17,2025-11-18,2025-11-18,"350 Marsden Rd, Carlingford, Room 6 - Chair desk missing (to buy)",Resolved,Hakan Dogan,hakan@cdacoliving.com,,2025-11-18,,,Maintenance Requests,"350 Marsden Rd, Carlingford, Furniture & storage",,,,,,CLS VIC - Navid and James,,,,,,,,,,,,,,,,,,,,address,,2025-11-17,yes,yes,https://app.asana.com/0/0/1210735261830992/f,,,,
+1211817819522296,2025-11-03,2025-11-14,2025-11-14,"350 Marsden Rd, Carlingford, Internet",Resolved,,,,2025-11-12,,"House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Internet
+
+Tenant Name:
+Patrick Joseph
+
+In which area do you require maintenance?:
+My room
+
+Please indicate your room number:
+1175
+
+Please provide more information:
+I just need to know the house internet details. The username is different to what's on my email and I can't access the wi-fi.
+
+Email address:
+patrickmckinneymusic@gmail.com
+
+Phone number:
+0493357573
+
+Authorisation to enter the room to undertake maintenance ASAP:
+No
+
+Please advise suitable date and time our team can enter:
+N/A
+
+Email address:
+patrickmckinneymusic@gmail.com
+
+———————————————
+This task was submitted through Tenants Maintenance Requests
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Internet,"350 Marsden Rd, Carlingford",My room,,High - 3 days ,,,patrickmckinneymusic@gmail.com,Patrick Joseph,,Oscar,Alyssa,,,,,Zone 3 ,,address,,2025-11-03,yes,,https://app.asana.com/0/0/1211817819522296/f,,,,
+1211890970027410,2025-11-09,2025-11-10,2025-11-10,"350 Marsden Rd, Carlingford - vacuum replacement",Resolved,Alexander Celis,logistics@cdacoliving.com,,2025-11-10,,"House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Cleaning 
+
+Tenant Name:
+Thai
+
+In which area do you require maintenance?:
+Common area 
+
+Please provide more information:
+There’s no vacuum in the house
+
+Email address:
+lehoangnguyenthai@gmail.com
+
+Phone number:
+0466905587
+
+Authorisation to enter the room to undertake maintenance ASAP:
+Yes
+
+———————————————
+This task was submitted through Tenants Maintenance Requests
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Cleaning ,"350 Marsden Rd, Carlingford",Common area ,,High - 3 days ,,,lehoangnguyenthai@gmail.com,Thai,,Oscar,Alyssa,,,,,Zone 3 ,,address,,2025-11-09,yes,,https://app.asana.com/0/0/1211890970027410/f,,,,
+1211892016301226,2025-11-10,2025-11-10,2025-11-10,"350 Marsden Rd, Carlingford - vacuum replacement",Resolved,Hakan Dogan,hakan@cdacoliving.com,,2025-11-10,,,Maintenance Requests,"350 Marsden Rd, Carlingford - vacuum replacement",,,,,,CLS VIC - Navid and James,,,,,,,,,,,,,,,,,,,,address,,2025-11-10,yes,yes,https://app.asana.com/0/0/1211892016301226/f,,,,
+1211789060213144,2025-10-30,2025-10-30,2025-10-30,"350 Marsden Rd, Carlingford - Put Items inside garage",Resolved,Hakan Dogan,hakan@cdacoliving.com,,2025-10-30,,"https://app.asana.com/app/asana/-/get_asset?asset_id=1211789060213147
+
+https://app.asana.com/app/asana/-/get_asset?asset_id=1211789060213149
+
+https://app.asana.com/app/asana/-/get_asset?asset_id=1211789060213151
+
+
+",Maintenance Requests,"4 Christel Ave, Carlingford-kitchen Faucet replacement",,,,,,CLS VIC - Navid and James,,,,,,,,,,,,,,,,,,,,address,,2025-10-30,yes,yes,https://app.asana.com/0/0/1211789060213144/f,,,,
+1211437812785059,2025-09-23,2025-10-30,2025-11-15,"350 Marsden Rd, Carlingford - Bins",Resolved,Alexander Celis,logistics@cdacoliving.com,,,,"House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Bins
+
+Tenant Name:
+Altaibaatar 
+
+In which area do you require maintenance?:
+Common area 
+
+Please provide more information:
+We have a red bin. but it is too small for us. Please provide bigger one.
+
+Email address:
+altaibaatarseseer@gmail.com
+
+Phone number:
+0493346463
+
+Authorisation to enter the room to undertake maintenance ASAP:
+Yes
+
+———————————————
+This task was submitted through Tenants Maintenance Requests
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Bins,"350 Marsden Rd, Carlingford",Common area ,,High - 3 days ,,,altaibaatarseseer@gmail.com,Altaibaatar ,,Oscar,Alyssa,,,,,Zone 3 ,,address,,2025-09-23,yes,,https://app.asana.com/0/0/1211437812785059/f,,,,
+1211737777120110,2025-10-24,2025-10-29,2025-10-29,"350 Marsden Rd, Carlingford, Room 7 - Tighten bed Frame",Resolved,Alexander Celis,logistics@cdacoliving.com,,2025-10-28,,"Select the department or team submitting this request:
+Maintenance
+
+Who is reporting?:
+Other
+
+Please indicate your name:
+Ana Bustos 
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+OCR
+
+Please indicate room number if the maintenance item is related to a specific room:
+Room 7, #1175, 350 Marsden Rd, Carlingford
+
+Please provide more information:
+change bed base, it's broken.
+black nightstand change, it's rusty
+the wall needs to be painted
+stained carpet
+
+Email address:
+cleaner.005c@gmail.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,OCR,"350 Marsden Rd, Carlingford",,,,,Other,,,,Oscar,Alyssa,,,,Maintenance,Zone 3 ,,address+room_code,1175,2025-10-24,yes,,https://app.asana.com/0/0/1211737777120110/f,,,,
+1211751697985074,2025-10-27,2025-10-28,2025-10-28,"350 Marsden Rd, Carlingford, Room 7 - Tighten Bed Frame (to fix it)",Resolved,Thomas Barna,maintenance@cdacoliving.com,,2025-10-28,,"https://app.asana.com/app/asana/-/get_asset?asset_id=1211751697985076
+
+https://app.asana.com/app/asana/-/get_asset?asset_id=1211751697985078
+
+https://app.asana.com/app/asana/-/get_asset?asset_id=1211751697985080
+
+https://app.asana.com/app/asana/-/get_asset?asset_id=1211751697985082
+
+
+",Maintenance Requests,"350 Marsden Rd, Carlingford, Room 7 - Tighten bed Frame",,,,,,CLS VIC - Navid and James,,,,,,,,,,,,,,,,,,,,address,,2025-10-27,yes,yes,https://app.asana.com/0/0/1211751697985074/f,,,,
+1211292040999910,2025-09-08,2025-10-16,2025-10-16,"350 Marsden Rd, Carlingford - October 2025",Resolved,,,,2025-10-09,,,Maintenance Requests,"350 Marsden Rd, Carlingford - Cleaning Schedule 2025",,,,,,CLS VIC - Navid and James,,,,,,,,,,,,,,,,,,,,address,,2025-09-08,yes,yes,https://app.asana.com/0/0/1211292040999910/f,,,,
+1211463307376516,2025-09-26,2025-10-10,2025-10-10,"4 Milton Street, Carlingford - council pick up (bring to 350 Marsden) ",,Ricardo Alberto Corrales Rivera ,richicorrales24@gmail.com,,2025-10-09,,"https://app.asana.com/app/asana/-/get_asset?asset_id=1211463307376519
+
+
+",,"4 Milton Street, Carlingford, NSW 2118, CLS VIC - Navid and James, New Property - Organise council pick up ",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-09-26,yes,yes,https://app.asana.com/0/0/1211463307376516/f,,,,
+1211566031098638,2025-10-07,2025-10-10,2025-10-14,"350 Marsden Rd, Carlingford - CDA Maintenance & Routine Inspection",Resolved,Salim,salim@cdacoliving.com,,2025-10-10,,,Maintenance Requests,CDA Maintenance & Routine Inspection,,,,,,CLS VIC - Navid and James,,,,,,,,,,,,,,,,,,,,address,,2025-10-07,yes,yes,https://app.asana.com/0/0/1211566031098638/f,,,,
+1211550077262788,2025-10-04,2025-10-09,2025-10-09,"7/350 Marsden Rd, Carlingford, Furniture & storage",Resolved,Alexander Celis,logistics@cdacoliving.com,,,,"Select the department or team submitting this request:
+Offboarding
+
+Who is reporting?:
+Other
+
+Please indicate your name:
+Chriszsa Sicad
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Furniture & storage
+
+Please indicate room number if the maintenance item is related to a specific room:
+Room 7
+
+Please provide more information:
+1. Wall with marks and peeling paint
+- this is already present based on style photos
+
+2. Bedside table is rusty
+- ICR from June 2025 shows the bedside table is already rusty however there is no old tenant, the one who moved out recently is the first tenant of the room who moved in last September. 
+https://app.au.safetyculture.com/report/audit/audit_0044ca61742f4336acc0800dd0760716
+
+Note: Room is empty & no charge to tenant
+
+Email address:
+chriszsa@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Furniture & storage,"350 Marsden Rd, Carlingford",,,Low - 10 days ,,Other,,,,Oscar,Alyssa,,,,Offboarding,Zone 3 ,,address,,2025-10-04,yes,,https://app.asana.com/0/0/1211550077262788/f,,,,
+1211571846204837,2025-10-07,2025-10-08,2025-10-08,"350 Marsden Rd, Carlingford- bulb Replacement",Resolved,Alexander Celis,logistics@cdacoliving.com,,2025-10-08,,"Select the department or team submitting this request:
+Sales & Leasing Managers
+
+Who is reporting?:
+Other
+
+Please indicate your name:
+Markell Lantin
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Electrical (lights, powerpoints)
+
+Please indicate room number if the maintenance item is related to a specific room:
+Common Areas (Living room)
+
+Please provide more information:
+Lights not working 
+
+Email address:
+markell@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,"Electrical (lights, powerpoints)","350 Marsden Rd, Carlingford",,,High - 3 days ,,Other,,,,Oscar,Alyssa,,,,Sales & Leasing Managers,Zone 3 ,,address,,2025-10-07,yes,,https://app.asana.com/0/0/1211571846204837/f,,,,
+1211565279573269,2025-10-07,2025-10-08,2025-10-08,"350 Marsden Rd, Carlingford - Bulb light not working (common area)",Resolved,Hakan Dogan,hakan@cdacoliving.com,,2025-10-08,,,Maintenance Requests,"350 Marsden Rd, Carlingford- bulb Replacement",,,,,,CLS VIC - Navid and James,,,,,,,,,,,,,,,,,,,,address,,2025-10-07,yes,yes,https://app.asana.com/0/0/1211565279573269/f,,,,
+1211566031098621,2025-10-07,2025-10-08,2025-10-08,"19 Sexton Ave, Castle Hill- Personal Belongings (to move to 350 Marsden Rd)",Resolved,Hakan Dogan,hakan@cdacoliving.com,,2025-10-08,,"https://app.asana.com/app/asana/-/get_asset?asset_id=1211566031098624
+
+
+",Maintenance Requests,"19 Sexton Ave, Castle Hill- Personal Belongings",,,,,,CLS VIC - Navid and James,,,,,,,,,,,,,,,,,,,,address,,2025-10-07,yes,yes,https://app.asana.com/0/0/1211566031098621/f,,,,
+1211369016238759,2025-09-17,2025-09-18,2025-09-18,"350 Marsden Rd, Carlingford - Gutter Cleaning",Resolved,,,,2025-09-18,,,Maintenance Requests,CDA Maintenance & Routine Inspection,,,,,,CLS VIC - Navid and James,,,,,,,,,,,,,,,,,,,,address,,2025-09-17,yes,yes,https://app.asana.com/0/0/1211369016238759/f,,,,
+1211292037319907,2025-09-08,2025-09-12,2025-09-12,"350 Marsden Rd, Carlingford - September 2025",Resolved,,,,2025-09-11,,,Maintenance Requests,"350 Marsden Rd, Carlingford - Cleaning Schedule 2025",,,,,,CLS VIC - Navid and James,,,,,,,,,,,,,,,,,,,,address,,2025-09-08,yes,yes,https://app.asana.com/0/0/1211292037319907/f,,,,
+1211134083215067,2025-08-25,2025-09-02,2025-09-02,"350 Marsden Rd, Carlingford - Broken toilet",Resolved,Alexander Celis,logistics@cdacoliving.com,,2025-08-27,,"Select the department or team submitting this request:
+Maintenance
+
+Who is reporting?:
+Rodrigo Marquez
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Blocked or broken toilet
+
+Please indicate room number if the maintenance item is related to a specific room:
+Both toilets blocked and leaking
+
+Please provide more information:
+Both toilets in the house are blocked and leaking 
+
+Email address:
+pmnorth@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Broken toilet,"350 Marsden Rd, Carlingford",Common area ,,Urgent - 2 days,,Rodrigo Marquez,,,No ,Oscar,Alyssa,,,,Maintenance,,,address,,2025-08-25,yes,,https://app.asana.com/0/0/1211134083215067/f,,,,
+1211144044183007,2025-08-26,2025-08-27,2025-08-28,"350 Marsden Rd, Carlingford - Broken toilet (check both)",Resolved,Thomas Barna,maintenance@cdacoliving.com,,2025-08-27,,"as per the tenants: The toilet is clogged, the water reaches the top when flushed. Also the toilet is leaked.
+
+https://app.asana.com/app/asana/-/get_asset?asset_id=1211144044183009
+
+
+
+https://app.asana.com/app/asana/-/get_asset?asset_id=1211144044183011
+
+
+",Maintenance Requests,"350 Marsden Rd, Carlingford - Broken toilet",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-08-26,yes,yes,https://app.asana.com/0/0/1211144044183007/f,,,,
+1211133469731605,2025-08-25,2025-08-25,2025-08-25,"[Duplicate] 350 Marsden Rd, Carlingford, Clogged toilet / sink ",Resolved,,,,2025-08-27,,"House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Clogged toilet / sink 
+
+Tenant Name:
+Yasir  Khan
+
+In which area do you require maintenance?:
+Common area 
+
+Please provide more information:
+The toilet is clogged, the water reaches the top when flushed. Also the toilet is leaked.
+
+Email address:
+iyasirkhan2000@gmail.com
+
+Phone number:
+0469865830
+
+Authorisation to enter the room to undertake maintenance ASAP:
+No
+
+Please advise suitable date and time our team can enter:
+As soon as possible 
+
+———————————————
+This task was submitted through Tenants Maintenance Requests
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,,,Clogged toilet / sink ,"350 Marsden Rd, Carlingford",Common area ,,Urgent - 2 days,,,iyasirkhan2000@gmail.com,Yasir  Khan,,,,,,,,,,address,,2025-08-25,yes,,https://app.asana.com/0/0/1211133469731605/f,,,,
+1210912346238711,2025-07-30,2025-08-07,2025-08-07,"350 Marsden Rd, Carlingford - Council Pick Up",Resolved,Alexander Celis,logistics@cdacoliving.com,,2025-08-06,,"https://app.asana.com/app/asana/-/get_asset?asset_id=1210912346238714
+
+
+",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Council pick up,"350 Marsden Rd, Carlingford",,,Medium - 5 days,,,,,No ,Oscar,Alyssa,,,Ongoing,,,,address,,2025-07-30,yes,,https://app.asana.com/0/0/1210912346238711/f,,,,
+1210912346238729,2025-07-30,2025-08-06,2025-08-06,"350 Marsden Rd, Carlingford - Council Pick Up",Resolved,Alison ariel pitrovski,Alisonpitrovski@hotmail.com,,2025-08-06,,"https://app.asana.com/app/asana/-/get_asset?asset_id=1210912346238732
+
+
+",Maintenance Requests,"350 Marsden Rd, Carlingford - Council Pick Up",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-07-30,yes,yes,https://app.asana.com/0/0/1210912346238729/f,,,,
+1210945271814213,2025-08-01,2025-08-06,2025-08-06,"350 Marsden Rd, Carlingford - Furniture alignment",Resolved,Alexander Celis,logistics@cdacoliving.com,,2025-08-07,,"Select the department or team submitting this request:
+Offboarding
+
+Who is reporting?:
+Other
+
+Please indicate your name:
+Chriszsa Sicad
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Furniture & storage
+
+Please indicate room number if the maintenance item is related to a specific room:
+Room 6, #1174
+
+Please provide more information:
+- Wardrobe pole is missing for hanging clothes
+- bedside table is tilted
+
+Note: new tenant moving in Saturday
+https://app.asana.com/1/1201789231542521/project/1209877764947329/task/1210898021628843?focus=true
+
+Email address:
+chriszsa@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Furniture & storage,"350 Marsden Rd, Carlingford",,,Low - 10 days ,,Other,,,,Oscar,Alyssa,,,,Offboarding,,,address+room_code,1174,2025-08-01,yes,,https://app.asana.com/0/0/1210945271814213/f,,,,
+1210958459946397,2025-08-04,2025-08-06,2025-08-06,"350 Marsden Rd, Carlingford, Room 6 - Wardrobe Pole and Bedside table",Resolved,Alison ariel pitrovski,Alisonpitrovski@hotmail.com,,2025-08-06,,,Maintenance Requests,"350 Marsden Rd, Carlingford - Furniture alignment",,,,,,CLS VIC - Navid and James,,,,,,,,,,,,Oscar,Alyssa,,,,,,,address,,2025-08-04,yes,yes,https://app.asana.com/0/0/1210958459946397/f,,,,
+1210897546884949,2025-07-27,2025-07-29,2025-07-29,"350 Marsden Rd, Carlingford, Curtains/blinds replacement",Resolved,Alexander Celis,logistics@cdacoliving.com,,2025-07-28,,"Select the department or team submitting this request:
+Maintenance
+
+Who is reporting?:
+Rodrigo Marquez
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Curtains/blinds replacement
+
+Please indicate room number if the maintenance item is related to a specific room:
+Curtain not working (room 6)
+
+Please provide more information:
+We need put blackout or fix the curtain 
+
+Email address:
+pmnorth@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Curtains/blinds replacement,"350 Marsden Rd, Carlingford",,,Medium - 5 days,,Rodrigo Marquez,,,,Oscar,Alyssa,,,,Maintenance,,,address,,2025-07-27,yes,,https://app.asana.com/0/0/1210897546884949/f,,,,
+1210898527822419,2025-07-28,2025-07-28,2025-07-28,"350 Marsden Rd, Carlingford - Install curtains or blinds ",Resolved,Alison ariel pitrovski,Alisonpitrovski@hotmail.com,,2025-07-28,,,Maintenance Requests,"350 Marsden Rd, Carlingford, Curtains/blinds replacement",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-07-28,yes,yes,https://app.asana.com/0/0/1210898527822419/f,,,,
+1210796947907409,2025-07-15,2025-07-28,2025-07-28,"350 Marsden Rd, Carlingford - Fridge Replacement",Resolved,Alexander Celis,logistics@cdacoliving.com,,2025-08-01,,"Select the department or team submitting this request:
+Maintenance
+
+Who is reporting?:
+⁠Juan Herrera
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Fridge not working
+
+Please indicate room number if the maintenance item is related to a specific room:
+Full house - kitchen 
+
+Please provide more information:
+I visited the house today and noticed that there is only one fridge available for everyone. Since the house has 7 rooms (and only 2 are left), it seems like the current fridge won’t be enough for all the tenants. Could you please consider bringing in another fridge to accommodate everyone?
+
+Email address:
+juansyd0909@gmail.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,,,Fridge not working,"350 Marsden Rd, Carlingford",,,Urgent - 2 days,,⁠Juan Herrera,,,,,,,,,Maintenance,,,address,,2025-07-15,yes,,https://app.asana.com/0/0/1210796947907409/f,,,,
+1210829638265301,2025-07-18,2025-07-21,2025-07-21,"1/350 Marsden Rd, Carlingford - Bulb Replacement",Resolved,Alexander Celis,logistics@cdacoliving.com,,2025-07-21,,"House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Electrical (lights, powerpoints)
+
+Tenant Name:
+Hoang Nguyen Thai Le
+
+In which area do you require maintenance?:
+My room
+
+Please indicate your room number:
+1
+
+Please provide more information:
+The light bulb is not on even i’ve already turned on the switch
+
+Email address:
+lehoangnguyenthai@gmail.com
+
+Phone number:
+0466905587
+
+Authorisation to enter the room to undertake maintenance ASAP:
+Yes
+
+Email address:
+lehoangnguyenthai@gmail.com
+
+———————————————
+This task was submitted through Tenants Maintenance Requests
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,"Electrical (lights, powerpoints)","350 Marsden Rd, Carlingford",My room,,High - 3 days ,,,lehoangnguyenthai@gmail.com,Hoang Nguyen Thai Le,,Oscar,Alyssa,,,,,,,address,,2025-07-18,yes,,https://app.asana.com/0/0/1210829638265301/f,,,,
+1210840302229824,2025-07-21,2025-07-21,2025-07-21,"350 Marsden Rd, Carlingford, Room 1 -  High Bulb Replacement",Resolved,Alison ariel pitrovski,Alisonpitrovski@hotmail.com,,2025-07-21,,"https://app.asana.com/app/asana/-/get_asset?asset_id=1210840302229827
+
+
+",Maintenance Requests,"1/350 Marsden Rd, Carlingford - Bulb Replacement",,,,,,CLS VIC - Navid and James,,,,,,,,,,,,Oscar,Alyssa,,,,,,,address,,2025-07-21,yes,yes,https://app.asana.com/0/0/1210840302229824/f,,,,
+1210818594541807,2025-07-17,2025-07-21,2025-07-21,"350 Marsden Rd, Carlingford - Bins delivery",Resolved,Alexander Celis,logistics@cdacoliving.com,,2025-07-18,,"House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Bins
+
+Tenant Name:
+Ahmed Malik - Yasir Khan - Mohd Amaan
+
+In which area do you require maintenance?:
+Common area 
+
+Please provide more information:
+There are no bins in the home hence we need a big bin for the kitchen .
+
+Thankyou 
+
+Email address:
+Azmalikofficial@gmail.com
+
+Phone number:
+0423424292
+
+Authorisation to enter the room to undertake maintenance ASAP:
+No
+
+Please advise suitable date and time our team can enter:
+-----
+
+Email address:
+Azmalikofficial@gmail.com
+
+———————————————
+This task was submitted through Tenants Maintenance Requests
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Bins,"350 Marsden Rd, Carlingford",Common area ,,High - 3 days ,,,Azmalikofficial@gmail.com,Ahmed Malik - Yasir Khan - Mohd Amaan,,Oscar,Alyssa,,,,,,,address,,2025-07-17,yes,,https://app.asana.com/0/0/1210818594541807/f,,,,
+1210816868797076,2025-07-17,2025-07-18,2025-07-18,"350 Marsden Rd, Carlingford - Kitchen Bins (to buy)",Resolved,Alison ariel pitrovski,Alisonpitrovski@hotmail.com,,2025-07-18,,"https://app.asana.com/app/asana/-/get_asset?asset_id=1210816868797079
+
+Please buy 2 of these bins and leave them in the kitchen of the property, thank you",Maintenance Requests,"350 Marsden Rd, Carlingford - Bins delivery",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-07-17,yes,yes,https://app.asana.com/0/0/1210816868797076/f,,,,
+1210607837690505,2025-06-22,2025-07-04,2025-07-04,"350 Marsden Rd, Carlingford - Council pick up ",Resolved,Alexander Celis,logistics@cdacoliving.com,,2025-07-03,,"House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Rubbish pick up 
+
+Tenant Name:
+Altaibaatar Seseer
+
+In which area do you require maintenance?:
+Common area 
+
+Please provide more information:
+Remove the rubbish 
+
+Email address:
+altaibaatarseseer@gmail.com
+
+Phone number:
+0493346463
+
+Authorisation to enter the room to undertake maintenance ASAP:
+Yes
+
+———————————————
+This task was submitted through Tenants Maintenance Requests
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Council pick up,"350 Marsden Rd, Carlingford",Common area ,,Medium - 5 days,,,altaibaatarseseer@gmail.com,Altaibaatar Seseer,,Oscar,Alyssa,,,,,,,address,,2025-06-22,no,,https://app.asana.com/0/0/1210607837690505/f,,,,
+1210609951637596,2025-06-23,2025-07-04,2025-07-04,"350 Marsden Rd, Carlingford - Council pick up ",Resolved,Ricardo Alberto Corrales Rivera ,richicorrales24@gmail.com,,2025-07-02,,"https://app.asana.com/app/asana/-/get_asset?asset_id=1210609953922599
+
+https://app.asana.com/app/asana/-/get_asset?asset_id=1210609953922601
+
+Everything is on the property, we just need to put it outside for collection, please help me with this, thank you",Maintenance Requests,"350 Marsden Rd, Carlingford - Council pick up ",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-06-23,no,yes,https://app.asana.com/0/0/1210609951637596/f,,,,
+1210610258489210,2025-06-23,2025-07-04,2025-07-04,"24 hours 350 Marsden Rd, Carlingford - Council pick up ",Resolved,,,,2025-07-01,,,Maintenance Requests,"350 Marsden Rd, Carlingford - Council pick up ",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-06-23,no,yes,https://app.asana.com/0/0/1210610258489210/f,,,,
+1210551893903603,2025-06-15,2025-07-03,2025-07-03,"350 Marsden Rd, Carlingford - Internet",Resolved,Alexander Celis,logistics@cdacoliving.com,,2025-07-04,,"House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Internet
+
+Tenant Name:
+Altaibaatar Seseer
+
+In which area do you require maintenance?:
+Common area 
+
+Please provide more information:
+No internet
+
+Email address:
+altaibaatarseseer@gmail.com
+
+Phone number:
+0493346463
+
+Authorisation to enter the room to undertake maintenance ASAP:
+Yes
+
+Email address:
+altaibaatarseseer@gmail.com
+
+———————————————
+This task was submitted through Tenants Maintenance Requests
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Internet,"350 Marsden Rd, Carlingford",Common area ,,High - 3 days ,,,altaibaatarseseer@gmail.com,Altaibaatar Seseer,No ,Oscar,Alyssa,,,,,,,address,,2025-06-15,no,,https://app.asana.com/0/0/1210551893903603/f,,,,
+1210682814106038,2025-07-01,2025-07-01,2025-07-01,"[Duplicate] 350 Marsden Rd, Carlingford, Council pick up",Resolved,,,,2025-07-06,,"Select the department or team submitting this request:
+Maintenance
+
+Who is reporting?:
+⁠Juan Herrera
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Council pick up
+
+Please indicate room number if the maintenance item is related to a specific room:
+4
+
+Please provide more information:
+There are a lot of garbage outside the house…. 
+
+Email address:
+juansyd0909@gmail.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Council pick up,"350 Marsden Rd, Carlingford",,,Medium - 5 days,,⁠Juan Herrera,,,,Oscar,Alyssa,,,,Maintenance,,,address,,2025-07-01,yes,,https://app.asana.com/0/0/1210682814106038/f,,,,
+1210682742458859,2025-07-01,2025-07-01,2025-07-17,"[Duplicate] 350 Marsden Rd, Carlingford, Internet",Resolved,,,,2025-07-04,,"Select the department or team submitting this request:
+Maintenance
+
+Who is reporting?:
+⁠Juan Herrera
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Internet
+
+Please indicate room number if the maintenance item is related to a specific room:
+4
+
+Please provide more information:
+The internet isn’t working from 15 days ago 
+
+Email address:
+juansyd0909@gmail.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Internet,"350 Marsden Rd, Carlingford",,,High - 3 days ,,⁠Juan Herrera,,,,Oscar,Alyssa,,,,Maintenance,,,address,,2025-07-01,yes,,https://app.asana.com/0/0/1210682742458859/f,,,,
+1210626405837420,2025-06-24,2025-06-25,2025-06-25,"350 Marsden Rd, Carlingford, No water supply ",Resolved,,,,2025-06-26,,"House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+No water supply 
+
+Tenant Name:
+Altaibaatar Seseer
+
+In which area do you require maintenance?:
+Common area 
+
+Please provide more information:
+No water supply from today. Who is inpected the laundry room lock today? That guy leaved the living room balcony opened, and shut down entire water supply!!!
+
+Email address:
+altaibaatarseseer@gmail.com
+
+Phone number:
+0493346463
+
+Authorisation to enter the room to undertake maintenance ASAP:
+Yes
+
+———————————————
+This task was submitted through Tenants Maintenance Requests
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,No water supply ,"350 Marsden Rd, Carlingford",Common area ,,Urgent - 2 days,,,altaibaatarseseer@gmail.com,Altaibaatar Seseer,No ,Oscar,Alyssa,,,,,,,address,,2025-06-24,no,,https://app.asana.com/0/0/1210626405837420/f,,,,
+1210608394498095,2025-06-22,2025-06-24,2025-06-24,"350 Marsden Rd, Carlingford -Keys and door locks",Resolved,Alexander Celis,logistics@cdacoliving.com,,2025-06-24,,"House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Keys and door locks
+
+Tenant Name:
+Altaibaatar Seseer
+
+In which area do you require maintenance?:
+Common area 
+
+Please provide more information:
+Door and windows of laundry room has no lock. So someone can enter the house easily.
+
+Email address:
+altaibaatarseseer@gmail.com
+
+Phone number:
+0493346463
+
+Authorisation to enter the room to undertake maintenance ASAP:
+Yes
+
+———————————————
+This task was submitted through Tenants Maintenance Requests
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Keys and door locks,"350 Marsden Rd, Carlingford",Common area ,,High - 3 days ,,,altaibaatarseseer@gmail.com,Altaibaatar Seseer,,Oscar,Alyssa,,,,,,,address,,2025-06-22,no,,https://app.asana.com/0/0/1210608394498095/f,,,,
+1210609953581487,2025-06-23,2025-06-24,2025-07-04,"350 Marsden Rd, Carlingford - Laundry Door",Resolved,Thomas Barna,maintenance@cdacoliving.com,,2025-06-24,,"I know this door is too hard to close, I don't know if you can do something to fix it, I think those doors don't have wheels, that's why it's so hard to close, Let me know if it's possible or not to update the tenant. He's afraid someone will enter the property through the laundry room or be robbed.",Maintenance Requests,"350 Marsden Rd, Carlingford -Keys and door locks",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-06-23,no,yes,https://app.asana.com/0/0/1210609953581487/f,,,,
+1210597653460253,2025-06-20,2025-06-20,2025-06-20,"[Duplicate] 350 Marsden Rd, Carlingford, Internet",Resolved,,,,2025-06-23,,"House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Internet
+
+Tenant Name:
+Mohd Amaan
+
+In which area do you require maintenance?:
+Common area 
+
+Please provide more information:
+No wi-fi is working in the house 
+
+Email address:
+mohd.amaan0824@gmail.com
+
+Phone number:
+0450228809
+
+Authorisation to enter the room to undertake maintenance ASAP:
+Yes
+
+———————————————
+This task was submitted through Tenants Maintenance Requests
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,Internet,"350 Marsden Rd, Carlingford",Common area ,,High - 3 days ,,,mohd.amaan0824@gmail.com,Mohd Amaan,,Oscar,Alyssa,,,,,,,address,,2025-06-20,no,,https://app.asana.com/0/0/1210597653460253/f,,,,
+1210578777136787,2025-06-19,2025-06-20,2025-07-04,"350 Marsden Rd, Carlingford -Check Internet",Resolved,Alison ariel pitrovski,Alisonpitrovski@hotmail.com,,2025-06-20,,,Maintenance Requests,"350 Marsden Rd, Carlingford - Internet",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-06-19,no,yes,https://app.asana.com/0/0/1210578777136787/f,,,,
+1210551810622482,2025-06-15,2025-06-20,2025-06-20,"350 Marsden Rd, Carlingford, Kitchenware (Pans, pots, utensils)",Resolved,Alexander Celis,logistics@cdacoliving.com,,2025-06-20,,"House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+Kitchenware (Pans, pots, utensils)
+
+Tenant Name:
+Altaibaatar Seseer 
+
+In which area do you require maintenance?:
+Common area 
+
+Please provide more information:
+No pots, no frying pans in kitchen
+
+Email address:
+altaibaatarseseer@gmail.com
+
+Phone number:
+0493346463
+
+Authorisation to enter the room to undertake maintenance ASAP:
+Yes
+
+———————————————
+This task was submitted through Tenants Maintenance Requests
+https://form.asana.com/?k=7zYnw1IktR8WA6rGMrN1Bw&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,"Kitchenware (Pans, pots, utensils)","350 Marsden Rd, Carlingford",Common area ,,Medium - 5 days,,,altaibaatarseseer@gmail.com,Altaibaatar Seseer ,,Oscar,Alyssa,,,,,,,address,,2025-06-15,no,,https://app.asana.com/0/0/1210551810622482/f,,,,
+1210578777136789,2025-06-19,2025-06-20,2025-07-04,"350 Marsden Rd, Carlingford - Pick up pots and pans (read details) ",Resolved,Alison ariel pitrovski,Alisonpitrovski@hotmail.com,,2025-06-20,,"https://app.asana.com/app/asana/-/get_asset?asset_id=1210578777136792
+
+We made the purchase at Kmart but the delivery provider couldn't find the address and left the package at a nearby address (by car). Please go to the address and pick up the package and install the pots in the kitchen of the property.
+
+https://app.asana.com/app/asana/-/get_asset?asset_id=1210595698822484
+
+
+",Maintenance Requests,"350 Marsden Rd, Carlingford, Kitchenware (Pans, pots, utensils)",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-06-19,no,yes,https://app.asana.com/0/0/1210578777136789/f,,,,
+1210552808698704,2025-06-16,2025-06-19,2025-07-04,350 Marsden Road Carlingford - House Inspection for Sale,Resolved,,,,2025-06-17,,,Maintenance Requests,350 Marsden Road Carlingford - House Inspection for Sale,,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-06-16,no,yes,https://app.asana.com/0/0/1210552808698704/f,,,,
+1210552808698692,2025-06-16,2025-06-16,2025-07-04,"350 Marsden Rd, Carlingford - Check Internet",Resolved,,,,2025-06-16,,,Maintenance Requests,"350 Marsden Rd, Carlingford - Internet",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-06-16,no,yes,https://app.asana.com/0/0/1210552808698692/f,,,,
+1210552808698686,2025-06-16,2025-06-16,2025-07-04,"350 Marsden Rd, Carlingford - No pots, no frying pans",Resolved,,,,,,,Maintenance Requests,"350 Marsden Rd, Carlingford, Kitchenware (Pans, pots, utensils)",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-06-16,no,yes,https://app.asana.com/0/0/1210552808698686/f,,,,
+1210518432799190,2025-06-11,2026-01-09,2026-01-09,"350 Marsden Rd, Carlingford, OCR",Resolved,Ouanne Dumpit,ouanne@cdacoliving.com,,2025-06-13,,"Who is reporting?:
+Ouanne Garme
+
+House Address:
+350 Marsden Rd, Carlingford
+
+Type of Request:
+OCR
+
+Please indicate room number if the maintenance item is related to a specific room:
+House 1, #1169, 350 Marsden Rd, Carlingford
+
+Please provide more information:
+curtain is not attached
+a bar fell off
+
+Email address:
+ouanne@cdacoliving.com
+
+———————————————
+This task was submitted through CDA Team Maintenance Requests
+https://form.asana.com/?k=hgm_dpV602Hhef5h_YQscA&d=1201789231542521",Maintenance Requests,,,,,,,CLS VIC - Navid and James,,OCR,"350 Marsden Rd, Carlingford",,,,,Ouanne Garme,,,,Oscar,Alyssa,,,,,,,address+room_code,1169,2025-06-11,no,,https://app.asana.com/0/0/1210518432799190/f,,,,
+1210518433143201,2025-06-11,2025-06-12,2025-06-12,"350 Marsden Rd, Carlingford, Room 1 - curtain is not attached",,Hakan Dogan,hakan@cdacoliving.com,,2025-06-12,,,,"350 Marsden Rd, Carlingford, OCR",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-06-11,no,yes,https://app.asana.com/0/0/1210518433143201/f,,,,
+1210518433143202,2025-06-11,2025-06-12,2025-06-12,"350 Marsden Rd, Carlingford, Room 2 - light is not working",,Hakan Dogan,hakan@cdacoliving.com,,2025-06-12,,,,"350 Marsden Rd, Carlingford, OCR",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-06-11,no,yes,https://app.asana.com/0/0/1210518433143202/f,,,,
+1210518433143215,2025-06-11,,2025-06-13,"Room 5, #1173, 350 Marsden Rd, Carlingford - wall paint scratched  ",,,,,,,,,"350 Marsden Rd, Carlingford, OCR",,,,,,,,,,,,,,,,,,,,,,,,,,address+room_code,1173,2025-06-11,no,yes,https://app.asana.com/0/0/1210518433143215/f,,,,
+1210518433143226,2025-06-11,2025-06-12,2025-06-12,"350 Marsden Rd, Carlingford, Room 6 - damaged window screen ",,Hakan Dogan,hakan@cdacoliving.com,,2025-06-12,,,,"350 Marsden Rd, Carlingford, OCR",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-06-11,no,yes,https://app.asana.com/0/0/1210518433143226/f,,,,
+1210518433143227,2025-06-11,2025-06-12,2025-06-12,"350 Marsden Rd, Carlingford, Room 6 - Mattress Removal",,Hakan Dogan,hakan@cdacoliving.com,,2025-06-12,,"Please confirm if the mattress is really unnecessary. If it is, please leave it in the garage next door, thank you",,"350 Marsden Rd, Carlingford, OCR",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-06-11,no,yes,https://app.asana.com/0/0/1210518433143227/f,,,,
+1210518434545003,2025-06-11,2025-06-12,2025-06-12,"350 Marsden Rd, Carlingford, Room 6 - light switch detached",,Hakan Dogan,hakan@cdacoliving.com,,2025-06-12,,,,"350 Marsden Rd, Carlingford, OCR",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-06-11,no,yes,https://app.asana.com/0/0/1210518434545003/f,,,,
+1210518434545012,2025-06-11,,2025-06-13,"Room 7, #1175, 350 Marsden Rd, Carlingford - wall stained and cannot be cleaned",,,,,,,not urgent but adding it here,,"350 Marsden Rd, Carlingford, OCR",,,,,,,,,,,,,,,,,,,,,,,,,,address+room_code,1175,2025-06-11,no,yes,https://app.asana.com/0/0/1210518434545012/f,,,,
+1210518434545021,2025-06-11,2025-06-12,2025-06-12,"350 Marsden Rd, Carlingford, Room 7 - no curtain/blinds ",,Hakan Dogan,hakan@cdacoliving.com,,2025-06-12,,,,"350 Marsden Rd, Carlingford, OCR",,,,,,,,,,,,,,,,,,,,,,,,,,address,,2025-06-11,no,yes,https://app.asana.com/0/0/1210518434545021/f,,,,

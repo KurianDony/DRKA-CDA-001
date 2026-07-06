@@ -1,0 +1,25 @@
+target_kind,tenant,room_code,candidate_task_id,candidate_url,candidate_name,candidate_date,is_subtask,score,already_in_dataset
+T1_missing_moveout,Dhruv Janghu,1169,1213322591040000,https://app.asana.com/0/0/1213322591040000/f,"➡️ Room Transfer - Room 1, #1169, 350 Marsden Rd, Carlingford, Dhruv Janghu",2026-02-20,yes,5.0,yes
+T1_missing_moveout,Dhruv Janghu,1169,1215184405483504,https://app.asana.com/0/0/1215184405483504/f,"🔴 Room 8, #1491, 563 Pennant Hills Road, West Penna, Dhruv Janghu ",2026-06-29,,2.5,
+T1_missing_moveout,Dhruv Janghu,1169,1215613172192901,https://app.asana.com/0/0/1215613172192901/f,"[Duplicate] 🟠🟠 Room 8, #1491, 563 Pennant Hills Road, West Pennant Hills, Dhruv Janghu",2026-07-05,,2.5,
+T2_missing_movein,Yasir  Khan,1170,1210520924114448,https://app.asana.com/0/0/1210520924114448/f,"Ahmed Zahid Malik& Yasir Khan, Room 2, #1170, 350 Marsden Rd, Carlingford",2025-06-27,,4.5,yes
+T1_missing_moveout,Malik Ahmed,1170,1211383102869802,https://app.asana.com/0/0/1211383102869802/f,"Room 2, #1170, 350 Marsden Rd, Carlingford, Ahmed Zahid Malik & Yasir Khan",2025-09-27,,5.0,yes
+T1_missing_moveout,Malik Ahmed,1170,1211975180410788,https://app.asana.com/0/0/1211975180410788/f,"🛠️🛏️ Room 1, #062B, 32 Pitt St, Redfern, Ahmed Muiz bin Abdul Malik",2025-12-02,,2.5,
+T2_missing_movein,Altaibaatar Seseer,1171,1210493445236705,https://app.asana.com/0/0/1210493445236705/f,"Altaibaatar Seseer, Room 3, #1171, 350 Marsden Rd, Carlingford",2025-06-07,,4.5,
+T1_missing_moveout,Md Aftab Ahamed Ovi,1171,1216098477207302,https://app.asana.com/0/0/1216098477207302/f,"Room 3, #1171, 350 Marsden Rd, Carlingford, Md Aftab Ahamed Ovi",2026-07-03,,5.0,yes
+T1_missing_moveout,Md Aftab Ahamed Ovi,1171,1215355847925679,https://app.asana.com/0/0/1215355847925679/f,"Room 3, #1171, 350 Marsden Rd, Carlingford, Md Aftab Ahamed Ovi",2026-06-09,,5.0,yes
+T2_missing_movein,Mohd Amaan,1173,1210551509836239,https://app.asana.com/0/0/1210551509836239/f,"Mohd Amaan, House 1, #1169, 350 Marsden Rd, Carlingford",2025-06-17,,3.0,
+T2_missing_movein,Jason Vero,1173,1212791162989772,https://app.asana.com/0/0/1212791162989772/f,"Jason David Luzano Vero, Room 5, #1173, 350 Marsden Rd, Carlingford",2026-02-01,,4.5,yes
+T1_missing_moveout,Liam Charles Peters,1175,1213130654574942,https://app.asana.com/0/0/1213130654574942/f,"NT March 16 - Room 7, #1261, 12A Queen St, Concord West, Montague Charles Peter Goodwin",2026-03-13,,2.5,
+T1_missing_moveout,Liam Charles Peters,1175,1212230782598595,https://app.asana.com/0/0/1212230782598595/f,"Room 7, #1644, 17 Tracey Ave, Carlingford, House 2, Liam Charles Peters",2026-01-25,,2.5,
+T1_missing_moveout,Liam Charles Peters,1175,1210842271530495,https://app.asana.com/0/0/1210842271530495/f,"➡️ Room Transfer - Liam Charles Peters, 7/26/2025, Room 6, #1642, 17 Tracey Ave, Carlingford, House 1",2025-07-26,,2.5,
+T1_missing_moveout,MURSEL BATUHAN UCAR,1175,1211690507685286,https://app.asana.com/0/0/1211690507685286/f,"↔️ TEMP OCR/ICR - NT Nov 2 - Room 7, #1175, 350 Marsden Rd, Carlingford, Mursel Batuhan Ucar",2025-10-25,yes,5.0,yes
+T1_missing_moveout,MURSEL BATUHAN UCAR,1175,1212614889311337,https://app.asana.com/0/0/1212614889311337/f,"Room 3, #1814, 67 Alamein Ave, Carlingford, Mursel Batuhan Ucar",2025-12-22,,2.5,
+T3_overocc_moveout,Dhruv Janghu,1169,1213322591040000,https://app.asana.com/0/0/1213322591040000/f,"➡️ Room Transfer - Room 1, #1169, 350 Marsden Rd, Carlingford, Dhruv Janghu",2026-02-20,yes,5.0,yes
+T3_overocc_moveout,Dhruv Janghu,1169,1215184405483504,https://app.asana.com/0/0/1215184405483504/f,"🔴 Room 8, #1491, 563 Pennant Hills Road, West Penna, Dhruv Janghu ",2026-06-29,,2.5,
+T3_overocc_moveout,Dhruv Janghu,1169,1215613172192901,https://app.asana.com/0/0/1215613172192901/f,"[Duplicate] 🟠🟠 Room 8, #1491, 563 Pennant Hills Road, West Pennant Hills, Dhruv Janghu",2026-07-05,,2.5,
+T3_overocc_moveout,Malik Ahmed,1170,1211383102869802,https://app.asana.com/0/0/1211383102869802/f,"Room 2, #1170, 350 Marsden Rd, Carlingford, Ahmed Zahid Malik & Yasir Khan",2025-09-27,,5.0,yes
+T3_overocc_moveout,Malik Ahmed,1170,1211975180410788,https://app.asana.com/0/0/1211975180410788/f,"🛠️🛏️ Room 1, #062B, 32 Pitt St, Redfern, Ahmed Muiz bin Abdul Malik",2025-12-02,,2.5,
+T3_overocc_moveout,Liam Charles Peters,1175,1213130654574942,https://app.asana.com/0/0/1213130654574942/f,"NT March 16 - Room 7, #1261, 12A Queen St, Concord West, Montague Charles Peter Goodwin",2026-03-13,,2.5,
+T3_overocc_moveout,Liam Charles Peters,1175,1212230782598595,https://app.asana.com/0/0/1212230782598595/f,"Room 7, #1644, 17 Tracey Ave, Carlingford, House 2, Liam Charles Peters",2026-01-25,,2.5,
+T3_overocc_moveout,Liam Charles Peters,1175,1210842271530495,https://app.asana.com/0/0/1210842271530495/f,"➡️ Room Transfer - Liam Charles Peters, 7/26/2025, Room 6, #1642, 17 Tracey Ave, Carlingford, House 1",2025-07-26,,2.5,

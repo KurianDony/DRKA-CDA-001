@@ -1,0 +1,40 @@
+## Maintenance tasks (top-level: 38 reviewed, 8 flagged)
+
+- [1215989509830880](https://app.asana.com/0/0/1215989509830880/f) house-level | Rubbish collection (common area), High-3d priority; still OPEN since 2026-06-24 (due 2026-06-27) **HUMAN REVIEW: still-open rubbish item past due (acknowledged by Kurian 2026-07-05)**
+- [1215026715325444](https://app.asana.com/0/0/1215026715325444/f) house-level | Rubbish pick-up — bottles/mattresses in backyard; still OPEN since 2026-05-22 (due 2026-05-26, ~6 weeks overdue) **HUMAN REVIEW: still-open rubbish item long past due (acknowledged by Kurian 2026-07-05)**
+- [1214337628693186](https://app.asana.com/0/0/1214337628693186/f) house-level | Backyard lawns/gardening overgrown; still OPEN since 2026-04-28 (due 2026-05-03, ~2 months past Medium-5d target)
+- [1212644633271914](https://app.asana.com/0/0/1212644633271914/f) house-level | Cleaning Schedule 2026 umbrella task (monthly subtasks); OPEN by design, due 2026-12-31 — normal
+- [1215236156436666](https://app.asana.com/0/0/1215236156436666/f) R1 (#1104) | No ventilation / stuck window pane; resolved in 31 days (vs Medium-5d target)
+- [1214562978650236](https://app.asana.com/0/0/1214562978650236/f) house-level | Pest control — rats inside house + kitchen deep clean request; resolved in 44 days (vs Medium-5d target)
+- [1215270126279596](https://app.asana.com/0/0/1215270126279596/f) house-level | Internet not working (common area); resolved in 14 days — but form address states "389 cleveland street" while filed under 342 **HUMAN REVIEW: wrong-house indication (389 Cleveland in form body)**
+- [1214735971829254](https://app.asana.com/0/0/1214735971829254/f) R2 (#1105) | Mould issue in room; resolved in 31 days (vs High-3d target)
+- [1215243170167023](https://app.asana.com/0/0/1215243170167023/f) house-level | Smoke alarm dismounted at main entrance (safety); resolved in 12 days
+- [1214987222252103](https://app.asana.com/0/0/1214987222252103/f) house-level | Ceiling fan/light remote stopped working (tenant gave room "1007" — not a 342 room code); marked [Duplicate], closed in 5 days **HUMAN REVIEW: duplicate ticket of 1215093059043366; room code 1007 doesn't match this house (1104–1110)**
+- [1215093059043366](https://app.asana.com/0/0/1215093059043366/f) R4 (#1107) | Fan/light remote not working (same tenant as duplicate above); resolved in 3 days; form body says "343 Cleveland Street" — likely typo since room 1107 is valid here
+- [1213741808022337](https://app.asana.com/0/0/1213741808022337/f) R1 (#1104) | OCR — fan remote not working + fan cleaning; resolved in 54 days
+- [1214347814548248](https://app.asana.com/0/0/1214347814548248/f) house-level | Kitchen + bathroom faucet leaks; resolved in 15 days (vs Medium-5d target)
+- [1214349388919486](https://app.asana.com/0/0/1214349388919486/f) house-level | GF bathroom cabinet door broken, shelf about to fall; resolved in 11 days
+- [1214130679903839](https://app.asana.com/0/0/1214130679903839/f) house-level | Backyard weeding/gardener request; marked [Duplicate], closed in 10 days **HUMAN REVIEW: duplicate ticket (gardening request duplicated)**
+- [1213805328581262](https://app.asana.com/0/0/1213805328581262/f) R1 (#1104) | Move-in complaints: musty smell, squeaky bed, door can't lock, garage access; marked [Duplicate], closed in 7 days **HUMAN REVIEW: duplicate of Room 1 "Room issues" ticket 1213741808022337**
+- [1213319095966826](https://app.asana.com/0/0/1213319095966826/f) house-level | Rats reopened kitchen hole + cockroaches back; re-seal & pest control; resolved in 41 days (vs Medium-5d target)
+- [1213712206033473](https://app.asana.com/0/0/1213712206033473/f) R2 (#1105) | Keys missing from manager lockbox; resolved in 9 days
+- [1212331099614544](https://app.asana.com/0/0/1212331099614544/f) R2 (#1105) | Multiple issues at move-in: mould above door, cockroaches, fan light not working; resolved in 91 days
+- [1210682010526855](https://app.asana.com/0/0/1210682010526855/f) house-level | Cleaning for inspections (before/after photos); long-running task, resolved in 224 days
+- [1212972492635613](https://app.asana.com/0/0/1212972492635613/f) house-level | Storage-area lockbox not working (codes/app); resolved in 2 days
+- [1212736914760205](https://app.asana.com/0/0/1212736914760205/f) house-level | Multiple issues (structural damage, smoking oven, kitchen glass leak); resolved in 9 days
+- [1212712680531965](https://app.asana.com/0/0/1212712680531965/f) R2 (#1105) | Leaning wardrobe + ceiling fan light not working; resolved in 4 days
+- [1212595426227361](https://app.asana.com/0/0/1212595426227361/f) house-level | Pest control — rat in kitchen, scratching in floorboards; resolved in 16 days (vs Medium-5d target)
+- [1211041275952306](https://app.asana.com/0/0/1211041275952306/f) house-level | Weeding & garden maintenance (leaf removal); resolved in 145 days (vs Medium-5d target)
+- [1212274523285754](https://app.asana.com/0/0/1212274523285754/f) house-level | Full green bin at main entrance; resolved in 9 days
+- [1212233921442888](https://app.asana.com/0/0/1212233921442888/f) house-level | Storage area modification; resolved in 8 days
+- [1212303351150070](https://app.asana.com/0/0/1212303351150070/f) R5 (#1108) | Tenant locked out — main door passcode not working; resolved in 1 day
+- [1211810081637572](https://app.asana.com/0/0/1211810081637572/f) house-level | Serious roof leak — water into kitchen (from Room 3 bathroom above); Urgent-2d priority, resolved in 12 days
+- [1211017102105711](https://app.asana.com/0/0/1211017102105711/f) house-level | Pest control follow-up — rats still heard, eating stored food; resolved in 8 days
+- [1210784776735769](https://app.asana.com/0/0/1210784776735769/f) house-level | Preventive maintenance / routine inspection (15 Jul 2025); closed in 35 days
+- [1210911151709731](https://app.asana.com/0/0/1210911151709731/f) R4 (#1107) | Water leak from ceiling fan fixture + fan/light not working; Urgent-2d, resolved in 3 days
+- [1210899432949486](https://app.asana.com/0/0/1210899432949486/f) house-level | Pest control — mice heard in kitchen/corridor, trap replacement; resolved in 2 days
+- [1210469592574242](https://app.asana.com/0/0/1210469592574242/f) R6 (#1109, "Room 6A") | Mould in walls (escalated, incl. temporary relocation offer subtask); resolved in 54 days — padding zone (created 2025-06-05)
+- [1210911481998141](https://app.asana.com/0/0/1210911481998141/f) R4 (#1107) | Minor leak — same ceiling-fan water leak as 1210911151709731 (same tenant); marked [Duplicate], closed same day (0 days) **HUMAN REVIEW: duplicate ticket of 1210911151709731**
+- [1210704229013908](https://app.asana.com/0/0/1210704229013908/f) house-level | Kitchen smoke alarm beeping (low battery); resolved in 5 days
+- [1210497019187521](https://app.asana.com/0/0/1210497019187521/f) house-level | Common-area cleaning request + kitchen deep clean; resolved in 4 days — padding zone (created 2025-06-09)
+- [1210518496732056](https://app.asana.com/0/0/1210518496732056/f) house-level | Second-floor toilet broken, leaking into kitchen; marked [Duplicate], closed same day (0 days) — padding zone (created 2025-06-11) **HUMAN REVIEW: duplicate ticket (toilet/kitchen-leak issue)**

@@ -1,0 +1,18 @@
+## Move-out tasks (top-level: 11 reviewed, 6 flagged)
+
+- [1215425074500556](https://app.asana.com/0/0/1215425074500556/f) R2 | Wing | Real move-out 2026-06-17 (per ruling; supersedes 1214989030041968 after Marrickville temp → R2 2026-03-18 sequence); notice non-compliant, must pay to 2026-07-02; retention: no response.
+- [1214989030041968](https://app.asana.com/0/0/1214989030041968/f) R2 | Wing | Bare 2026-05-27 move-out task, no form data; superseded by Wing's actual sequence ending 2026-06-17 (task 1215425074500556). `[EXCLUDED per ruling]`
+- [1214921711169447](https://app.asana.com/0/0/1214921711169447/f) R3 | James | Eviction dated 2026-05-25 (AR EVICTED tag) was retracted per last task comment; real move-out is the 2026-07-18 task, outside the audit window. `[EXCLUDED per ruling]`
+- [1213979489803144](https://app.asana.com/0/0/1213979489803144/f) R4 | Asta | Move-out 2026-05-06, compliant notice, moving overseas; lease had ended 2026-03-03 (periodic). **HUMAN REVIEW: name says "NT May 9" but Due Date/form move-out is 2026-05-06 (name-date vs Due Date mismatch)**
+- [1213292306521428](https://app.asana.com/0/0/1213292306521428/f) R1 | Blake | Move-out 2026-03-16, compliant notice; lease had ended 2025-07-10 (periodic). **HUMAN REVIEW: name says "NT March 19" but Due Date/form move-out is 2026-03-16 (name-date vs Due Date mismatch)**
+- [1213197381147418](https://app.asana.com/0/0/1213197381147418/f) R2 | Daniel | Compliant notice; form move-out 2026-03-09 vs Due Date 2026-03-15 (6-day gap, paid-to 2026-03-14 — consistent with paid-to convention); $75 cleaning charge; NPS 1 (rats/noise). No flag.
+- [1211884074937124](https://app.asana.com/0/0/1211884074937124/f) R2 | Sebastian | Move-out 2025-12-08, compliant notice; lease end listed 2024-12-04 (periodic ~1yr); charges $185. **HUMAN REVIEW: name says "NT Dec 10" but Due Date/form move-out is 2025-12-08 (name-date vs Due Date mismatch)**
+- [1211844297626203](https://app.asana.com/0/0/1211844297626203/f) R4 | Seanna | Move-out 2025-12-02, compliant notice, moving to Netherlands. **HUMAN REVIEW: name says "NT Dec 4" but Due Date/form move-out is 2025-12-02 (name-date vs Due Date mismatch)**
+- [1210449861231261](https://app.asana.com/0/0/1210449861231261/f) R4 | Baldiri | Compliant notice; conflicting dates: form move-out 2025-06-14, paid-to 2025-06-30, earliest move-out 2025-07-01, Due Date 2025-07-20. **HUMAN REVIEW: four move-out-related dates spanning 36 days — actual vacate date unclear**
+- [1210531290858851](https://app.asana.com/0/0/1210531290858851/f) R5 | Daiana | Move-out 2025-07-12, on-time notice, no break fee; lease 2025-02-15→2025-05-14 then periodic; maintenance complaints, NPS 1. Dates in order, no flag.
+- [1210582488460062](https://app.asana.com/0/0/1210582488460062/f) R6 | Adrien | Room 6a #1109; move-out 2025-07-02, non-compliant notice, $360 break fee + $260 charges (lease 2025-04-17→2025-07-18, 82% expired). **HUMAN REVIEW: lease-end conflict — form says lease ends 2025-07-05 but recorded Lease End is 2025-07-18; if 07-05 is correct the break fee may not apply**
+
+Notes:
+- Name-date vs Due Date mismatches follow a consistent +2–3 day pattern (name date after Due Date; "NT <date>" likely a notice-to/paid-to date rather than an error), but flagged per audit rules for confirmation.
+- Prior-pass known items not present in this window's top-level rows: Antonio/Fabiola/Juan mismatches, Bhomik #1109 (his task 1215990864371658 is not in this filtered CSV), furniture-removal and lock-change ops tasks — all fall outside the filtered set.
+- House-level ops rows present in the CSV (Remove from Portfolio / Remove from Floor Plan Slides ×3 pairs) are subtasks and out of scope for this top-level review.
